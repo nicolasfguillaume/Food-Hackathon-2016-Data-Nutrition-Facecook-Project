@@ -1,0 +1,1416 @@
+id,famille,nom,energie,proteines,lipides,dontAGS,glucides,sucre,fibres,sodium,calcium,magnesium,fer,vitamineC,vitamineD,eau,allergene,vegetarien,visuel
+1,Abats,"cervelle, agneau, cuite",126,10.8,8.8,2.6,0.8,0,0,130,6.93,15.9,3.53,12,0,77.3,,,abats
+2,Abats,"cervelle, porc, braisee",138,12.1,9.51,2.15,1.07,0,0,91,9,12,1.82,14,0,75.9,,,abats
+3,Abats,"cervelle, veau, cuite",135,11.5,9.63,2.18,0.6,0,0,156,16,16,1.67,13,0,76.9,,,abats
+4,Abats,"coeur, agneau, cru",96.6,16.8,3.09,0.677,0.4,0.4,0,114,7.5,17,5.01,4,0.51,78.4,,,abats
+5,Abats,"coeur, agneau, cuit",94.9,16.7,2.95,0.597,0.38,0,0,63,14,24,5.34,7,0,79,,,abats
+6,Abats,"coeur, boeuf, cru",92.1,16.6,2.59,0.59,0.6,0.5,0,93.5,6.24,18.7,4.98,3,0.933,79.5,,,abats
+7,Abats,"coeur, boeuf, cuit",94.2,16.3,2.82,0.648,0.91,0,0,59,5,21,5.62,0,0.1,79,,,abats
+8,Abats,"coeur, dinde, cru",92.6,16.5,2.86,0.913,0.215,0,0,94,6,22,4.73,3,0,79.4,,,abats
+9,Abats,"coeur, dinde, cuit",98.8,16.4,3.44,0.65,0.565,0,0,90,7,26,5.39,2.8,0,78.3,,,abats
+10,Abats,"coeur, poulet, cru",93.2,16.4,2.76,0.564,0.7,0,0,69,12,16,5.2,3.2,0,79.5,,,abats
+11,Abats,"coeur, poulet, cuit",97.5,16.8,3.08,0.666,0.65,0,0,48,19,20,4.85,1.8,0,78.7,,,abats
+12,Abats,"foie, agneau, cru",136,19.1,5.15,1.47,3.25,0,0,73,6,19,6.94,19,0.5,71,,,abats
+13,Abats,"foie, agneau, cuit",213,26.4,9.09,3.39,6.49,0,0,90,8.5,22.5,7.53,11.5,0.51,56.4,,,abats
+14,Abats,"foie, genisse, cru",136,19,4.46,1.24,5.09,0,0,81,6,19,5.99,23,1.1,70.1,,,abats
+15,Abats,"foie, genisse, cuit",164,27.4,5.5,1.78,1.26,0,0,87.2,5.99,17.5,3.9,10.3,0.855,64.1,,,abats
+16,Abats,"foie, poulet, cuit",160,24.5,6.51,2.06,0.8,0,0,76,11,25,10.6,27.9,0,66.8,,,abats
+17,Abats,"foie, veau, cru",128,15.4,4.1,1.95,7.33,0,0,64.8,5.36,22.4,3.98,21,0.3,72.1,,,abats
+18,Abats,"foie, veau, cuit",142,25,3.96,0,1.57,0,0,89,9,28.3,5.05,13.2,2.52,67.7,,,abats
+19,Abats,"foie, volaille, cuit",155,24.7,6.21,0,0.17,0,0,268,7.04,18.1,4.8,0,0.2,67.4,,,abats
+20,Abats,"gesier, canard, confit, appertise",152,32.4,2.5,0.904,0,0,0,766,8.5,18.3,9.4,< 1,"< 0,5",63.9,,,abats
+21,Abats,"langue, boeuf, crue",186,15.1,13.8,5.19,0.4,0.4,0,75.3,8,16.7,2.26,2.93,0,67.7,,,abats
+22,Abats,"langue, boeuf, cuite",243,22.6,15.6,5.39,3.03,0,0,383,14.5,9.44,3.06,1.3,0.4,57.9,,,abats
+23,Abats,"langue, veau, cuite",216,23.4,13.6,5.1,0,0,0,64,9,18,2.34,6,0,60.5,,,abats
+24,Abats,"ris, veau, braise ou poele",127,21.8,4.46,1.09,0,0,0,59,4,24,0.87,39.4,0,73.6,,,abats
+25,Abats,"rognon d'agneau, braise",141,24.1,4.96,1.66,0,0,0,210,15.5,24.5,12.2,10.5,0,68.5,,,abats
+26,Abats,"rognon de veau, braise ou poele",167,26,7,1.33,0,0,0,0,0,0,5,0,0,67.7,,,abats
+27,Abats,"rognon, boeuf, cru",88.5,15.3,2.65,0.503,0.85,0.8,0,198,10.2,16,6.87,13.1,0.7,79.8,,,abats
+28,Abats,"rognon, boeuf, cuit",161,27.1,5.82,1.72,0,0,0,94,19,12,7.65,0,1.11,66.9,,,abats
+29,Abats,"rognon, porc, cuit",144,25.4,4.7,1.51,0,0,0,80,13,18,5.29,10.6,0,68.7,,,abats
+111,Autres matieres grasses animales,graisse de canard,898,0,99.8,33.2,0,0,0,0,0,0,0,0,4.8,0.2,,,matiere grasse (huile beurre)
+112,Autres matieres grasses animales,graisse d'oie,898,0,99.8,27.7,0,0,0,0,0,0,0,0,0,0.2,,,matiere grasse (huile beurre)
+113,Autres matieres grasses animales,huile de foie de morue,900,0,100,22,0,0,0,0.01,0.575,0.04,0.037,0,250,0,,,matiere grasse (huile beurre)
+114,Autres matieres grasses animales,huile de poisson,900,0,100,22,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+115,Autres matieres grasses animales,"lard gras, cru",654,7.36,69,24.6,1,0,0,640,29,9,0.777,0.0333,1.6,20.5,,,matiere grasse (huile beurre)
+116,Autres matieres grasses animales,saindoux,900,0.06,100,44,0,0,0,1.33,0.6,0.667,0.0533,0,0,0.875,,,matiere grasse (huile beurre)
+117,Beurres et matieres grasses laitieres,"beurre allege, 60-62% mg",562,2.1,61.2,39.4,0.6,0.5,0,20.7,36.8,3.8,< 1,< 1,0.7,36.7,,,matiere grasse (huile beurre)
+118,Beurres et matieres grasses laitieres,"beurre allege, 60-62% mg, demi0sel",532,2.1,58,37.4,0.5,0,0,450,33.4,3.45,0.595,0,0.6,39.5,,,matiere grasse (huile beurre)
+119,Beurres et matieres grasses laitieres,beurre demi0sel,732,0.7,80.8,54.8,< 1,0.06,0,774,16.5,4.94,0.154,0,1.13,15.3,,,matiere grasse (huile beurre)
+120,Beurres et matieres grasses laitieres,beurre doux,745,0.7,82.2,54.9,< 1,0.58,0,15.5,16.5,2.03,0.0873,0,1.01,15.6,,,matiere grasse (huile beurre)
+121,Beurres et matieres grasses laitieres,"beurre leger, 39-41% mg",359,7,36.3,23.1,1,0,0,0,0,0,0.1,0,0,56.7,,,matiere grasse (huile beurre)
+122,Beurres et matieres grasses laitieres,"beurre leger, 39-41% mg, demi0sel",388,7,39.6,22.6,1,1,0,0,23,8,0.1,0,0,51,,,matiere grasse (huile beurre)
+123,Beurres et matieres grasses laitieres,"matiere grasse laitiere e 20% mg, legere, e tartiner",208,0.36,21.1,10.5,4.2,0,0,228,22.7,2.3,< 1,< 1,0.7,72.1,,,matiere grasse (huile beurre)
+124,Beurres et matieres grasses laitieres,"matiere grasse laitiere e 25% mg, legere, e tartiner",262,0.9,25.6,16.3,6.9,0,0,286,18,2.5,< 1,< 1,"< 0,2",68.8,,,matiere grasse (huile beurre)
+125,Bieres et similaires,"biere ""coeur de marche"" (405° alcool)",32.3,0.367,0,0,1.64,1.64,0,4.44,< 9,7.37,"< 0,02",0,0,94.3,,,biere
+126,Bieres et similaires,"biere ""de specialites"" ou d'abbaye, regionales ou d'une brasserie (degre d'alcool variable)",47.8,0.4,0,0,3.5,0,0,3.7,4.9,7.9,0.012,0,0,91.3,,,biere
+127,Bieres et similaires,"biere ""speciale"" (5-6° alcool)",51.3,0.5,"< 0,1",0,3.24,3.24,0,1.92,5.89,9.84,0.006,0,0,90.8,,,biere
+128,Bieres et similaires,biere brune,35.3,0.3,0,0,4.71,4.1,0,15.9,6.94,6,0.02,0,0,92.7,,,biere
+129,Bieres et similaires,biere forte (>8° alcool),62,0.4,0,0,4.6,0,0,6.8,4.3,9,0.02,0,0,88.8,,,biere
+130,Bieres et similaires,"biere sans alcool (<1,2° alcool)",26,0.25,"< 0,1",0,4.67,2.72,0,2.51,5.73,5.53,0.011,0.1,0,94,,,biere
+131,Biscottes et pains non leves,biscotte classique,404,10.8,6.82,3.12,71.7,7.17,3.89,484,23.4,43.2,1.37,0,0.345,4.87,,,biscotte et pain non leve
+132,Biscottes et pains non leves,biscotte complete ou riche en fibres,400,12.2,7.24,2.41,65.6,7,9.2,487,40.6,77.8,3.1,0,0,3.7,,,biscotte et pain non leve
+133,Biscottes et pains non leves,biscotte multicereale,404,13,8.3,1.88,64.4,6.58,7.48,648,39.5,55.1,1.1,0,0,4.27,,,biscotte et pain non leve
+134,Biscottes et pains non leves,biscotte sans adjonction de sel,402,9.93,5.84,2.2,73.4,10.1,5.9,"< 12,1",23.5,22.5,1.3,0,0,4.32,,,biscotte et pain non leve
+135,Biscottes et pains non leves,blini,271,5.86,13.7,8.09,30.3,1.94,1.5,463,38.9,14.2,0.6,0,"< 0,5",47,,,biscotte et pain non leve
+136,Biscottes et pains non leves,chapelure,395,11.6,5.5,0.22,71.5,2.6,4.5,728,72.8,55.5,1.8,0,0,4.68,,,biscotte et pain non leve
+137,Biscottes et pains non leves,croetons,564,13.8,38,13.5,38.4,0,4.2,246,20,25,1.3,0,0,5,,,biscotte et pain non leve
+138,Biscottes et pains non leves,gressins,426,14.5,9.79,2.1,66.6,1.1,4,591,48,66.3,1.2,7,0,2.73,,,biscotte et pain non leve
+139,Biscottes et pains non leves,pain grille suedois au ble complet,397,10.3,7.48,1.04,67.3,8.2,7.51,635,26.8,60.9,1.6,0,0,4.97,,,biscotte et pain non leve
+140,Biscottes et pains non leves,pain grille suedois au froment,407,9.35,8.19,3.01,70.4,9.1,5.4,431,42.2,23.4,1,0,0,5.06,,,biscotte et pain non leve
+141,Biscottes et pains non leves,"pain grille, tranches, au froment",396,9.55,5.23,1.87,74.6,5.1,4.42,582,27,40.5,1.35,0,0,4.15,,,biscotte et pain non leve
+142,Biscottes et pains non leves,"pain grille, tranches, multicereale",409,11,8,2.21,68.5,6.85,7.5,630,30,66,9,0,0,2,,,biscotte et pain non leve
+143,Biscottes et pains non leves,pain pita,261,7.6,1.25,0,53.4,0,1.2,530,52.7,18.1,1,0,0,34.9,,,biscotte et pain non leve
+144,Biscottes et pains non leves,"tartine craquante, extrudee et grillee",382,9.6,3.9,0.819,74.2,8.47,3.85,599,42.3,29.8,1,0,0,6.4,,,biscotte et pain non leve
+145,Biscuits sales aperitifs,"biscuit aperitif e base de pomme de terre, type tuile salee",513,4.42,30.6,15.1,49.3,0,11.5,388,0,0,0,0,0,1.85,,,biscuits aperetifs
+146,Biscuits sales aperitifs,"biscuit aperitif souffle, e base de maïs, sans cacahuete",518,8.05,28.1,10.6,58,3.8,< 1,695,55.4,38.5,1.2,3.9,"< 0,5",1.81,,,biscuits aperetifs
+147,Biscuits sales aperitifs,"biscuit aperitif souffle, e base de pomme de terre",452,5.6,21,8.79,57.3,0.05,5.8,1440,36.5,44.3,1.37,0,0,5.6,,,biscuits aperetifs
+148,Biscuits sales aperitifs,"biscuit aperitif, crackers, allege en matiere grasse",415,10.2,9.64,2,68.8,3.47,6.28,618,72,29,2.9,0,0,4.05,,,biscuits aperetifs
+149,Biscuits sales aperitifs,"biscuit aperitif, crackers, garni ou fourre, au fromage",544,12.5,34.4,18.3,44.9,7.21,2.4,752,236,26.5,3.3,0,0,2.92,,,biscuits aperetifs
+150,Biscuits sales aperitifs,"biscuit aperitif, crackers, nature",483,8.5,20.7,9.07,64.4,6.6,2.35,582,34,31.9,4,0,0,1.54,,,biscuits aperetifs
+151,Biscuits sales aperitifs,chips de crevette,529,2,31.2,11.4,59,7.4,2.1,876,46,15.5,1.4,0,"< 0,2",3.5,,,biscuits aperetifs
+152,Biscuits sales aperitifs,chips de maïs ou tortilla chips,496,9.9,25.5,11.1,55.2,2.01,3,970,45.4,50,0.853,0,0,4,,,biscuits aperetifs
+153,Biscuits sales aperitifs,"pop-corn ou maïs eclate, e l'air, non sale",364,12.9,4.65,0.625,62,1.16,11.2,6,9,132,2.94,0,0,7.8,,,biscuits aperetifs
+154,Biscuits sales aperitifs,"pop-corn ou maïs eclate, e l'huile, sale",437,9.6,16.1,7.27,58.7,1,9.28,623,7.73,79,2.19,"< 0,5",0,4.97,,,biscuits aperetifs
+155,Biscuits secs sucres,biscuit moelleux fourre e l'orange et enrobe de sucre glace,354,4.28,1.96,0.704,79.3,53.7,1,5.9,139,10.1,0.7,< 1,"< 0,5",13.2,,,biscuits sucres
+156,Biscuits secs sucres,"biscuit sec (genoise) nappage aux fruits, type barquette",374,5.22,6.09,2.01,74.1,48.8,"< 2,2",140,82.5,30,1.37,"< 1,21","< 0,61",11.8,,,biscuits sucres
+157,Biscuits secs sucres,biscuit sec e teneur garantie en vitamines,457,9.6,14.2,6.22,72.4,23.3,< 1,62.3,37.5,54,2,3,0.55,1.8,,,biscuits sucres
+158,Biscuits secs sucres,biscuit sec e teneur garantie en vitamines et mineraux,476,10.7,19.8,8.64,62,22.1,3.5,176,579,195,6.4,< 1,"< 0,5",1.28,,,biscuits sucres
+159,Biscuits secs sucres,"biscuit sec au beurre, sable, galette ou palet",486,7.55,21.5,12.2,64.8,24.5,"< 3,5",313,26.2,16.2,1.97,0,0.1,2.75,,,biscuits sucres
+160,Biscuits secs sucres,"biscuit sec aux fruits, hyposode",443,10.8,15.8,6.87,61.4,20.2,6,15,45,40,1.95,0,0.25,5,,,biscuits sucres
+161,Biscuits secs sucres,biscuit sec aux oeufs e la cuillere (cuiller) ou boudoir,388,8.16,3.71,0.723,80.3,55,0.44,110,26.8,12.8,2.46,0,"< 0,2",6.94,,,biscuits sucres
+162,Biscuits secs sucres,biscuit sec avec nappage chocolat,503,6.56,24.1,12.5,64.1,35.9,1.71,227,94.7,51,4,< 1,"< 0,5",2.36,,,biscuits sucres
+163,Biscuits secs sucres,biscuit sec avec tablette de chocolat,493,6.74,22.8,14.7,64.4,34.9,"< 3,4",219,76.2,37.5,5.3,1.1,0,2.34,,,biscuits sucres
+164,Biscuits secs sucres,"biscuit sec chocolate, preemballe",490,6.7,24.1,12.6,60,30.8,3.15,247,59.4,40.2,3.21,0,0,4.79,,,biscuits sucres
+165,Biscuits secs sucres,"biscuit sec croquant (ex : tuile) sans chocolat, allege en matiere grasse",424,5.6,9.1,2.82,77.5,35.7,4.8,296,199,25.5,< 1,0,"< 0,2",1.5,,,biscuits sucres
+166,Biscuits secs sucres,"biscuit sec croquant au chocolat, allege en matiere grasse",432,7.8,12.3,4.88,69.4,23.1,6.25,513,85.3,72.1,2.14,0,"< 0,2",2.35,,,biscuits sucres
+167,Biscuits secs sucres,"biscuit sec feuillete, type palmier ou autres",515,6.15,26.9,13.1,60.9,17.8,2.5,371,14.4,12.9,1.92,0,0.92,2.31,,,biscuits sucres
+168,Biscuits secs sucres,biscuit sec fourre e la pâte ou puree de fruits,396,4.1,10.8,4.69,69.1,44.2,3.1,140,46,152,1.15,"< 0,5",0.25,12.1,,,biscuits sucres
+169,Biscuits secs sucres,"biscuit sec fourre aux fruits, allege en matiere grasse",391,4.7,7.2,2.71,75.3,39.2,3,230,59,15.6,< 1,0,"< 0,2",8.8,,,biscuits sucres
+170,Biscuits secs sucres,"biscuit sec ou tuile, aux amandes",449,7.8,14.8,4.17,69.5,30.8,3.2,312,50,36.7,1.15,0.02,0.18,3.9,,,biscuits sucres
+171,Biscuits secs sucres,biscuit sec petit beurre,440,8.2,12.7,7.86,72.5,21.6,"< 2,8",371,46.7,19.7,1.76,0.0233,0.055,2.42,,,biscuits sucres
+172,Biscuits secs sucres,biscuit sec pour petit dejeuner,461,5.25,17.9,7.37,67,25.9,5.28,288,165,97,3.96,0,"< 0,2",2.78,,,biscuits sucres
+173,Biscuits secs sucres,"biscuit sec, avec matiere grasse vegetale",451,8.2,14.5,5.4,70,22.6,4,272,54.2,37.1,2.16,0,0,2.28,,,biscuits sucres
+174,Biscuits secs sucres,"biscuit sec, tout type",475,6.5,19.8,6.34,66.2,23.6,3,255,10,14,0.4,0,0.4,3.52,,,biscuits sucres
+175,Biscuits secs sucres,cookie aux pepites de chocolat,504,6.52,25.4,12.3,61.3,31.3,1.98,401,35.6,61.4,2.44,< 1,"< 0,5",3.36,,,biscuits sucres
+176,Biscuits secs sucres,"gaufrette fourree, autre fourrage qu'aux fruits (chocolat, vanille, noisette, etc.)",524,6.02,28.2,20.5,60.1,30.7,"< 5,9",93,20.1,47.3,6.8,1,"< 0,2",1.85,,,biscuits sucres
+177,Biscuits secs sucres,"gaufrette fourree, aux fruits",366,5.2,0.994,0.272,84,46.5,0.31,106,24.5,28.8,< 1,0.3,"< 0,2",8.94,,,biscuits sucres
+178,Biscuits secs sucres,genoise seche fourree aux fruits et nappee de chocolat,396,3.97,11.4,6.54,69.1,51.2,< 1,97.4,220,37,1.9,< 1,"< 0,5",13.8,,,biscuits sucres
+179,Biscuits secs sucres,"goeter sec fourre (""sandwiche"") parfum chocolat",471,6.17,18.4,10.4,68.9,32.5,"< 5,5",220,147,45,3.3,< 1,"< 0,5",2.49,,,biscuits sucres
+180,Biscuits secs sucres,"goeter sec fourre (""sandwiche"") parfum fruits",412,5.31,9.98,2.95,73.2,31.1,4.2,178,0,0,0,0,0,6.41,,,biscuits sucres
+181,Biscuits secs sucres,"goeter sec fourre (""sandwiche"") parfum lait ou vanille",480,5.4,19.4,9.85,69.9,37.2,2.1,202,20.6,12.9,< 1,0,"< 0,2",2.2,,,biscuits sucres
+182,Biscuits secs sucres,langue de chat,435,5.19,11.4,4.86,76.4,39.5,3,207,21.8,15.4,0.6,"< 0,5","< 0,5",3.15,,,biscuits sucres
+183,Biscuits secs sucres,meringue,401,5.5,1.3,0.0864,91.8,91.8,0,93.1,4.3,4.14,0.35,0,0,1.12,,,biscuits sucres
+184,Biscuits secs sucres,"palmier, artisanal",522,5.84,31.9,18.7,50.3,23.1,5.3,504,15.3,11.2,2.14,0,"< 0,2",5.41,,,biscuits sucres
+185,Biscuits secs sucres,sable pâtissier,484,8.4,22.9,9.9,59.4,30.1,3.3,163,31.9,21.8,< 1,0,"< 0,2",5,,,biscuits sucres
+186,Biscuits secs sucres,"tartine craquante, extrudee et grillee, fourree au chocolat",428,8.1,13.4,4.54,66.2,0,5.1,126,173,56.2,3.7,0,0,5.5,,,biscuits sucres
+187,Biscuits secs sucres,"tartine craquante, extrudee et grillee, fourree au chocolat ou aux fruits",398,5.73,8.87,2.03,70.5,33,5.64,108,0,0,0,0,0,7.6,,,biscuits sucres
+188,Biscuits secs sucres,"tartine craquante, extrudee et grillee, fourree aux fruits",382,4.8,5.5,2.42,76,0,3.7,127,145,24.5,< 1,< 1,0,8.9,,,biscuits sucres
+189,Boissons rafraechissantes sans alcool,"boisson e l'eau minerale (ou de source) sucree et aromatisee, areme agrumes",4.44,0,0,0,1.11,1.11,0,1.2,11.7,2.3,0,0,0,98.9,,,soda
+190,Boissons rafraechissantes sans alcool,"boisson e l'eau minerale (ou de source) sucree et aromatisee, areme autre qu'agrumes",18.3,0,0,0,4.58,4.58,0,1.2,11.7,2.3,0,0,0,95.4,,,soda
+191,Boissons rafraechissantes sans alcool,boisson au jus de fruit et au lait,49.8,0.635,"< 0,1",0.0239,11.7,10.8,0,11.4,57.4,8.1,0.2,2.9,"< 0,5",87.2,,,soda
+192,Boissons rafraechissantes sans alcool,"boisson au soja ou tonyu, nature",44.3,2.9,2.04,0.275,3.31,2.81,0,22.3,15.7,16.4,0.414,0,0.18,91.3,,,soda
+193,Boissons rafraechissantes sans alcool,"boisson au the, aromatisee, ""light""",1.92,0,0,0,0.481,0,0,17,0,2.3,0,0,0,99.5,,,soda
+194,Boissons rafraechissantes sans alcool,"boisson au the, aromatisee, sucree",27.4,0,0,0,6.84,6.84,0,15.7,"< 2,72",1.2,0.00985,0,0,93.1,,,soda
+195,Boissons rafraechissantes sans alcool,"boisson cacaotee sucree, au lait",77.1,3.52,2.34,1.43,10,9.66,1,44,114,23,0.42,0.2,1.1,82.5,,,soda
+196,Boissons rafraechissantes sans alcool,boisson energisante,47.6,0,0,0,11.6,11.6,0,17,0,0,0,0,0,88,,,soda
+197,Boissons rafraechissantes sans alcool,"boisson gazeuse e la pomme (de 50 e 99% de fruits), sans sucre ajoute",48.6,0,0.325,0,11.2,10,0,7.78,2.92,1.94,0.1,0,0,88,,,soda
+198,Boissons rafraechissantes sans alcool,"boisson gazeuse e l'orange avec pulpe (environ 14% de fruits), sucree",40,"< 0,1","< 0,1",0.00599,9.62,9.62,0,4.37,4.62,2.66,0.0251,11,0,89.7,,,soda
+199,Boissons rafraechissantes sans alcool,"boisson gazeuse aux fruits (e moins de 10% de jus), ""light""",2.42,0,0.00444,0,0.337,0.337,0.00444,11.3,0,0,0,0,0,99.2,,,soda
+200,Boissons rafraechissantes sans alcool,"boisson gazeuse aux fruits (e moins de 10% de jus), sucree",37.5,"< 0,1","< 0,1",0,8.95,8.95,0.0117,0,0,2,0,0,0,90.4,,,soda
+201,Boissons rafraechissantes sans alcool,"boisson gazeuse aux fruits (de 10 e 50% de jus), sucree",43,0,0,0,10.5,10.5,0,5.52,"< 6,17",3.36,0.035,0,0,89.1,,,soda
+202,Boissons rafraechissantes sans alcool,"boisson plate e l'orange (10 e 50% de jus), sucree",42.6,0.1,"< 0,1",0,10.2,10.2,0,2.9,2.5,2.4,0.1,10.3,0,89.3,,,soda
+203,Boissons rafraechissantes sans alcool,boisson plate e l'orange (teneur en jus non specifiee),35.9,"< 0,1","< 0,1",0,8.55,8.55,0.05,5.18,8.98,2.98,0.0205,8.67,0,90.8,,,soda
+204,Boissons rafraechissantes sans alcool,"boisson plate aux fruits (10 e 50% de jus), e teneur reduite en sucre",19.6,0,0,0,4.68,3.97,0,14.9,0,0,0,0,0,95,,,soda
+205,Boissons rafraechissantes sans alcool,"boisson plate aux fruits exotiques (10 e 50% de jus), sucree",45.7,0.08,0.01,0,11.1,10.6,0,2.28,5.08,5.85,0,4,0,88.4,,,soda
+206,Boissons rafraechissantes sans alcool,"limonade ou clear lime, sucree",40.8,0,0,0,9.92,8.46,0,6.32,6.52,"< 0,583",0.00918,0,0,89.6,,,soda
+207,Boissons rafraechissantes sans alcool,"sirop, dilue",31.1,0.055,0,0,7.68,7.68,0,4.94,7.55,2.71,0.025,1.3,0,92.2,,,soda
+208,Boissons rafraechissantes sans alcool,"soda au cola, ""light""",1.28,0.0367,0.003,0,0.263,0,0,6.87,"< 3,76",2.38,0.0433,0,0,99.6,,,soda
+209,Boissons rafraechissantes sans alcool,"soda au cola, e teneur reduite en sucre",19.5,0,0,0,4.73,3.73,0,4,0,0,0,0,0,95,,,soda
+210,Boissons rafraechissantes sans alcool,"soda au cola, sucre",41,0.0233,0,0,9.95,9.95,0,5.42,"< 3,46",2.44,0.0367,0,0,89.5,,,soda
+211,Boissons rafraechissantes sans alcool,"soda sans jus de fruit, ""light""",0.579,0,0,0,0,0,0,10,20,0,0.05,0,0,99.9,,,soda
+212,Boissons rafraechissantes sans alcool,tonic,30.4,0,0,0,7.31,7.32,0,3.1,7.48,2.45,0.03,0,0,92.2,,,soda
+213,Bouillons prets e consommer,"bouillon de legumes, deshydrate reconstitue",4.75,0.3,0.15,0.0189,0.55,0.1,0,295,1,2,0.1,0,0,98,,,bouillon
+214,Bouillons prets e consommer,"bouillon de viande et legumes, pret e consommer",6.8,0.7,0.4,0.0633,0.1,0,0,222,1,2,0.1,0,0,98.1,,,bouillon
+215,Bouillons prets e consommer,"bouillon de viande, deshydrate reconstitue",8.04,1.11,0.4,0.0633,0,0.133,0,460,6,1.5,0.192,0,0,97.5,,,bouillon
+216,Bouillons prets e consommer,"bouillon de volaille, deshydrate reconstitue",9.16,0.495,0.5,0.07,0.67,0.6,0,420,5.5,1.5,0.025,0,0,97.1,,,bouillon
+217,"Cafe, the, infusions, boissons au cacao","boisson cacaotee sucree, soluble reconstituee",70.2,3.4,1.42,0.807,10.1,9.56,1.7,46.2,97.1,27.5,0.869,0,0.01,82.6,,,cafe
+218,"Cafe, the, infusions, boissons au cacao","boisson cacaotee sucree, soluble reconstituee, enrichie en vitamines",75.9,3.4,1.71,0.986,11.6,11.3,"< 0,5",54,109,19,0.5,2.09,0.01,82.6,,,cafe
+219,"Cafe, the, infusions, boissons au cacao","cacao, non sucre, poudre soluble",404,19.8,19.7,7.5,9,0.875,28.7,21,73,376,10.9,0,0,2.83,,,cafe
+220,"Cafe, the, infusions, boissons au cacao","cafe au lait, cafe creme ou cappuccino, non sucre",24.5,1.68,0.76,0.473,2.74,2.31,0,23.4,62.2,8.52,0.127,1.25,0.025,94.4,,,cafe
+221,"Cafe, the, infusions, boissons au cacao","cafe decafeine, non sucre",1.34,0.2,0.06,0.0288,0,0.2,0,6,3.33,29.7,0.127,0.0667,0,99.1,,,cafe
+222,"Cafe, the, infusions, boissons au cacao","cafe decafeine, soluble reconstitue, non sucre",0.24,0.06,0,0,0,0,0,2,2.5,4,0.02,0,0,99.1,,,cafe
+223,"Cafe, the, infusions, boissons au cacao","cafe expresso, non sucre",1.85,0.26,0.09,0.0432,0,0.3,0,8,4,80,0.165,0.1,0,99,,,cafe
+224,"Cafe, the, infusions, boissons au cacao","cafe noir, non sucre",0.488,0.107,0.00667,0.000667,0,0.2,0,1.85,"< 99,2",12,0.0278,0,0,99.4,,,cafe
+225,"Cafe, the, infusions, boissons au cacao","cafe soluble reconstitue, non sucre",0.2,0.05,0,0,0,0,0,7.14,27.2,19.1,0.109,0,0,99.1,,,cafe
+226,"Cafe, the, infusions, boissons au cacao","cafe, poudre soluble",299,17,0.17,0.0741,46.7,6.32,21.2,270,138,356,3.3,0,0,4.55,,,cafe
+227,"Cafe, the, infusions, boissons au cacao","chicoree et cafe, poudre soluble",358,11.5,5.53,0.0855,58.2,16.5,14.5,196,116,199,4.38,0,0,3.3,,,cafe
+228,"Cafe, the, infusions, boissons au cacao","chicoree, poudre soluble",311,4,0.07,0.0206,59.1,27.1,29.2,156,109,65,5.5,0,0,2.7,,,cafe
+229,"Cafe, the, infusions, boissons au cacao",poudre cacaotee sucree pour boisson (poudre ou granules),390,6.15,3.84,2.15,79.5,59.2,6.58,44.3,80.5,111,11.8,1,0,1.45,,,cafe
+230,"Cafe, the, infusions, boissons au cacao","poudre cacaotee sucree pour boisson, enrichie",380,3.5,2.63,1.59,82.9,80,5.3,3,34.5,72,2.2,30,0,2,,,cafe
+231,"Cafe, the, infusions, boissons au cacao","poudre maltee, cacaotee et sucree pour boisson",397,9,5.66,0.634,76.6,65.4,1.7,239,243,162,4.7,48,"< 0,5",2.82,,,cafe
+232,"Cafe, the, infusions, boissons au cacao","the infuse, non sucre",0.3,0.075,0,0,0,0,0,2.52,< 104,2.65,0.0444,0,0,99.7,,,the
+233,"Cafe, the, infusions, boissons au cacao","tisane infusee, non sucree",0,0,0,0,0,0,0,0.667,2,1,0.09,0,0,99.7,,,the
+234,Cereales petit dejeuner et barres cerealieres,"barre cerealiere ""equilibre"" au chocolat, enrichie en vitamines et mineraux",397,8.5,6.5,2.46,75.7,34.7,2,425,35,35,5.35,0,0,5,,,crereales
+235,Cereales petit dejeuner et barres cerealieres,"barre cerealiere ""equilibre"" aux fruits, enrichie en vitamines et mineraux",382,8,6.5,0.679,72.8,33.1,1.75,425,30,20,5.75,50,0,8.9,,,crereales
+236,Cereales petit dejeuner et barres cerealieres,"barre cerealiere e base de cereales pour petit dejeuner et de lait, enrichie en vitamines et mineraux",436,7,13.3,10.3,72,37.7,1.17,317,793,30,10.4,0,0,5,,,crereales
+237,Cereales petit dejeuner et barres cerealieres,barre cerealiere aux amandes ou noisettes,451,7,18.5,9.08,63.2,27.9,2,100,100,40,0,0,0,7.5,,,crereales
+238,Cereales petit dejeuner et barres cerealieres,barre cerealiere aux fruits,391,6.3,8.91,4.98,69.4,28.1,4.2,318,70,25,2.18,0.15,0,10,,,crereales
+239,Cereales petit dejeuner et barres cerealieres,barre cerealiere chocolatee,442,6.27,16.4,7.97,65.7,30.8,3.27,164,112,55.7,3.1,"< 0,5",0.62,6.22,,,crereales
+240,Cereales petit dejeuner et barres cerealieres,barre cerealiere dietetique hypocalorique,353,27,12.4,0.333,33.4,11.5,4.07,46.7,285,104,6.47,25.5,2.4,9.5,,,crereales
+241,Cereales petit dejeuner et barres cerealieres,"boules de maïs soufflees au miel, enrichies en vitamines et mineraux",386,5,1.63,0.359,86.7,32.8,2.02,310,253,20,7.78,0,0,3,,,crereales
+242,Cereales petit dejeuner et barres cerealieres,"cereales pour petit dejeuner ""equilibre"" au chocolat, enrichies en vitamines et mineraux",401,11.8,6.47,3.94,72.1,25.6,3.42,314,65,53.8,10.8,81,0,4.16,,,crereales
+243,Cereales petit dejeuner et barres cerealieres,"cereales pour petit dejeuner ""equilibre"" aux fruits, enrichies en vitamines et mineraux",383,14,2.7,1.48,73.4,23.6,4.44,489,56.8,58.3,10.6,90,0,3,,,crereales
+244,Cereales petit dejeuner et barres cerealieres,"cereales pour petit dejeuner ""equilibre"" nature, enrichies en vitamines et mineraux",382,12.7,1.33,0.367,78.3,17,2.83,557,60,47.5,15.4,100,0,2.81,,,crereales
+245,Cereales petit dejeuner et barres cerealieres,"cereales pour petit dejeuner chocolatees, non fourrees, enrichies en vitamines et mineraux",391,4.17,4,2.15,83.2,31,3,442,< 453,30.3,7.3,52.9,0,3.53,,,crereales
+246,Cereales petit dejeuner et barres cerealieres,"cereales pour petit dejeuner fourrees au chocolat ou chocolat0noisettes, enrichies en vitamines et mineraux",439,8.43,14.3,4.99,67.2,30.1,4.04,221,153,58.8,7.2,0,0,3.6,,,crereales
+247,Cereales petit dejeuner et barres cerealieres,"cereales pour petit dejeuner fourrees, fourrage autre que chocolat, enrichies en vitamines et mineraux",423,5.66,14.5,1.6,64.9,26.8,5,170,155,20,5.2,0,0,8.6,,,crereales
+248,Cereales petit dejeuner et barres cerealieres,"cereales pour petit dejeuner riches en fibres, enrichies en vitamines et mineraux",362,10.5,3.7,1.64,64.2,23.4,15,636,42,132,9.64,37.5,0,3.66,,,crereales
+249,Cereales petit dejeuner et barres cerealieres,"flocons d'avoine, cuits e l'eau",65.7,1.5,1.1,0.251,11.5,0.455,1.68,4,7,18,0.5,0,0,83.9,,,crereales
+250,Cereales petit dejeuner et barres cerealieres,"grains de ble souffles au miel ou caramel, enrichis en vitamines et mineraux",389,6.5,2.08,0.627,84.2,43,3.91,85.3,243,41.7,7.63,0,0,2,,,crereales
+251,Cereales petit dejeuner et barres cerealieres,"grains de ble souffles chocolates, enrichis en vitamines et mineraux",389,8.82,4.29,1.43,75.5,44.5,6.57,114,267,80,7.45,0,0,2.66,,,crereales
+252,Cereales petit dejeuner et barres cerealieres,"muesli croustillant au chocolat, enrichi en vitamines et mineraux",453,8.5,17.4,9.4,61.6,24,7.98,214,56.4,69.8,6.1,< 51,"< 0,5",2.76,,,crereales
+253,Cereales petit dejeuner et barres cerealieres,"muesli croustillant aux fruits ou fruits secs, enrichi en vitamines et mineraux",451,7.51,17.7,8.89,61.5,29.3,7.67,226,53.6,60.9,6.32,51,"< 0,5",4.03,,,crereales
+254,Cereales petit dejeuner et barres cerealieres,"muesli floconneux aux fruits ou fruits secs, enrichi en vitamines et mineraux",374,9,5.28,1.71,69.4,24,6.5,237,60,80,5.65,0,0,7.87,,,crereales
+255,Cereales petit dejeuner et barres cerealieres,"muesli floconneux aux fruits ou fruits secs, sans sucre ajoute",378,11.3,7.63,1.05,61.8,16,8.35,68.8,143,74.5,3.2,"< 0,5","< 0,5",9.18,,,crereales
+256,Cereales petit dejeuner et barres cerealieres,"multi0cereales soufflees ou extrudees, enrichies en vitamines et mineraux",415,7.5,8.75,3.1,75,28.5,3.27,375,252,60,6.95,51,0,3,,,crereales
+257,Cereales petit dejeuner et barres cerealieres,"petales de ble avec noix, noisettes ou amandes, enrichis en vitamines et mineraux",389,10.4,6.74,0.633,67.3,20.8,8.54,633,116,95,8.9,51,0,5,,,crereales
+258,Cereales petit dejeuner et barres cerealieres,"petales de ble chocolates, enrichis en vitamines et mineraux",390,4.5,3.12,1.87,83.7,37,4.44,217,328,55,7.7,51,0,2.35,,,crereales
+259,Cereales petit dejeuner et barres cerealieres,"petales de maïs glaces au sucre, enrichis en vitamines et mineraux",381,6,1.16,0.22,85.5,37.2,2.13,470,343,13.3,7.74,0,0,3.3,,,crereales
+260,Cereales petit dejeuner et barres cerealieres,"petales de maïs natures, enrichis en vitamines et mineraux",378,7.5,0.764,0.135,83.7,8,2.95,449,100,19.4,4.09,34,1.2,2.98,,,crereales
+261,Cereales petit dejeuner et barres cerealieres,"riz souffle au chocolat, enrichi en vitamines et mineraux",395,5.26,3.8,1.65,83.7,34.8,2.68,270,346,51,7.44,51,"< 0,5",2.78,,,crereales
+262,Cereales petit dejeuner et barres cerealieres,"riz souffle nature, enrichi en vitamines et mineraux",387,6.68,1.23,0.237,86.3,8.2,1.18,450,9.75,45,6.65,0,"< 0,5",2.24,,,crereales
+263,Charcuteries et salaisons,andouille,221,18.4,16.2,0,0.3,0,0,820,0,0,0,0,0,60.5,,,Charcuteries et salaisons
+264,Charcuteries et salaisons,"andouille, rechauffee e la poele",270,22.5,20,9.36,0,0,0,1130,18,12.2,2.4,< 1,"< 0,5",55.5,,,Charcuteries et salaisons
+265,Charcuteries et salaisons,"andouillette, poelee",276,24.5,19.3,8.66,1,"< 0,2",0,1090,35.6,9.6,2.3,< 1,"< 0,5",48.7,,,Charcuteries et salaisons
+266,Charcuteries et salaisons,"bloc de foie gras de canard, appertise",511,9,52.4,21.1,0.85,0,0,493,4.35,9.02,4.48,14.7,2.75,36.1,,,Charcuteries et salaisons
+267,Charcuteries et salaisons,"boudin blanc, poele",226,10.1,18.1,7.9,5.63,0,0,683,48.9,13,1.18,"< 0,5",0.605,61.4,,,Charcuteries et salaisons
+268,Charcuteries et salaisons,"boudin noir, poele",261,14.8,21.6,11.5,1.8,1.29,0,749,27.2,8.5,22.8,0,0.75,53.9,,,Charcuteries et salaisons
+269,Charcuteries et salaisons,cervelas,292,12,26.5,10.4,1.3,0,0,822,32.6,20.4,0.5,18.1,"< 0,5",61.1,,,Charcuteries et salaisons
+270,Charcuteries et salaisons,"chipolata, cuite",338,19,25.4,9.2,8.38,0,0,855,11.8,28.1,1.27,0,0,45.8,,,Charcuteries et salaisons
+271,Charcuteries et salaisons,chorizo,477,21.1,42.1,14.6,3.5,1.15,0,1730,35.8,27.5,2.8,0,"< 0,2",26.3,,,Charcuteries et salaisons
+272,Charcuteries et salaisons,confit de canard,217,30.7,10.5,4.8,0,0,0,944,9.6,17.5,2.4,< 1,1.8,57.3,,,Charcuteries et salaisons
+273,Charcuteries et salaisons,coppa,232,23.9,15.1,2.94,0.2,0.2,0,1500,39.3,41.5,1.1,19.1,1.27,51.9,,,Charcuteries et salaisons
+274,Charcuteries et salaisons,"filet de bacon, cuit",116,23,2.3,0.887,0.7,0,0,1260,0,0,0,0,0,68.2,,,Charcuteries et salaisons
+275,Charcuteries et salaisons,"foie gras de canard, appertise ou pasteurise",485,6.9,50.1,22.9,1.6,0,0,409,0,0,0,31,0,36.5,,,Charcuteries et salaisons
+276,Charcuteries et salaisons,fromage de tete,168,14.7,12,4.19,0.2,"< 0,3",0,830,13.1,9,1.23,0,0.835,66.5,,,Charcuteries et salaisons
+277,Charcuteries et salaisons,galantine,239,15.9,16.5,5.83,6.52,0,0.5,810,0,0,0,0,0,58.4,,,Charcuteries et salaisons
+278,Charcuteries et salaisons,jambon cru,232,21.1,16.2,5.74,0.45,"< 0,9",0,2080,10.4,36.2,0.969,13,"< 0,6",51.4,,,Charcuteries et salaisons
+279,Charcuteries et salaisons,"jambon cru, fume",225,24,14.3,5.2,0.1,0,0,1990,5.16,20,0.9,13,"< 0,5",52.6,,,Charcuteries et salaisons
+280,Charcuteries et salaisons,jambon cuit,121,17.9,4.93,0.399,1.26,1.26,0,829,7.14,28.1,0.838,10.6,0.625,73,,,Charcuteries et salaisons
+281,Charcuteries et salaisons,jambon cuit superieur,114,21.1,3.02,0.885,0.6,"< 0,2",0,716,< 20,22.5,"< 0,7",0,"< 0,25",73.4,,,Charcuteries et salaisons
+282,Charcuteries et salaisons,"jambon cuit superieur, dd",114,20.9,3.15,1.08,0.425,< 1,0,745,7.2,20.9,0.9,5.3,0.3,73.1,,,Charcuteries et salaisons
+283,Charcuteries et salaisons,"jambon cuit, de paris, dd",107,18,3.12,0.876,1.8,0.55,0,783,7,26.3,1.12,11.2,"< 0,5",73.2,,,Charcuteries et salaisons
+284,Charcuteries et salaisons,"jambon cuit, fume",101,19,2.59,0.641,0.45,0.367,0,1890,4.3,23.5,1.84,0,0.314,71.7,,,Charcuteries et salaisons
+285,Charcuteries et salaisons,jambon de volaille,107,21.4,2.14,0.722,0.5,0.462,0,730,10,24.6,0.3,10,"< 0,5",72.7,,,Charcuteries et salaisons
+286,Charcuteries et salaisons,jambon en croete,246,14.5,14.2,4.46,14.8,1.58,0.6,727,21.3,19.5,0.956,7.21,0.464,52.2,,,Charcuteries et salaisons
+287,Charcuteries et salaisons,"jambon sec, decouenne, degraisse",195,26.6,9.07,3.29,1.77,0.3,0,2430,16.3,25.5,1.06,0,0,54.8,,,Charcuteries et salaisons
+288,Charcuteries et salaisons,"jambonneau, cuit",144,20.6,6.41,1.96,1.1,0.757,0,910,0,0,0,0,0,72.2,,,Charcuteries et salaisons
+289,Charcuteries et salaisons,"lardon fume, cru",264,16.4,21.8,8.25,0.6,0.46,0,1290,18.2,23.8,0.8,0.9,0.475,57.6,,,Charcuteries et salaisons
+290,Charcuteries et salaisons,"lardon fume, cuit",258,14.7,22.1,2.84,0,0,0,1040,10,21,0.82,0,1.1,61.7,,,Charcuteries et salaisons
+291,Charcuteries et salaisons,"lardon nature, cru",266,15.4,22.5,8.51,0.4,0.4,0,1230,< 20,15.6,"< 0,5",0.633,0.84,55.4,,,Charcuteries et salaisons
+292,Charcuteries et salaisons,"lardon nature, cuit",329,23.8,25.1,11.1,2,0,0,1650,7.5,22,0.5,0,"< 0,5",45,,,Charcuteries et salaisons
+293,Charcuteries et salaisons,"merguez, boeuf et mouton, cuite",283,19.8,22.6,11.2,0.215,"< 1,22",0,925,35.9,22.6,2.01,< 1,"< 0,5",52.4,,,Charcuteries et salaisons
+294,Charcuteries et salaisons,mortadelle,313,14.1,27.9,10.3,1.4,0,0,851,36.5,26.9,0.8,0,0.775,55.1,,,Charcuteries et salaisons
+295,Charcuteries et salaisons,mousse de foie,317,10.5,28.9,10.5,3.62,2.53,0,766,"< 30,2",11.7,4.02,0,0.262,54.1,,,Charcuteries et salaisons
+296,Charcuteries et salaisons,museau de porc vinaigrette,281,14.4,24.5,2.79,0.8,0,0,611,14.6,7.8,1.4,0,0,57.3,,,Charcuteries et salaisons
+297,Charcuteries et salaisons,pancetta ou poitrine roulee seche,355,21.3,29.8,11.5,0.35,"< 0,1",0,2330,20,0,0.8,0,0.675,44.7,,,Charcuteries et salaisons
+298,Charcuteries et salaisons,pâte de campagne,333,14.7,28.9,10.4,3.47,0.88,0.2,1190,26.1,18.2,5.5,5.9,"< 0,25",53.7,,,Charcuteries et salaisons
+299,Charcuteries et salaisons,pâte de foie de porc,346,10.6,32.7,11.9,2.3,0,0.2,660,28.2,8.05,3.16,10.5,0,51.2,,,Charcuteries et salaisons
+300,Charcuteries et salaisons,pâte de foie de volaille,234,11.9,18,4,6,0,0,386,10,13,9.19,10.5,0.4,60.2,,,Charcuteries et salaisons
+301,Charcuteries et salaisons,pâte de lapin,274,14.8,23,6.54,2,2,0,341,12.5,26,3.05,0.74,0.47,62.1,,,Charcuteries et salaisons
+302,Charcuteries et salaisons,pâte en croete,270,11.9,19.7,8.58,11.8,1.2,1,662,17.8,13.9,1.43,4.5,0.6,47.8,,,Charcuteries et salaisons
+303,Charcuteries et salaisons,"poitrine de porc, fumee, crue",312,16.5,27.3,8.3,0,0.6,0,1400,0,0,0,0,0,54.1,,,Charcuteries et salaisons
+304,Charcuteries et salaisons,"quenelle au naturel, appertisee",199,4.9,15.7,6.04,9.33,0,0.6,501,22.4,6.3,0,0,0,68.9,,,Charcuteries et salaisons
+305,Charcuteries et salaisons,"quenelle de volaille, appertisee",185,6.8,13,5.34,9.93,1,0.6,913,35.4,6.43,0.79,0.51,0.36,67.9,,,Charcuteries et salaisons
+306,Charcuteries et salaisons,"quenelle en sauce, appertisee",151,3.6,11.3,3.37,8.54,0,0.6,536,25.1,8.1,0,0,0,75.3,,,Charcuteries et salaisons
+307,Charcuteries et salaisons,rillettes de viandes autres que pur porc (volaille...),424,15.1,40.3,15.4,0.117,0.1,0,450,11.2,17,0.947,"< 0,5","< 0,5",43.2,,,Charcuteries et salaisons
+308,Charcuteries et salaisons,rillettes pur porc,410,14.2,39.2,13.3,0.1,0.1,0,474,< 20,15.7,1,0,0.637,44.3,,,Charcuteries et salaisons
+309,Charcuteries et salaisons,rillettes traditionnelles de porc,417,14.3,39.9,15.3,0.1,0.1,0,1600,0,0,1,0,0,40.5,,,Charcuteries et salaisons
+310,Charcuteries et salaisons,rosette ou fuseau,402,24.9,32.7,11.3,2,0.3,0,1560,44,40.3,1.2,2.3,1.11,39,,,Charcuteries et salaisons
+311,Charcuteries et salaisons,salami,482,18.1,45,16.9,1.23,1.23,0,1720,19.2,15.7,2,5.67,0.98,31.6,,,Charcuteries et salaisons
+312,Charcuteries et salaisons,saucisse alsacienne fumee ou gendarme,351,21,28.2,8.56,3.31,0,0,1100,18.3,21.3,2.2,16.8,"< 0,5",44.1,,,Charcuteries et salaisons
+313,Charcuteries et salaisons,saucisse cocktail,299,12.7,27,10.2,1.35,0,0,828,33.7,15.4,0.853,8.8,"< 0,5",56.8,,,Charcuteries et salaisons
+314,Charcuteries et salaisons,saucisse de francfort,293,12.1,26.7,9.87,1.15,0.151,0,974,31.5,11,2.1,0,0.262,56.7,,,Charcuteries et salaisons
+315,Charcuteries et salaisons,saucisse de montbeliard,325,15.7,28.8,11.5,0.7,0,0,931,29.9,26.8,0.5,"< 0,5","< 0,5",50.5,,,Charcuteries et salaisons
+316,Charcuteries et salaisons,"saucisse de morteau, cuite e l'eau",333,15.2,30.2,11.7,0,0,0,809,8.4,15,0.8,< 1,"< 0,5",51.7,,,Charcuteries et salaisons
+317,Charcuteries et salaisons,saucisse de strasbourg,287,12.5,25.9,9.18,1,0.516,0,834,25,13.1,1.1,9.4,0.262,57,,,Charcuteries et salaisons
+318,Charcuteries et salaisons,"saucisse de toulouse, cuite",311,18.8,25.7,9.44,1.1,0.6,0,686,11.5,18.2,0.9,< 1,"< 0,5",54.9,,,Charcuteries et salaisons
+319,Charcuteries et salaisons,saucisson e l'ail,286,14.6,25,8.92,0.7,0,0,1300,9,9,2.3,2.5,0,54.8,,,Charcuteries et salaisons
+320,Charcuteries et salaisons,saucisson sec,410,26.5,33.2,12.5,1.23,0.1,0,1890,14.6,31.7,1.28,5,0.5,30.1,,,Charcuteries et salaisons
+321,Charcuteries et salaisons,saucisson sec pur porc,405,26.2,32.9,12.4,"< 1,9","< 1,9",0,1980,"< 22,2",26.7,2,5,0.55,35,,,Charcuteries et salaisons
+322,Charcuteries et salaisons,terrine de canard,310,15.2,26.1,9.78,3.53,0,0,615,40.4,10.1,3.1,3.2,1.55,52.8,,,Charcuteries et salaisons
+323,Charcuteries et salaisons,viande des grisons,201,37.4,5.47,0,0.62,0.3,0,1580,30.8,46.6,1.8,"< 0,5","< 0,5",53.5,,,Charcuteries et salaisons
+324,Chocolats et produits e base de chocolat,"barre e la noix de coco, enrobee de chocolat",481,3.99,24.7,18.9,60.3,48,1.59,96.7,81.4,42.7,2.06,"< 0,583",0.0295,8.2,,,chocolat
+325,Chocolats et produits e base de chocolat,barre chocolatee aux fruits secs,494,7.71,24,11.8,61.3,46.3,1.22,190,125,13.6,1.3,0,0.03,4.44,,,chocolat
+326,Chocolats et produits e base de chocolat,barre chocolatee biscuitee,487,6.3,23.1,13.3,62.2,40.6,2.8,233,98.6,40.2,1.87,0.625,0.0578,4.55,,,chocolat
+327,Chocolats et produits e base de chocolat,barre chocolatee non biscuitee enrobee,465,4.55,20.3,9.74,65.6,59.4,1.24,189,109,32.6,3.59,0.54,0.046,7.03,,,chocolat
+328,Chocolats et produits e base de chocolat,barre goeter frais au lait et cacao,550,8.1,35.1,19.6,48.4,33.3,4.3,50.3,174,47.2,0.9,"< 0,5",0.53,2.52,,,chocolat
+329,Chocolats et produits e base de chocolat,cacahuetes enrobees de chocolat drageifiees,514,9.36,25.4,9.76,60.5,53.5,2.73,64.6,112,146,1.6,1.21,0.036,1.23,,,chocolat
+330,Chocolats et produits e base de chocolat,"chocolat au lait aux cereales croustillantes, tablette",532,7.64,29.2,15.5,58.4,50.5,2.43,229,155,58,2.65,0.6,0,0.7,,,chocolat
+331,Chocolats et produits e base de chocolat,"chocolat au lait aux fruits secs (noisettes, amandes, raisins, praline), tablette",556,9.05,34.5,9.51,50.8,44.6,3.09,108,166,89.2,2.32,0,"< 0,5",0.633,,,chocolat
+332,Chocolats et produits e base de chocolat,"chocolat au lait, tablette",545,7.68,31.6,18.9,56.9,50.5,1.2,50.9,178,77.7,4.24,0,0,0.98,,,chocolat
+333,Chocolats et produits e base de chocolat,"chocolat blanc, tablette",551,8,32,19.6,57.7,57.1,0,55,262,26,0.2,0,0,0.568,,,chocolat
+334,Chocolats et produits e base de chocolat,"chocolat noir e 40% de cacao minimum, e pâtisser ou e croquer, tablette",526,4.9,30.2,18.1,54.9,40.4,7.3,19.1,130,84.2,17.1,"< 0,5",< 5,"< 1,03",,,chocolat
+335,Chocolats et produits e base de chocolat,"chocolat noir e 70% cacao minimum, extra, degustation, tablette",572,9.25,41.9,30.6,33.3,21.3,12.6,4.14,60,206,10.7,0,0,0.565,,,chocolat
+336,Chocolats et produits e base de chocolat,"chocolat noir aux fruits secs (noisettes, amandes, raisins, praline), tablette",553,6.52,37,18.8,44,40.5,8.9,0.005,95,140,11,0,2.24,"< 1,6",,,chocolat
+337,Chocolats et produits e base de chocolat,"chocolat noir, e 70% cacao, extra, degustation, sans sucres ajoutes, edulcore, tablette",546,7.37,43.9,26.3,36.8,2,10.1,0.00633,60,149,10.7,0,0,0.6,,,chocolat
+338,Chocolats et produits e base de chocolat,confiserie au chocolat drageifiee,505,7.09,23.8,14.3,65,57.8,1.28,124,231,40.5,12.5,0.949,0.309,1.8,,,chocolat
+339,Chocolats et produits e base de chocolat,pâte e tartiner chocolat et noisette,527,6.64,28.9,8.47,58.2,57.6,4,42.7,106,88,2.9,< 1,0,0.914,,,chocolat
+340,Cidres et similaires,cidre brut,32.8,0,0,0,2.35,2.35,0.5,3.98,5.46,3.21,0.84,14.1,0,93.7,,,biere
+341,Cidres et similaires,cidre doux,27.1,0,0,0,3.21,3.21,0.5,2.9,8.9,3.7,0.84,14.1,0,94.1,,,biere
+342,Cidres et similaires,cidre traditionnel,30.6,0,0,0,1.81,1.81,0.5,3.7,9.9,3.8,0.74,14.1,0,94.2,,,biere
+343,Cocktails,aperitif e base de vin ou vermouth,133,0,0,0,11.4,11.4,0,12.7,10,9,0.8,0,0,75.9,,,vin
+344,Cocktails,aperitif anise sans alcool,0.55,0.02,0.03,0,0.05,0.03,0,12.7,1.83,0.33,0,0,0,99.9,,,vin
+345,Cocktails,cocktail sans alcool (e base de jus de fruits et de sirop),53.3,0.443,0.134,0.00772,12.4,10.8,0.364,2.24,12.8,8.31,0.105,27.7,0,86.4,,,vin
+346,Cocktails,kir (au vin blanc),89.7,0.179,0,0,6.72,5.55,0.65,1.56,6.88,5.09,0.668,18.4,0,83.5,,,vin
+347,Cocktails,kir royal (au champagne),95.3,0.1,0,0,7.47,5.66,0.65,1.56,6.88,5.09,0.561,18.4,0,82.5,,,vin
+348,Cocktails,panache (biere + limonade),36.3,0.22,0.015,0,5.4,5.4,0,2.07,"< 0,765",0.361,0.0575,0.08,0,92.2,,,vin
+349,Cocktails,"pastis, pret e boire (1+ 5)",44,0,0,0,0.5,0,0,3.53,21.1,1.62,0.0291,0,0,93.5,,,vin
+350,Cocktails,sangria,85.1,0.345,0.104,0.0228,9.35,8.68,0.575,3.39,9.35,10.7,0.373,12.1,0,83,,,vin
+351,Complements alimentaires,germe de ble,381,26.4,9.05,1.2,39.7,12,14,11.7,26.7,256,8.59,0,0,6.9,,,0
+352,Complements alimentaires,levure alimentaire,362,48,5.4,0.7,23.7,8,13.4,40,130,170,5,0,0,3.6,,,0
+353,Confiseries non chocolatees,"bonbon au caramel, mou",430,2.95,8.04,5.37,86.5,0,0,182,95.6,17.4,0.55,"< 0,5","< 0,5",1.42,,,bonbons
+354,Confiseries non chocolatees,bonbon gelifie,347,6.28,0.25,0.24,79.8,64.5,"< 0,5",8.55,5,1.67,0.265,0,0,12.3,,,bonbons
+355,Confiseries non chocolatees,"bonbons, tout type",403,1.86,6.92,4,83.2,83.2,0.25,61.4,26.5,19.6,0.693,0,0,7.03,,,bonbons
+356,Confiseries non chocolatees,"chewing0gum, sans sucre",221,0.3,0.4,0.058,88,0,2.4,54.5,20,93,5,0,0,3.55,,,bonbons
+357,Confiseries non chocolatees,"chewing0gum, sucre",374,0.133,0.3,0.041,92,81.4,1.6,9.67,0,47,1.67,0,0,2.87,,,bonbons
+358,Confiseries non chocolatees,nougat ou touron,450,6.12,15.3,2.12,71.3,64.1,1.47,158,36.7,32,1.58,0,0,4.78,,,bonbons
+359,Confiseries non chocolatees,pâte de fruits,316,1.18,1.89,0.459,71.1,71.1,4.75,53.6,52,39.7,0.627,0.86,0,20.2,,,bonbons
+360,Confitures,"confiture allegee en sucre, tout type",180,0.493,"< 0,2",0.02,43.6,43.6,1.3,< 33,12.3,7,"< 0,1",< 1,0,54.2,,,confiture
+361,Confitures,confiture d'abricot,232,0.3,"< 0,25",0.01,56.6,53.4,1.44,15.4,9.1,5,< 1,2.5,0,41.1,,,confiture
+362,Confitures,confiture de cerise,245,0.47,"< 0,22",0.0315,59.9,54.5,1.1,21.1,10.5,6.2,2,0.8,0,38,,,confiture
+363,Confitures,confiture de fraise,262,0.4,"< 0,7",0.0335,64,60,"< 1,6",15,10.4,6.1,"< 0,1",2.65,0,37.3,,,confiture
+364,Confitures,confiture de framboise,246,0.5,0.6,0.0986,58.6,50.8,1.92,10.7,10.5,7.8,0,2.7,0,38.4,,,confiture
+365,Confitures,confiture de myrtilles,250,0.4,0.25,0.0247,60.5,57.1,2.05,7.4,8.5,3.8,0,0.9,0,36.7,,,confiture
+366,Confitures,confiture ou marmelade d'orange,241,0.3,"< 0,25",0,58.7,49.2,1.7,12.6,41.1,5.9,0.567,9.7,0,39,,,confiture
+367,Confitures,preparation de fruits,182,0.66,0.253,0.0216,43.4,0,1.91,0,0,0,0,0,0,53.6,,,confiture
+368,Cremes et specialites e base de creme,"creme de lait >= 30% mg, fluide, rayon frais",312,2.2,32.4,23.1,2.57,2.57,0,40,105,9,0,0,0.22,61.8,,,creme fraeche
+369,Cremes et specialites e base de creme,"creme de lait >= 30% mg, fluide, uht",326,2.11,33.8,23,2.92,1.12,0,34.1,66,6.95,0.0278,0.75,0.507,60.2,,,creme fraeche
+370,Cremes et specialites e base de creme,"creme de lait legere 15 e 20% mg, fluide, uht",167,2.23,16.4,11.7,2.32,2.32,0,42,95,9,0.1,0,0.14,77.9,,,creme fraeche
+371,Cremes et specialites e base de creme,"creme fraeche >= 30% mg, epaisse, rayon frais",301,2.26,31,22.1,2.8,2.8,0,26.7,75,7.56,0.08,"< 0,5","< 0,2",64.2,,,creme fraeche
+372,Cremes et specialites e base de creme,"creme fraeche legere 15 e 20% mg, epaisse, rayon frais",192,2.9,18,12.8,4.25,4.25,0,43.5,94.5,9,0.16,1,0.14,73.7,,,creme fraeche
+373,Cremes et specialites e base de creme,"specialite e base de creme legere 8% mg, fluide ou epaisse",108,3.1,8.7,6.2,4.05,0,0,40,105,10,0.04,0.9,0.144,83,,,creme fraeche
+374,Crustaces et mollusques non transformes,"bigorneau, cuit",108,15.4,1.2,0.2,8.81,0,0,750,130,310,10.2,0,0,73,,,crustace - mollusques
+375,Crustaces et mollusques non transformes,"bulot ou buccin, cuit",98.6,20.5,0.601,0.0943,2.79,0,0,370,67.8,135,1.08,0,0,74.1,,,crustace - mollusques
+376,Crustaces et mollusques non transformes,"calmar ou calamar ou encornet, cru",79.6,16,1.47,0.328,0.6,0,0,195,15.7,42,0.279,0,"< 0,56",81.6,,,crustace - mollusques
+377,Crustaces et mollusques non transformes,"clam, praire ou palourde, cuit e l'eau",59,6.8,1,0.29,5.7,0,0,47.6,53,7.7,15,0,0,84.3,,,crustace - mollusques
+378,Crustaces et mollusques non transformes,"coquille saint0jacques, noix et corail, crue",83.6,17,1.31,0.194,0.956,0,0,191,176,51.4,1.16,0,"< 0,5",79.3,,,crustace - mollusques
+379,Crustaces et mollusques non transformes,"coquille saint0jacques, noix et corail, cuite",120,23.2,1.58,0.365,3.22,0,0,188,17.4,58.7,1.25,0,0,73.1,,,crustace - mollusques
+380,Crustaces et mollusques non transformes,"crabe ou tourteau, cuit e l'eau",128,19.3,5.38,0.7,0.5,0,0,402,15,54.7,1.6,0,0,71,,,crustace - mollusques
+381,Crustaces et mollusques non transformes,"crevette, cuite",93.7,21.4,0.9,0.0962,0,0,0,691,225,59.7,2.11,0,0,74.9,,,crustace - mollusques
+382,Crustaces et mollusques non transformes,"ecrevisse, crue",74.8,15.2,0.8,0.1,1.7,0,0,184,36.3,25,2.13,0,0,82.9,,,crustace - mollusques
+383,Crustaces et mollusques non transformes,"escargot, cru",82.8,16,1.2,0.219,2,0,0,138,90,250,3.5,15,1.1,79.1,,,crustace - mollusques
+384,Crustaces et mollusques non transformes,"homard, cuit e l'eau",104,22.1,1.6,0.2,0.3,0,0,350,66.5,34.1,0.8,0,0,74.3,,,crustace - mollusques
+385,Crustaces et mollusques non transformes,"huetre creuse, crue",42.1,6.36,1.5,0.337,0.795,0,0,580,74.6,81.9,2.25,5,"< 0,5",87.2,,,crustace - mollusques
+386,Crustaces et mollusques non transformes,"langouste, cuite e l'eau",136,26.4,1.94,0.297,3.11,0,0,227,63,51,1.41,2.1,0.5,66.8,,,crustace - mollusques
+387,Crustaces et mollusques non transformes,"moule, cuite e l'eau",114,17.1,1.81,0.526,7.4,0,0,376,69.1,78.9,5.47,0,0,73.3,,,crustace - mollusques
+388,Crustaces et mollusques non transformes,"poulpe, cru",85.5,17.9,0.9,0.259,1.45,0,0,136,33,0,1.2,0,0,82.1,,,crustace - mollusques
+389,Crustaces et mollusques non transformes,"seiche, crue",73.5,16.1,0.7,0.2,0.7,0,0,370,59,0,3.4,0,0,80.8,,,crustace - mollusques
+390,Denrees destinees e une alimentation particuliere,boisson dietetique pour le sport,22.6,0,0.02,0,5.6,3.73,0,47.7,0,1,0.00833,1.05,0,94.2,,,0
+391,Denrees destinees e une alimentation particuliere,farine bouillie petit dejeuner bebe,89.2,2.53,2.76,1.37,13.3,7.3,< 1,28.4,85,10.5,0.5,6.2,1.75,80.9,,,0
+392,Denrees destinees e une alimentation particuliere,"substitut de repas hypocalorique, e boire, tout areme",90,6.4,2.45,0.298,10.6,5.62,"< 0,5",76.1,124,20.3,2.2,20.3,0.91,79,,,0
+393,Denrees destinees e une alimentation particuliere,"substitut de repas hypocalorique, creme dessert ultra frais, toute areme",90.6,6.3,2.88,0.98,9.44,6.79,1.13,85.6,120,30.4,2.28,6.48,0.88,79.6,,,0
+394,Denrees destinees e une alimentation particuliere,"substitut de repas hypocalorique, poudre reconstituee avec lait ecreme, tout areme",80,6.05,1.72,0.207,9.61,9.12,1.2,172,160,30,2.15,4.85,0.7,80.6,,,0
+395,Denrees destinees e une alimentation particuliere,"substitut de repas hypocalorique, poudre reconstituee avec lait ecreme, type milk0shake, tout areme",87,6.03,2.32,0.291,10.3,10.1,0.633,91,177,30.7,2.25,6.69,0.7,80,,,0
+396,Desserts lactes frais ou UHT,creme anglaise,110,2.76,3.17,1.98,17.7,13.5,0,64.4,101,10.1,< 1,0.89,"< 0,2",75.6,,,creme dessert
+397,Desserts lactes frais ou UHT,creme brelee,300,4.33,24.3,17.3,16.2,15.4,0,39.6,67.1,7.6,0.8,"< 0,5","< 0,5",54.6,,,creme dessert
+398,Desserts lactes frais ou UHT,creme caramel,136,4.41,2.67,1.22,23.6,20,0.1,173,92.5,10.9,0.316,0,0.07,68.4,,,creme dessert
+399,Desserts lactes frais ou UHT,"creme chantilly sous pression, uht",285,2.26,26.4,16.6,9.56,8,0,130,101,11,0.05,0,0.4,61.3,,,creme dessert
+400,Desserts lactes frais ou UHT,"creme dessert e la vanille, appertisee",123,3.5,4.6,1.88,16.7,14.4,0.5,66.5,141,10,0.8,0.2,0.1,74,,,creme dessert
+401,Desserts lactes frais ou UHT,"creme dessert e la vanille, rayon frais",127,3.64,4,1.98,19.3,15.4,0.042,53.3,117,1.21,0.1,"< 0,5","< 0,5",71.2,,,creme dessert
+402,Desserts lactes frais ou UHT,"creme dessert allegee en matiere grasse, rayon frais",87.5,3.8,0.679,0.38,16.7,12.5,0,78.7,135,14.7,0.09,< 1,0.32,78,,,creme dessert
+403,Desserts lactes frais ou UHT,"creme dessert au chocolat, appertisee",141,3.8,3.65,1.72,22.9,16.8,1,57.3,98.1,27.9,2.2,2,0.03,67.6,,,creme dessert
+404,Desserts lactes frais ou UHT,"creme dessert au chocolat, rayon frais",137,4.1,5.07,1.525,19.5,16.3,0.214,75.3,117,18.3,0.03,0,0.385,71.2,,,creme dessert
+405,Desserts lactes frais ou UHT,creme dessert aux oeufs ou creme renversee,175,4.47,7.41,5.28,22.8,18.7,0,51.2,98.7,6,0.5,0,0.5,64.6,,,creme dessert
+406,Desserts lactes frais ou UHT,creme pâtissiere,118,2.9,1.7,0.847,22.8,16.5,0,71,115,10,0.64,0.925,0.24,72.1,,,creme dessert
+407,Desserts lactes frais ou UHT,ile flottante,138,4.67,3.76,1.31,21.3,19.3,< 1,62.4,83.7,9.1,0.45,"< 0,5","< 0,5",69.7,,,creme dessert
+408,Desserts lactes frais ou UHT,"lait de poule, sans alcool",92.6,3.8,4.1,2.43,10.2,8.4,0,56,89,9,0.3,0,0.23,81.2,,,creme dessert
+409,Desserts lactes frais ou UHT,"lait gelifie aromatise chocolat, rayon frais",144,3.18,3.1,1.93,26,21.3,0,42.9,102,20,1.15,"< 0,5","< 0,2",66.9,,,creme dessert
+410,Desserts lactes frais ou UHT,"lait gelifie aromatise nappe de caramel, rayon frais",116,2.97,1.88,0.956,21.6,19.4,0.343,36.6,97.3,8.38,0.06,"< 0,5","< 0,2",72.6,,,creme dessert
+411,Desserts lactes frais ou UHT,"milk0shake, tout parfum",109,3.5,1.8,1.14,19.7,17.1,0.15,76,136,12.9,0.47,0.333,1.1,73.9,,,creme dessert
+412,Desserts lactes frais ou UHT,"viennois ou liegeois, chocolat, cafe, caramel ou vanille, rayon frais",155,3.3,8.76,4.87,15.9,14,0,59.1,87.1,26,1.54,"< 0,5","< 0,2",71.2,,,creme dessert
+413,Eaux,"eau de source ogeu, embouteillee, faiblement mineralisee (ogeu, 64)",0,0,0,0,0,0,0,3.47,4.9,1.06,"< 0,001",0,0,100,,,eau
+414,Eaux,eau du robinet,0,0,0,0,0,0,0,"< 6,67","< 14,2","< 1,91",0.0304,0,0,99.9,,,eau
+415,Eaux,"eau minerale abatilles, embouteillee, non gazeuse, faiblement mineralisee (arcachon, 33)",0,0,0,0,0,0,0,9.25,1.74,0.9,0.01,0,0,100,,,eau
+416,Eaux,"eau minerale aix0les0bains, embouteillee, non gazeuse, faiblement mineralisee  (aix0les0bains, 73)",0,0,0,0,0,0,0,0.44,8.23,2.25,"< 0,001",0,0,100,,,eau
+417,Eaux,"eau minerale aizac, embouteillee, gazeuse, faiblement mineralisee (aizac, 07)",0,0,0,0,0,0,0,0.13,8.01,2.77,"< 0,001",0,0,100,,,eau
+418,Eaux,"eau minerale alet, embouteillee, non gazeuse, faiblement mineralisee (alet, 11)",0,0,0,0,0,0,0,1.16,6,2.31,"< 0,001",0,0,100,,,eau
+419,Eaux,"eau minerale amanda,  embouteillee, non gazeuse, fortement mineralisee (st0amand, 59)",0,0,0,0,0,0,0,5.5,24,6.6,0.04,0,0,99.9,,,eau
+420,Eaux,"eau minerale amelie0la0reine, embouteillee, gazeuse, moyennement mineralisee (cornillon, 38)",0,0,0,0,0,0,0,4.65,41.3,2.54,0.0007,0,0,99.9,,,eau
+421,Eaux,"eau minerale appollinaris, embouteillee, non gazeuse, fortement mineralisee (allemagne)",0,0,0,0,0,0,0,38,9,11,0,0,0,99.8,,,eau
+422,Eaux,"eau minerale arcens, embouteillee, gazeuse, fortement mineralisee (arcens, 07)",0,0,0,0,0,0,0,61,2.18,3.82,0.0006,0,0,99.8,,,eau
+423,Eaux,"eau minerale arvie, embouteillee, gazeuse, fortement mineralisee (ardes, 63)",0,0,0,0,0,0,0,66.1,17.8,10,0.0006,0,0,99.7,,,eau
+424,Eaux,"eau minerale auvergne, embouteillee, gazeuse, fortement mineralisee (cornillon, 38)",0,0,0,0,0,0,0,3.68,34,2.71,"< 0,001",0,0,99.9,,,eau
+425,Eaux,"eau minerale avene, embouteillee, non gazeuse, faiblement mineralisee (avene, 34)",0,0,0,0,0,0,0,0.51,4.1,2.1,"< 0,001",0,0,100,,,eau
+426,Eaux,"eau minerale avra, embouteillee, non gazeuse, faiblement mineralisee (grece)",0,0,0,0,0,0,0,8.4,11.1,1,0,0,0,100,,,eau
+427,Eaux,"eau minerale badoit, embouteillee, gazeuse, moyennement mineralisee (st0galmier, 42)",0,0,0,0,0,0,0,16.7,14.1,9.86,"< 0,001",0,0,99.9,,,eau
+428,Eaux,"eau minerale beckerich, embouteillee, non gazeuse, faiblement mineralisee (luxembourg)",0,0,0,0,0,0,0,0.3,9.7,0.5,0,0,0,100,,,eau
+429,Eaux,"eau minerale caramulo, embouteillee, non gazeuse, tres faiblement mineralisee (portugal)",0,0,0,0,0,0,0,0.8,0.2,0,0,0,0,100,,,eau
+430,Eaux,"eau minerale celtic, embouteillee, non gazeuse, tres faiblement mineralisee (niederbronn, 67)",0,0,0,0,0,0,0,0.12,0.59,0.2,"< 0,001",0,0,100,,,eau
+431,Eaux,"eau minerale chambon, embouteillee, non gazeuse, faiblement mineralisee (chambon, 45)",0,0,0,0,0,0,0,1.03,9.47,0.61,"< 0,001",0,0,100,,,eau
+432,Eaux,"eau minerale chantemerle, embouteillee, non gazeuse, faiblement mineralisee (le pestrin, 07)",0,0,0,0,0,0,0,1.34,2.62,0.96,"< 0,001",0,0,100,,,eau
+433,Eaux,"eau minerale chateauneuf, embouteillee, gazeuse, fortement mineralisee (chateauneuf, 63)",0,0,0,0,0,0,0,63.5,14.1,3.55,"< 0,001",0,0,99.8,,,eau
+434,Eaux,"eau minerale chateldon, embouteillee, gazeuse, fortement mineralisee (chateldon, 63)",0,0,0,0,0,0,0,23.8,38.3,4.72,"< 0,001",0,0,99.8,,,eau
+435,Eaux,"eau minerale chaudfontaine, embouteillee, non gazeuse, faiblement mineralisee (belgique)",0,0,0,0,0,0,0,4.4,6.5,1.8,0,0,0,100,,,eau
+436,Eaux,"eau minerale christinen brunnen, embouteillee, non gazeuse, moyennement mineralisee (allemagne)",0,0,0,0,0,0,0,37,3.3,0,0,0,0,99.9,,,eau
+437,Eaux,"eau minerale clos de l'abbaye, embouteillee, non gazeuse, moyennement mineralisee (st0amand, 59)",0,0,0,0,0,0,0,2.94,16.4,4.15,0.0005,0,0,99.9,,,eau
+438,Eaux,"eau minerale contrex, embouteillee, non gazeuse, fortement mineralisee (contrexeville, 88)",0,0,0,0,0,0,0,0.85,48.1,9.63,0.0005,0,0,99.8,,,eau
+439,Eaux,"eau minerale courmayeur, embouteillee, non gazeuse, fortement mineralisee (italie)",0,0,0,0,0,0,0,0.1,51.7,6.7,0,0,0,99.8,,,eau
+440,Eaux,"eau minerale dax, embouteillee, non gazeuse, moyennement mineralisee (dax, 40)",0,0,0,0,0,0,0,12.4,11.8,3.18,"< 0,001",0,0,99.9,,,eau
+441,Eaux,"eau minerale didier plate, embouteillee non gazeuse, moyennement mineralisee (martinique)",0,0,0,0,0,0,0,13,17.2,10.7,"< 0,001",0,0,99.9,,,eau
+442,Eaux,"eau minerale didier, embouteillee, gazeuse, moyennement mineralisee (martinique)",0,0,0,0,0,0,0,12.6,12.6,11.2,0.0005,0,0,99.9,,,eau
+443,Eaux,"eau minerale evian, embouteillee, non gazeuse, faiblement mineralisee (evian, 74)",0,0,0,0,0,0,0,0.66,7.07,3.53,"< 0,001",0,0,100,,,eau
+444,Eaux,"eau minerale fonfort, embouteillee, gazeuse, fortement mineralisee (st0romain0le0puy, 42)",0,0,0,0,0,0,0,112,11.4,8.69,0.0037,0,0,99.7,,,eau
+445,Eaux,"eau minerale hepar, embouteillee, non gazeuse, fortement mineralisee (vittel, 88)",0,0,0,0,0,0,0,1.45,57.5,14.5,"< 0,001",0,0,99.7,,,eau
+446,Eaux,"eau minerale highland spring, embouteillee, non gazeuse, faiblement mineralisee (ecosse)",0,0,0,0,0,0,0,0.6,3.5,0.9,0,0,0,100,,,eau
+447,Eaux,"eau minerale hydroxydase, embouteillee, gazeuse, fortement mineralisee (le breuil sur couze, 63)",0,0,0,0,0,0,0,192,21.4,25.4,0.018,0,0,99.4,,,eau
+448,Eaux,"eau minerale levissima, embouteillee, non gazeuse, faiblement mineralisee (italie)",0,0,0,0,0,0,0,0.2,2,0.2,0,0,0,100,,,eau
+449,Eaux,"eau minerale luchon (31), embouteillee, non gazeuse, faiblement mineralisee (luchon, 31)",0,0,0,0,0,0,0,0.12,2.75,0.11,"< 0,001",0,0,100,,,eau
+450,Eaux,"eau minerale luso, embouteillee, non gazeuse, tres faiblement mineralisee (portugal)",0,0,0,0,0,0,0,0.6,0.1,0.2,0,0,0,100,,,eau
+451,Eaux,"eau minerale miers0alvignac, embouteillee, non gazeuse, fortement mineralisee (alvignac, 46)",0,0,0,0,0,0,0,41.7,43.6,24.9,0.01,0,0,99.6,,,eau
+452,Eaux,"eau minerale mont0roucous, embouteillee, tres faiblement mineralisee (lacaune, 81)",0,0,0,0,0,0,0,0.26,0.13,0.02,"< 0,001",0,0,100,,,eau
+453,Eaux,"eau minerale nero, embouteillee, non gazeuse, faiblement mineralisee (grece)",0,0,0,0,0,0,0,4.1,5.9,3.5,0,0,0,100,,,eau
+454,Eaux,"eau minerale oree du bois, embouteillee, non gazeuse, moyennement mineralisee (st0amand, 59)",0,0,0,0,0,0,0,4.92,24,6.12,0.0044,0,0,99.9,,,eau
+455,Eaux,"eau minerale orezza, embouteillee, gazeuse, moyennement mineralisee (rapaggio, 20b)",0,0,0,0,0,0,0,0.74,17.1,1.83,0.035,0,0,99.9,,,eau
+456,Eaux,"eau minerale parot, embouteillee, gazeuse, fortement mineralisee (st0romain0le0puy, 42)",0,0,0,0,0,0,0,100,10.3,8.9,0.025,0,0,99.7,,,eau
+457,Eaux,"eau minerale penacova, embouteillee, non gazeuse, tres faiblement mineralisee (portugal)",0,0,0,0,0,0,0,0.6,0.1,0.1,0,0,0,100,,,eau
+458,Eaux,"eau minerale perrier, embouteillee, gazeuse, faiblement mineralisee (vergese, 30)",0,0,0,0,0,0,0,"< 1,17",13.7,0.35,"< 0,001",0,0,100,,,eau
+459,Eaux,"eau minerale plancoet, embouteillee, non gazeuse, faiblement mineralisee (plancoet, 22)",0,0,0,0,0,0,0,3.44,4.47,1.62,"< 0,001",0,0,100,,,eau
+460,Eaux,"eau minerale propiac, embouteillee, non gazeuse, fortement mineralisee (propiac, 26)",0,0,0,0,0,0,0,68.4,32.7,8.88,"< 0,001",0,0,99.6,,,eau
+461,Eaux,"eau minerale puits st0georges, embouteillee, gazeuse, moyennement mineralisee (st0romain0le0puy, 42)",0,0,0,0,0,0,0,45,4.25,3.24,0.0032,0,0,99.9,,,eau
+462,Eaux,"eau minerale quezac, embouteillee, gazeuse, fortement mineralisee (quezac, 48)",0,0,0,0,0,0,0,24.7,23.9,9.85,"< 0,001",0,0,99.8,,,eau
+463,Eaux,"eau minerale reine des basaltes, embouteillee, gazeuse, moyennement mineralisee (asperjoc, 07)",0,0,0,0,0,0,0,24.6,12.5,6.45,"< 0,001",0,0,99.9,,,eau
+464,Eaux,"eau minerale rozana, embouteillee, gazeuse, fortement mineralisee (beauregard, 63)",0,0,0,0,0,0,0,52.5,30.5,15.6,"< 0,001",0,0,99.7,,,eau
+465,Eaux,"eau minerale sail0les0bains, embouteillee, non gazeuse, faiblement mineralisee (sail0les0bains, 42)",0,0,0,0,0,0,0,8.5,2.1,0.2,"< 0,001",0,0,100,,,eau
+466,Eaux,"eau minerale salvetat, embouteillee, gazeuse, moyennement mineralisee (la salvetat, 34)",0,0,0,0,0,0,0,0.62,24.1,1.04,"< 0,001",0,0,99.9,,,eau
+467,Eaux,"eau minerale san benedetto, embouteillee, faiblement mineralisee (italie)",0,0,0,0,0,0,0,0.7,4.6,2.8,0,0,0,100,,,eau
+468,Eaux,"eau minerale san bernardo, embouteillee, tres faiblement mineralisee (italie)",0,0,0,0,0,0,0,0.05,1.1,0.05,0,0,0,100,,,eau
+469,Eaux,"eau minerale san pellegrino, embouteillee, gazeuse, moyennement mineralisee (italie)",0,0,0,0,0,0,0,4.4,20.8,5.1,0,0,0,99.9,,,eau
+470,Eaux,"eau minerale soultzmatt , embouteillee, gazeuse, moyennement mineralisee ( soultzmatt, 68)",0,0,0,0,0,0,0,29.1,11.5,5.43,"< 0,001",0,0,99.9,,,eau
+471,Eaux,"eau minerale spa0reine, embouteillee, non gazeuse, moyennement mineralisee (belgique)",0,0,0,0,0,0,0,0.3,0.45,0.13,0,0,0,100,,,eau
+472,Eaux,"eau minerale st0alban antonin, embouteillee, gazeuse, fortement mineralisee (st0alban, 42)",0,0,0,0,0,0,0,33,21.8,6.85,0.0013,0,0,99.8,,,eau
+473,Eaux,"eau minerale st0alban cesar, embouteillee, gazeuse, fortement mineralisee (st0alban, 42)",0,0,0,0,0,0,0,32.6,22.4,6.92,0.0027,0,0,99.8,,,eau
+474,Eaux,"eau minerale st0amand vauban, embouteillee, non gazeuse, moyennement mineralisee (st0amand, 59)",0,0,0,0,0,0,0,4.78,23,5.9,0.0008,0,0,99.9,,,eau
+475,Eaux,"eau minerale st0antonin0noble0val, embouteillee, non gazeuse, fortement mineralisee (st0antonin0noble0val, 82)",0,0,0,0,0,0,0,0.84,50,8.2,0.009,0,0,99.8,,,eau
+476,Eaux,"eau minerale st0christophe, embouteillee, non gazeuse, moyennement mineralisee (dax, 40)",0,0,0,0,0,0,0,12.1,11.6,2.95,"< 0,001",0,0,99.9,,,eau
+477,Eaux,"eau minerale st0diery, embouteillee, gazeuse, fortement mineralisee (st0diery, 63)",0,0,0,0,0,0,0,36.8,7.8,7.4,"< 0,001",0,0,99.8,,,eau
+478,Eaux,"eau minerale ste0marguerite, embouteillee, gazeuse, fortement mineralisee (st0maurice, 63)",0,0,0,0,0,0,0,35,16.5,11.5,"< 0,001",0,0,99.8,,,eau
+479,Eaux,"eau minerale st0martial, embouteillee, non gazeuse, faiblement mineralisee (st0martin le redon, 46)",0,0,0,0,0,0,0,0.49,10.2,0.15,"< 0,001",0,0,100,,,eau
+480,Eaux,"eau minerale st0yorre, embouteillee, gazeuse, fortement mineralisee (saint0yorre, 03)",0,0,0,0,0,0,0,178,8.9,1.12,0.0015,0,0,99.5,,,eau
+481,Eaux,"eau minerale talians, embouteillee,  non gazeuse, fortement mineralisee (italie)",0,0,0,0,0,0,0,0.7,59.6,7.7,0,0,0,99.8,,,eau
+482,Eaux,"eau minerale thonon, embouteillee, non gazeuse, faiblement mineralisee (thonon, 74)",0,0,0,0,0,0,0,0.43,10.9,1.44,"< 0,001",0,0,100,,,eau
+483,Eaux,"eau minerale vals st0jean, embouteillee, gazeuse, faiblement mineralisee (vals, 07)",0,0,0,0,0,0,0,8.3,3.31,1.74,"< 0,001",0,0,100,,,eau
+484,Eaux,"eau minerale vals0vivaraise, embouteillee, gazeuse, moyennement mineralisee (vals, 07)",0,0,0,0,0,0,0,40.5,4.05,1.88,"< 0,001",0,0,99.9,,,eau
+485,Eaux,"eau minerale valvert, embouteillee, non gazeuse, faiblement mineralisee (belgique)",0,0,0,0,0,0,0,0.195,6.78,0.2,0,0,0,100,,,eau
+486,Eaux,"eau minerale ventadour, embouteillee, gazeuse, faiblement mineralisee (le pestrin, 07)",0,0,0,0,0,0,0,1.42,3.79,0.96,"< 0,001",0,0,100,,,eau
+487,Eaux,"eau minerale vernet, embouteillee, gazeuse, moyennement mineralisee (prades, 07)",0,0,0,0,0,0,0,21.5,3.6,1.96,"< 0,001",0,0,99.9,,,eau
+488,Eaux,"eau minerale verniere, embouteillee, gazeuse, moyennement mineralisee (les aires, 34)",0,0,0,0,0,0,0,15.8,18.5,7.22,"< 0,001",0,0,99.9,,,eau
+489,Eaux,"eau minerale vichy celestins, embouteillee, gazeuse, fortement mineralisee (saint0yorre, 03)",0,0,0,0,0,0,0,122,10.3,0.98,"< 0,001",0,0,99.7,,,eau
+490,Eaux,"eau minerale vittel, embouteillee, non gazeuse, moyennement mineralisee (vittel, 88)",0,0,0,0,0,0,0,0.37,20.6,5.89,"< 0,001",0,0,99.9,,,eau
+491,Eaux,"eau minerale volvic active, embouteillee, gazeuse, faiblement mineralisee (volvic, 63)",0,0,0,0,0,0,0,1.17,1.07,0.75,"< 0,001",0,0,100,,,eau
+492,Eaux,"eau minerale volvic, embouteillee, non gazeuse, faiblement mineralisee (volvic, 63)",0,0,0,0,0,0,0,"< 1,45",1.05,1.02,"< 0,001",0,0,100,,,eau
+493,Eaux,"eau minerale wattwiller, embouteillee, non gazeuse, moyennement mineralisee (wattwiller , 68)",0,0,0,0,0,0,0,0.27,20.5,1.77,"< 0,001",0,0,99.9,,,eau
+494,Entremets et glaces,barre chocolatee glacee,355,6.21,19.6,11.4,38.1,24.4,"< 1,45",78.6,108,25.4,6.72,0.29,0.0952,33.7,,,glace
+495,Entremets et glaces,clafoutis aux fruits,212,5,7.45,4.24,31.1,20.5,< 1,99.2,66.6,13.5,0.578,"< 0,5","< 0,5",54.6,,,glace
+496,Entremets et glaces,creme glacee,184,3.58,10.1,5.72,19.7,19.7,0.22,56.1,104,28.7,0.33,0.8,0.155,65.5,,,glace
+497,Entremets et glaces,creme glacee au chocolat,192,4.08,10.8,7.16,17.5,15.7,4.2,39.5,109,29,0.915,0.35,0.16,62.5,,,glace
+498,Entremets et glaces,"dessert fermente au soja, aux fruits, enrichi en vitamines et/ou mineraux, rayon frais",85.7,3.41,2.17,0.36,12.8,9.63,0,35.1,121,17.8,0.505,"< 0,5","< 0,5",80.9,,,glace
+499,Entremets et glaces,"dessert fermente au soja, nature, rayon frais",53.2,4.27,2.68,0.457,2.59,1.5,0,35.1,60.2,19,0.558,"< 0,5","< 0,5",90.1,,,glace
+500,Entremets et glaces,"dessert soja aromatise, rayon frais",114,2.87,1.75,0.343,21.3,9.42,0,56,119,29.3,1.77,"< 0,5","< 0,5",73.3,,,glace
+501,Entremets et glaces,"gâteau de riz nappe de caramel, rayon frais",146,3.57,3.31,1.61,25.2,17.8,0.533,27.5,69.8,6.61,0.3,"< 0,5","< 0,5",66.7,,,glace
+502,Entremets et glaces,"gâteau de semoule, appertise",142,3.68,3.21,1.18,24.1,16.7,1,27.5,68.4,7.08,0.3,"< 0,5","< 0,5",67.5,,,glace
+503,Entremets et glaces,glace en cornet,278,4.15,14.2,11.4,33.1,21.8,1,73.3,98,20.9,1.7,1,0.044,46.5,,,glace
+504,Entremets et glaces,"glace sur bâtonnet, enrobee de chocolat",264,2.2,14.2,9.18,31.7,24.7,"< 1,1",59,107,14.3,6.33,0.271,0.127,49.6,,,glace
+505,Entremets et glaces,mousse e la creme de marrons,244,2.31,9.06,6.64,37.9,0,1,12.6,30.8,0,0,"< 0,5",1.39,49.4,,,glace
+506,Entremets et glaces,"mousse au chocolat, rayon frais",164,5.34,7.7,4.95,18.2,17.2,0.25,68.9,103,40.2,3.42,"< 0,5","< 0,2",67.3,,,glace
+507,Entremets et glaces,mousse aux fruits,149,2.59,7.85,5.51,16.9,13.6,< 1,19.7,60.5,7.9,0.3,"< 0,5","< 0,5",73.5,,,glace
+508,Entremets et glaces,omelette norvegienne,286,4.42,11.3,5.87,41.2,35.2,0.796,160,67.7,15.9,0.463,1.97,0.0834,41.5,,,glace
+509,Entremets et glaces,pain perdu,234,6.28,9,4.18,31.2,14.1,1.3,324,83.7,14.8,1.34,0.377,0.283,51,,,glace
+510,Entremets et glaces,peche melba,119,2.05,3.62,1.45,18.8,18.2,1.54,25.1,62.3,10.1,0.568,15.6,0.0276,73.5,,,glace
+511,Entremets et glaces,poire belle helene,196,2.92,9.57,4.81,23.3,21,2.76,15.7,49.3,35.3,2.43,1.82,0.478,60.7,,,glace
+512,Entremets et glaces,profiterole avec glace vanille et sauce chocolat,208,4.63,9.9,5.85,24.8,14.9,0.6,123,82.7,31.2,1,"< 0,5",0.65,58.9,,,glace
+513,Entremets et glaces,"riz au lait, rayon frais",124,3.2,3.08,1.98,20.7,12.7,0.4,46.1,66.3,10.9,0.2,"< 0,5","< 0,5",72,,,glace
+514,Entremets et glaces,"semoule au lait, rayon frais",125,3.38,3.24,2.04,18.6,11.3,3.9,42.7,84.2,9.63,< 1,0.5,0.7,70.3,,,glace
+515,Entremets et glaces,sorbet,123,0.795,1.55,0,26,26,1.11,13.4,15.3,4.2,0.14,2.3,0,69.8,,,glace
+516,Entremets et glaces,tiramisu,280,3.82,12.5,9.46,37.5,21.1,1.2,72.3,79,15.2,0.9,0,0.6,44,,,glace
+517,Farines et amidons,farine de ble tendre ou froment t110,343,11.7,1.27,0.256,67.2,1.89,6.35,1.7,30.5,59.3,2.05,"< 0,5",0,12.5,,,farine
+518,Farines et amidons,farine de ble tendre ou froment t150,333,11.9,1.46,0.296,61.6,1.77,11,14,35.8,86.4,2.76,"< 0,5",0,12.7,,,farine
+519,Farines et amidons,farine de ble tendre ou froment t55 (pour pains),343,11.7,0.8,0.162,69.3,1.82,3.9,2.9,24,24.8,0.89,0,0,13.9,,,farine
+520,Farines et amidons,farine de ble tendre ou froment t80,344,11.4,1.09,0.221,68.7,1.77,4.6,"< 2,72",25.8,42.4,1.54,"< 0,5",0,13.5,,,farine
+521,Farines et amidons,farine de sarrasin,347,9.11,2.24,0.415,70.5,1.5,4.2,6,23.8,157,2.5,"< 0,5",0,12.3,,,farine
+522,Farines et amidons,farine de seigle t130,335,9.1,1.26,0.23,65.9,2.07,10.6,6,29.9,62.8,2.05,"< 0,5",0,11.8,,,farine
+523,Farines et amidons,"semoule de maïs, sec",350,7.9,1.8,0.224,74,0,3.2,1.7,1.55,35,< 1,0,0,12.6,,,farine
+524,Fromages affines e pâte dure,beaufort,393,26.6,30.3,20.1,3.71,0,0,506,745,33,0.24,0,0,34.3,,,fromage pâte dure
+525,Fromages affines e pâte dure,comte,417,28.1,34,18.8,0,0,0,567,909,43.7,0.49,0,0,31.5,,,fromage pâte dure
+526,Fromages affines e pâte dure,emmental,367,28.2,28.3,18.7,0,0,0,277,971,44.2,0.225,0,1.81,37.5,,,fromage pâte dure
+527,Fromages affines e pâte dure,emmental râpe,381,27.8,30,20.4,0.05,0.05,0,206,1040,38.3,1.5,"< 0,5","< 0,5",38.1,,,fromage pâte dure
+528,Fromages affines e pâte dure,"fromâge e pate pressee cuite type emmental, allege",291,33.2,17,11.3,2,1.9,0,255,1070,45,0.2,0,0.48,47,,,fromage pâte dure
+529,Fromages affines e pâte dure,gruyere,414,27.2,33.4,20.1,1.4,0.36,0,361,1020,39.4,0.337,0,0.25,33.3,,,fromage pâte dure
+530,Fromages affines e pâte dure,parmesan,441,39.4,30.9,18.8,1.87,0.4,0,1090,1200,45,1.1,0,0.25,22.7,,,fromage pâte dure
+531,Fromages affines e pâte ferme,"cantal, salers ou laguiole",371,24.7,30.3,19,0.184,0,0,837,759,25.7,0.54,0,0,40.5,,,fromage e pâte ferme
+532,Fromages affines e pâte ferme,cheddar,403,25.5,33.4,20.2,0.5,0.5,0,670,720,25,0.3,0,0.18,36,,,fromage e pâte ferme
+533,Fromages affines e pâte ferme,edam,312,32.6,20.5,13.7,0,0,0,867,793,39.7,0.177,0,0.08,43.9,,,fromage e pâte ferme
+534,Fromages affines e pâte ferme,fromage e pâte ferme environ 28% mg,346,22.2,28.3,18.1,1.03,0.305,0,511,758,33,0.166,0.375,0.31,43.8,,,fromage e pâte ferme
+535,Fromages affines e pâte ferme,fromage e pâte ferme environ environ 14% mg,243,28.5,14.2,8.9,0.8,0,0,770,716,31.6,0.208,0,0.16,53.5,,,fromage e pâte ferme
+536,Fromages affines e pâte ferme,fromage e pâte ferme type maasdam,352,27.1,27.3,18.8,0,0,0,382,495,0,0.12,0,0.2,42.3,,,fromage e pâte ferme
+537,Fromages affines e pâte ferme,"fromage e pâte ferme, enrobe de cire",345,24.9,27.4,17.7,0,0,0,635,608,29.2,0.15,0,0,43.9,,,fromage e pâte ferme
+538,Fromages affines e pâte ferme,fromage des pyrenees au lait de brebis,403,24.5,33.6,20.6,1.15,0,0,648,788,35.9,0.3,0,1.08,36.9,,,fromage e pâte ferme
+539,Fromages affines e pâte ferme,fromage des pyrenees au lait de vache,376,22.4,30.1,19.5,4.38,0,0,779,623,23.5,0.37,0,0,41.1,,,fromage e pâte ferme
+540,Fromages affines e pâte ferme,gouda,363,24,29.9,18.3,0,0,0,747,736,28.9,0.26,0,0.24,38.6,,,fromage e pâte ferme
+541,Fromages affines e pâte ferme,mimolette,329,24.9,25.7,16.6,0,0,0,1110,860,37.1,0.11,0,"< 0,2",40.3,,,fromage e pâte ferme
+542,Fromages affines e pâte ferme,morbier,347,23.6,26.9,17.4,3.14,0,0,990,760,30,0,0,0,42.3,,,fromage e pâte ferme
+543,Fromages affines e pâte ferme,port0salut,331,23.8,26.1,15.6,0.57,0.57,0,534,650,24,0.43,0,0.4,48.7,,,fromage e pâte ferme
+544,Fromages affines e pâte ferme,raclette (fromage),367,25,29.6,20.2,0.687,0,0,643,661,24.5,0,0,0,41.1,,,fromage e pâte ferme
+545,Fromages affines e pâte ferme,saint0nectaire,339,24.4,26.9,17.5,0.228,0,0,328,519,24,0.335,0,0,42.3,,,fromage e pâte ferme
+546,Fromages affines e pâte ferme,saint0paulin,370,23.5,30.4,19.7,0.9,0,0,722,705,26.9,0.31,0.5,0.295,42.8,,,fromage e pâte ferme
+547,Fromages affines e pâte ferme,tomme,343,28.6,25.6,15.9,0,0,0,697,869,33.8,0,0,0,41.8,,,fromage e pâte ferme
+548,Fromages affines e pâte ferme,tomme de montagne ou tomme de savoie,361,22.6,30.1,19.1,0.234,0,0,807,626,24.9,0.2,0,0,42.1,,,fromage e pâte ferme
+549,Fromages affines e pâte molle,brie,337,19.6,27.9,15.4,2.2,1,0,645,367,18.2,0.625,0,0.2,48.9,,,fromage e pâte molle
+550,Fromages affines e pâte molle,camembert au lait cru,267,20.4,20.2,13.7,1.22,0.1,0,670,245,21.3,0.4,0,0.765,55.4,,,fromage e pâte molle
+551,Fromages affines e pâte molle,camembert environ 20% mg,270,22.4,20,12.9,0.376,0.376,0,581,463,17.9,0.295,0,0.672,54.1,,,fromage e pâte molle
+552,Fromages affines e pâte molle,camembert et apparentes environ 26% mg,313,19.5,26.2,17,0.2,0,0,570,490,20,0.18,0,0.248,50.5,,,fromage e pâte molle
+553,Fromages affines e pâte molle,carre de l'est,299,21,24,15.5,0,0,0,1100,450,20,0,0,0,54.5,,,fromage e pâte molle
+554,Fromages affines e pâte molle,chabichou,346,20.1,25.6,18.4,1.73,1.33,0,680,202,27.7,0.275,1.1,0.2,47.4,,,fromage e pâte molle
+555,Fromages affines e pâte molle,chaource,272,17.4,22,14.2,1.35,0,0,792,0,8,0.12,0,0,56,,,fromage e pâte molle
+556,Fromages affines e pâte molle,chevrot,288,18.5,22.8,15.5,1.25,1.25,0,449,98.3,12.9,0.26,0,0,55.4,,,fromage e pâte molle
+557,Fromages affines e pâte molle,coulommiers,292,19.4,24,16.5,0,0,0,506,453,21.6,0.23,0,0,54.5,,,fromage e pâte molle
+558,Fromages affines e pâte molle,crottin de chavignol,329,19.7,26.9,16.2,1.25,1.25,0,679,151,19.1,0.28,0,0,50.8,,,fromage e pâte molle
+559,Fromages affines e pâte molle,crottin de chevre,353,20.5,28.9,18.6,1.82,1.82,0,504,139,16.5,0.44,0,0.2,44.1,,,fromage e pâte molle
+560,Fromages affines e pâte molle,"crottin de chevre, au lait cru",369,23.2,30,24.1,0.83,0.83,0,405,141,18.7,0.395,0,0,48.3,,,fromage e pâte molle
+561,Fromages affines e pâte molle,fromage e pâte molle double creme,354,16.7,30.9,20.3,2.5,0,0,596,211,7,0.19,0.25,0.314,48.3,,,fromage e pâte molle
+562,Fromages affines e pâte molle,fromage e pâte molle triple creme,387,9.6,37.7,24.3,2.5,0,0,472,415,6,0.3,0,0.357,48,,,fromage e pâte molle
+563,Fromages affines e pâte molle,"fromage de chevre beche, au lait pasteurise ou cru",309,19.3,24.1,16.6,1.5,0.809,0,511,107,12.7,0.221,0,0,50.2,,,fromage e pâte molle
+564,Fromages affines e pâte molle,"fromage de chevre lactique affine, au lait cru (type crottin de chavignol, picodon, rocamadour, ste0maure)",340,20.9,27.4,18.5,1.06,1.06,0,632,141,18.7,0.3,0,0.2,46.8,,,fromage e pâte molle
+565,Fromages affines e pâte molle,"fromage de chevre lactique affine, au lait pasteurise (type bechette ou crottin)",309,19.8,24.7,16.9,1.05,1.05,0,490,107,12.7,0.222,0,0,52.6,,,fromage e pâte molle
+566,Fromages affines e pâte molle,"fromage de chevre lactique affine, au lait pasteurise ou cru (type bechette, crottin, picodon, ste0maure)",325,20.8,27,18.2,1.01,1.01,0,591,134,17.3,0.305,1.1,0.2,47.9,,,fromage e pâte molle
+567,Fromages affines e pâte molle,"fromage de chevre type ""camembert"" (chevre0boete ou brique), au lait pasteurise ou cru",293,17.9,22.3,11.1,1.17,1.1,0,411,391,28,0.286,0,0.5,58,,,fromage e pâte molle
+568,Fromages affines e pâte molle,fromage type camembert environ 10% mg,189,24.2,10.4,6.86,0,0,0,567,269,22,0.19,0,0.143,63,,,fromage e pâte molle
+569,Fromages affines e pâte molle,langres,292,17.2,24.6,15.9,0.68,0.68,0,547,188,20,0.136,0.6,0.95,55.1,,,fromage e pâte molle
+570,Fromages affines e pâte molle,livarot,294,22.5,20.7,13.4,4.85,0,0,744,654,19.7,0.37,0.7,0.9,48.5,,,fromage e pâte molle
+571,Fromages affines e pâte molle,maroilles,348,28.2,26.4,17.1,0,0,0,933,335,40,0,0,0,42.4,,,fromage e pâte molle
+572,Fromages affines e pâte molle,munster,339,23.4,27,18.7,1.12,1.12,0,682,350,16.8,"< 0,37",0,0.575,48.5,,,fromage e pâte molle
+573,Fromages affines e pâte molle,neufchâtel,255,9.15,22.8,12.8,3.49,3.02,0,334,117,10,0.13,0,0,63.1,,,fromage e pâte molle
+574,Fromages affines e pâte molle,pelardon,352,23.8,27.8,18.6,0.85,0.85,0,572,146,20.5,0.37,0,0,43.6,,,fromage e pâte molle
+575,Fromages affines e pâte molle,picodon,365,20.9,30.3,18.8,1.33,1.33,0,560,114,16.4,0.28,0,0.2,45.9,,,fromage e pâte molle
+576,Fromages affines e pâte molle,pont l'eveque,284,21,22.4,14.5,0,0,0,701,478,17.8,0.37,0,0,53.2,,,fromage e pâte molle
+577,Fromages affines e pâte molle,pouligny saint0pierre,328,20.2,26.8,18.2,0.45,0.45,0,377,123,17.3,0.325,0,0.2,49.2,,,fromage e pâte molle
+578,Fromages affines e pâte molle,reblochon,330,20.8,27.6,16.9,0.094,0,0,477,493,20.2,0.32,0,0,47.7,,,fromage e pâte molle
+579,Fromages affines e pâte molle,rocamadour,309,23.2,23.2,15.3,0.9,0.9,0,368,98.9,14.9,0.25,0,0,54.2,,,fromage e pâte molle
+580,Fromages affines e pâte molle,rouy,335,22.5,27,16.7,1,0,0,484,703,33.7,0.25,0,0,46.5,,,fromage e pâte molle
+581,Fromages affines e pâte molle,sainte0maure,344,21.8,28.2,18.5,1.15,0.875,0,1040,151,16.5,0.263,0,0.2,48.2,,,fromage e pâte molle
+582,Fromages affines e pâte molle,saint0marcellin,283,12.7,25.4,16.4,1.01,0,0,1520,107,10.3,2.74,0,0,58.1,,,fromage e pâte molle
+583,Fromages affines e pâte molle,vacherin mont d'or,288,17.6,24,15.5,0.671,0,0,450,700,30,0,0,0,54.1,,,fromage e pâte molle
+584,Fromages affines e pâte molle,valençay,282,17.5,22.2,15.7,2.05,2.05,0,824,110,15.2,0.19,0,0,55.5,,,fromage e pâte molle
+585,Fromages affines e pâte persillee,fourme d'ambert,353,19.8,28.5,18.4,4.14,0,0,921,443,16,0.36,0,0,42.9,,,fromage e pâte ferme
+586,Fromages affines e pâte persillee,fromage bleu au lait de vache,344,18.6,29.4,18.6,0.9,0,0,1260,543,27,0.2,0,0.386,47.8,,,fromage e pâte ferme
+587,Fromages affines e pâte persillee,fromage bleu d'auvergne,341,19.7,28.4,19,1.4,0,0,1230,563,18.1,0.3,0,0,45.3,,,fromage e pâte ferme
+588,Fromages affines e pâte persillee,fromage bleu de bresse,348,17.9,29.3,19.2,3,0,0,551,434,17,< 1,0,"< 0,2",51.1,,,fromage e pâte ferme
+589,Fromages affines e pâte persillee,gorgonzola,360,19.4,31.2,20.2,0.1,0.1,0,1450,612,0,0.3,0,0.24,42.4,,,fromage e pâte ferme
+590,Fromages affines e pâte persillee,roquefort,374,19.1,32.1,18.4,1.78,0,0,1560,601,29.5,0.315,0,0,40.3,,,fromage e pâte ferme
+591,Fromages blancs ultrafrais,"fromage blanc battu 0% mg aux fruits, allege en sucre, edulcore",50.4,6.6,0.15,0.0973,5.22,5.22,0,18.3,100,11,0.12,0,"< 0,2",84.3,,,fromage blanc
+592,Fromages blancs ultrafrais,fromage blanc battu 0% mg nature,45.5,7.4,0.18,0.124,4,4,0,42.1,118,11.7,0.16,0.5,"< 0,2",86.8,,,fromage blanc
+593,Fromages blancs ultrafrais,fromage blanc battu au lait demi0ecreme nature,75.4,7.54,3.22,0.704,3.68,3.42,0,29.2,111,10.2,0.13,"< 0,5",0.3,84.5,,,fromage blanc
+594,Fromages blancs ultrafrais,fromage blanc battu au lait entier nature,116,6.8,8.11,5.6,3.47,3,0,32.7,113,10.2,0.08,0,"< 0,2",81.3,,,fromage blanc
+595,Fromages blancs ultrafrais,fromage blanc battu au lait partiellement ecreme nature,111,10.3,6.3,4.35,3,0,0,0,105,0,0,0,0,78.8,,,fromage blanc
+596,Fromages blancs ultrafrais,fromage blanc campagne 0% mg nature,40.2,4.3,0.18,0.124,4.85,4.2,0,38.6,121,10.1,0.12,0,0,85.2,,,fromage blanc
+597,Fromages blancs ultrafrais,fromage blanc campagne au lait entier nature,94.2,3.77,6.85,4.73,3.9,3.6,0,21.3,125,11,0.14,0,"< 0,2",81.8,,,fromage blanc
+598,Fromages blancs ultrafrais,fromage frais type petit suisse au lait demi0ecreme nature,103,9.85,5.3,3.66,3.5,3.5,0,16,117,40,0.14,0,0,81.8,,,fromage blanc
+599,Fromages blancs ultrafrais,"fromage frais type petit suisse au lait demi0ecreme, aromatise (ex: vanille), sucre",133,6.2,5.51,0.72,14.3,13.9,0,66.5,90.7,8,0.2,0,1.25,67.6,,,fromage blanc
+600,Fromages blancs ultrafrais,"fromage frais type petit suisse au lait partiellement ecreme, aux fruits, sucre",109,6.4,2.77,1.93,14.2,12.6,0.1,27.2,97.6,9.89,0.17,"< 0,5",0.19,76.4,,,fromage blanc
+601,Fromages blancs ultrafrais,"fromage frais type petit suisse maigre 0%, nature",55.3,9.9,0.24,0.166,3,3,0,44.8,127,11.4,< 1,0,"< 0,2",84.3,,,fromage blanc
+602,Fromages blancs ultrafrais,"fromage frais type petit suisse, au lait ecreme ou partiellement ecreme, aux fruits, sucre",103,6.5,2.6,1.8,13,0,0,35,100,9,0.2,0,"< 0,2",72.4,,,fromage blanc
+603,Fromages blancs ultrafrais,"petit-suisse e la creme, nature",139,9.5,9.5,6.56,3.6,3.6,0,40,94,10,0,0,0,75.2,,,fromage blanc
+604,Fromages blancs ultrafrais,"petit0suisse au lait entier, nature",134,9.75,8.86,6.12,3.37,3.2,0,30.8,113,10.8,0.17,0,0,76.6,,,fromage blanc
+605,Fromages blancs ultrafrais,"specialite laitiere de fromage blanc, avec creme, aux fruits, sucree",133,4.35,6.28,4.47,14.2,14.1,0.02,43.9,84.6,9.88,< 1,"< 0,5","< 0,2",73.8,,,fromage blanc
+606,Fromages blancs ultrafrais,"specialite laitiere de fromage blanc, avec creme, nature",134,5.7,10.3,7.34,4.3,4.1,0,59.6,102,4.84,< 1,0,"< 0,2",79.8,,,fromage blanc
+607,Fromages fondus,cancoillotte (specialite fromagere fondue),127,15,6.2,4.01,1,1,0,732,20.1,8,0.09,0,0.2,74.4,,,fromage fondu
+608,Fromages fondus,fromage fondu en portions ou en cubes environ 15% mg,184,13.1,7.24,3.23,15.7,0,0,665,492,27.5,0.32,0,0.185,65.8,,,fromage fondu
+609,Fromages fondus,fromage fondu en portions ou en cubes environ 22% mg,276,10.2,22.5,13.9,6.5,6.5,0,737,576,18,0.2,0,0.531,54.7,,,fromage fondu
+610,Fromages fondus,snack pour enfants e base de fromage fondu et de gressins,319,10.7,18.9,9.95,24.1,3.1,1.2,543,145,21,0.63,0,0.27,42.6,,,fromage fondu
+611,Fromages fondus,specialite fromagere fondante au fromage blanc et aux noix,352,11.2,32,13.5,2.7,2.67,0.72,750,171,25.2,0,0,0.33,51.5,,,fromage fondu
+612,Fromages non affines et specialites fromageres,feta de brebis,272,15.5,22.4,13.7,1.4,1.4,0,1240,318,20,0.2,0,0.5,55.4,,,fromage type chevre
+613,Fromages non affines et specialites fromageres,"fromage de chevre e tartiner, nature",165,10.6,12.4,9.55,2.75,2.75,0,381,80.6,9.93,0.171,0,0,71,,,fromage type chevre
+614,Fromages non affines et specialites fromageres,"fromage de chevre frais, au lait cru (type palet ou crottin frais)",211,13.1,16.9,11.7,1.83,1.83,0,297,91.6,12.1,0.271,0,0,65.6,,,fromage type chevre
+615,Fromages non affines et specialites fromageres,"fromage de chevre frais, au lait pasteurise (type bechette fraeche)",250,16.1,19.9,13.4,2.05,2.05,0.7,404,96.6,11.2,0.237,0,0,61.4,,,fromage type chevre
+616,Fromages non affines et specialites fromageres,"fromage de chevre frais, au lait pasteurise ou cru (type crottin frais ou bechette fraeche)",222,13.8,17.2,10,2.3,1.5,0.7,332,101,12.2,0.445,0.367,0.4,68.8,,,fromage type chevre
+617,Fromages non affines et specialites fromageres,"fromage type feta, au lait de vache",264,17.1,20.9,14.1,1.18,1.18,0,1430,556,19.7,0.415,0,0.289,55,,,fromage type chevre
+618,Fromages non affines et specialites fromageres,mozzarella,259,19.9,19.4,12.3,0.4,0.4,0,405,495,26,0.195,0,0.16,58.3,,,fromage type chevre
+619,Fromages non affines et specialites fromageres,ricotta,160,11.5,10.5,6.99,3.75,3.75,0,118,215,11,0.5,1,0.0683,72.7,,,fromage type chevre
+620,Fromages non affines et specialites fromageres,specialite fromagere non affinee,232,8.3,19.7,0,4.2,4.2,0,496,104,14,0,1,0.2,67.5,,,fromage type chevre
+621,Fromages non affines et specialites fromageres,specialite fromagere non affinee e tartiner environ 13% mg,191,14,13.2,8.53,3,3,0,1100,89,12,0,0,0,65.9,,,fromage type chevre
+622,Fromages non affines et specialites fromageres,specialite fromagere non affinee e tartiner environ 36% mg aromatisee,380,7.86,36.7,22.6,3.44,3.44,0,504,94.8,7.47,0.25,"< 0,5",0.4,50.1,,,fromage type chevre
+623,Fromages non affines et specialites fromageres,specialite fromagere non affinee e tartiner environ 42% mg nature,422,7.86,42,27.1,2,2,0,550,100,0,0,0,0.5,48,,,fromage type chevre
+624,Fromages non affines et specialites fromageres,specialite fromagere non affinee allegee,154,15.1,8.58,5.54,3.02,2.59,0,511,550,28,0.25,1.1,0.2,69.7,,,fromage type chevre
+625,Fromages non affines et specialites fromageres,specialite fromagere non affinee double creme environ 31% mg,347,11.6,32.1,20.6,2,0,0,610,50,18,0.2,0,0,54.8,,,fromage type chevre
+626,Fromages non affines et specialites fromageres,specialite fromagere non affinee environ 23% mg,241,5,23.3,15,1.71,0,0,555,416,14,0,0,0,65.9,,,fromage type chevre
+627,"Fruits au sirop/au jus, compotes","abricot au sirop leger, appertise",67.7,0.5,"< 0,1",0.003,15.4,15.4,0.8,5.7,13.7,5.8,0.295,2.81,0,82.3,,,jus fruit
+628,"Fruits au sirop/au jus, compotes","ananas au sirop, appertise",81.9,0.4,0,0,19.1,17.6,0.85,< 2,14.3,11.3,0.22,10.4,0,78.6,,,jus fruit
+629,"Fruits au sirop/au jus, compotes","cerise au sirop, appertisee",71,0.58,0.2,0.022,15.7,0,0.6,1,13.5,9,0.3,7,0,81.6,,,jus fruit
+630,"Fruits au sirop/au jus, compotes",compote de fruits divers,104,0.282,"< 0,4",0.0275,24.5,22,0.86,1.77,20.1,8.1,0.159,24.7,0,74.3,,,jus fruit
+631,"Fruits au sirop/au jus, compotes","compote de fruits divers, allegee",77.6,0.4,"< 0,2",0.0341,17.7,10.6,1.45,14.1,6.66,5.5,0.089,20,0,79.5,,,jus fruit
+632,"Fruits au sirop/au jus, compotes",compote de pomme,93.7,0.32,"< 0,23",0.0236,22,15.9,< 2,"< 9,8",4.44,7.16,0.163,14,0,74.6,,,jus fruit
+633,"Fruits au sirop/au jus, compotes","goyave, appertisee",87.9,0.4,0.1,0.0309,19.4,0,2.03,0,0,0,0,0,0,76.6,,,jus fruit
+634,"Fruits au sirop/au jus, compotes","litchi, denoyaute, appertise",121,0.9,0.3,0.0594,27,0,1.3,3,8,0,0.4,42,0,69,,,jus fruit
+635,"Fruits au sirop/au jus, compotes","macedoine de fruits au sirop, appertisee",61.9,0.277,"< 0,5",0.0245,14,13.9,0.75,3.02,12.7,8.41,0.145,1.3,0,83.9,,,jus fruit
+636,"Fruits au sirop/au jus, compotes","peche, au sirop, appertisee",75.1,0.357,0.05,0.00427,17.6,0,0.85,3.33,4,5.67,0.3,4.33,0,80.6,,,jus fruit
+637,"Fruits au sirop/au jus, compotes","poire au sirop, appertisee",62,0.257,0.1,0.0118,13.9,0,1.92,3.33,6,4.67,0.367,1.67,0,83.3,,,jus fruit
+638,"Fruits au sirop/au jus, compotes","pomelo (dit pamplemousse), au sirop",55.2,0.56,0.1,0.014,11.7,11.8,0.4,12.6,22.5,6.3,0.4,20.2,0,85.4,,,jus fruit
+639,"Fruits au sirop/au jus, compotes","rhubarbe, cuite, sucree",131,0.9,0.1,0.014,29.1,28.7,2,1,33,6,0.1,4.65,0,65.4,,,jus fruit
+640,Fruits frais,"abricot, frais",49.1,0.9,0.207,0.0193,9.01,8.02,1.7,"< 2,2",15.6,8.67,0.32,5.45,0,86.1,,,assortiment fruits
+641,Fruits frais,"ananas, frais, pulpe",52.6,0.4,0.2,0.0045,11,9.24,1.52,2.88,20.3,19.8,0.225,12,0,85.8,,,assortiment fruits
+642,Fruits frais,"banane, fraeche, pulpe",93.6,1.2,0.227,0.0616,20.5,15.9,"< 3,1",< 1,4.47,32.8,0.281,6.54,0,74.7,,,banane
+643,Fruits frais,"carambole, frais, pulpe",27.3,0.78,0.343,0.019,2.91,2.91,2.8,2,4.67,10,0.353,35.6,0,91.4,,,assortiment fruits
+644,Fruits frais,"cassis, frais",73.2,0.9,0.5,0.093,10.4,6.6,7.8,3,60,17,1.3,200,0,77.4,,,assortiment fruits
+645,Fruits frais,"cerise, fraeche",70.8,1.3,0.3,0.043,14.2,12.4,1.6,5.2,15.4,13,0.246,9.33,0,81.2,,,cerise
+646,Fruits frais,"citron vert ou lime, frais, pulpe",36.2,0.7,0.2,0.023,2.82,1.69,2.8,2,33,6.67,0.6,31.7,0,88.3,,,assortiment fruits
+647,Fruits frais,"citron, frais, pulpe",34.3,0.8,0.3,0.0871,2.45,2.2,2,< 3,18,8.93,0.4,53,0,89.2,,,assortiment fruits
+648,Fruits frais,"citron, zeste",50.6,1.5,0.3,0.0413,2.49,2.49,8.63,6,171,15,0.867,129,0,81.6,,,assortiment fruits
+649,Fruits frais,"clementine ou mandarine, fraeche, pulpe",48.5,0.8,0.19,0,9.19,9.19,1.7,6.46,25.2,12.4,0.0896,18.7,0,86.6,,,orange
+650,Fruits frais,"coing, frais",57.7,0.367,0.4,0.039,11.2,6.3,3.23,3.67,8.67,8,0.5,14.7,0,84,,,assortiment fruits
+651,Fruits frais,"coulis de fruits rouges (framboises, fraises, groseilles, cassis)",90.1,0.94,0.475,0.0546,17.5,17.4,4.45,1.9,25.6,14.5,0.71,60.9,0,75,,,assortiment fruits
+652,Fruits frais,"figue de barbarie, pulpe et graines",54.7,0.75,0.3,0.01,10.1,10.1,4.3,5,43,85,0.35,8,0,83,,,fraise
+653,Fruits frais,"figue, fraeche",66.8,1.3,0.3,0.049,13.4,12.3,2.3,3,38,15,0.3,2,0,81.8,,,assortiment fruits
+654,Fruits frais,"fraise, fraeche",28.5,0.75,0.26,0.0453,4.06,4.05,1.87,2.64,14.9,13,0.273,67,0,91.6,,,assortiment fruits
+655,Fruits frais,"framboise, fraeche",45.1,1.4,0.3,0.021,4.25,4.25,6.7,3.45,20.6,22.4,0.715,25.1,0,84.7,,,assortiment fruits
+656,Fruits frais,"fruit de la passion, frais, pulpe et pepins",84.3,2.2,0.7,0.059,9.48,9.48,10.4,28,10.4,26.7,1.6,30,0,72.9,,,assortiment fruits
+657,Fruits frais,"fruits rouges, frais (framboises, fraises, groseilles, cassis)",46.8,1.11,0.626,0.05,5.3,5.23,4.6,1.84,27.1,16.8,0.809,67.9,0,85.7,,,assortiment fruits
+658,Fruits frais,"grenade, fraeche, pulpe et pepins",71.1,1.06,0.557,0.075,13.6,13.6,2.27,4.33,4.33,7.5,0.3,8.1,0,81,,,assortiment fruits
+659,Fruits frais,"groseille e maquereau, fraeche",40.3,0.893,0.593,0.058,4.83,0,3.93,1.5,25.5,9,0.34,29.5,0,87.9,,,assortiment fruits
+660,Fruits frais,"groseille, fraeche",55.4,1.1,0.5,0.132,6.14,5.39,7.4,2,36,13,1.2,40,0,82.4,,,assortiment fruits
+661,Fruits frais,"kaki, frais, pulpe",67.7,0.627,0.263,0.025,13.7,13.7,4,5,11.3,10,0.2,12.7,0,81,,,assortiment fruits
+662,Fruits frais,"kiwi, frais, pulpe et graines",57.7,1.1,0.725,0.0345,9.37,9.1,2.4,3.1,26.6,12.2,0.282,92.7,0,84.1,,,kiwi
+663,Fruits frais,"litchi, frais, pulpe",69.4,0.815,0.42,0.099,14,14,1.3,1,5,10,0.31,71.5,0,81.8,,,assortiment fruits
+664,Fruits frais,"mangue, fraeche, pulpe",63.5,0.7,0.2,0.0582,13.6,13.1,1.76,2,12,13,0.7,37,0,83.1,,,assortiment fruits
+665,Fruits frais,"melon, frais, pulpe",32.1,0.71,0.148,0.0465,6.49,5.94,0.85,11.4,11.4,17.6,0.167,11.1,0,91.1,,,assortiment fruits
+666,Fruits frais,"mirabelle, fraeche",61.8,0.72,"< 0,2",0.00439,12.4,0,2.3,0,0,0,0,0,0,82.7,,,assortiment fruits
+667,Fruits frais,"mere (de ronce), fraeche",45.4,0.9,0.2,0.007,6.02,5.1,6.6,2,41,23,0.7,15,0,85,,,assortiment fruits
+668,Fruits frais,"mere noire (du merier), fraeche",49.4,1.37,0.195,0.0135,9.7,8.1,1.7,6,37.5,18,1.72,23.2,0,86.3,,,assortiment fruits
+669,Fruits frais,"myrtille, fraeche",60.2,0.647,0.243,0.024,11.6,7.92,2.47,2.33,10,5.5,0.427,14.6,0,83.4,,,assortiment fruits
+670,Fruits frais,"nectarine, fraeche, pulpe et peau",42.6,1.4,0.1,0.0106,7.69,7.62,2.12,1.84,4.85,9.06,0.285,20.3,0,87.8,,,assortiment fruits
+671,Fruits frais,"nefle du japon, fraeche, pulpe",55.7,0.41,0.267,0.0533,12,6.1,1.83,2.67,16,13,0.287,4.33,0,85,,,assortiment fruits
+672,Fruits frais,"orange, fraeche, pulpe",46.5,0.957,0.26,0.0543,8.32,8.32,1.82,4.87,39,12.4,0.106,39.7,0,87.1,,,orange
+673,Fruits frais,"papaye, fraeche, pulpe",43.3,0.557,0.22,0.068,7.81,7.81,2.03,5.67,22.5,33,0.483,59.7,0,87.7,,,assortiment fruits
+674,Fruits frais,"pasteque, fraeche, pulpe",34,0.603,0.0833,0.0133,7.28,6.29,0.4,"< 0,292","< 0,765",12.6,0.31,8.6,0,91.1,,,assortiment fruits
+675,Fruits frais,"peche, fraeche, pulpe",54.2,0.7,0.25,0.0213,11.3,11.3,2,2.2,6.1,9.4,0.272,6.6,0,88,,,assortiment fruits
+676,Fruits frais,"peche, fraeche, pulpe et peau",53.4,0.903,0.25,0.0213,10.2,8.74,2.85,"< 1,11",7.32,11.2,0.152,5.75,0,85.1,,,assortiment fruits
+677,Fruits frais,"poire, fraeche, pulpe et peau",53,0.385,0.22,0.026,10.8,10.4,3.03,1.85,7.35,7.82,0.103,5.3,0,85.1,,,assortiment fruits
+678,Fruits frais,"pomelo (dit pamplemousse), frais, pulpe",35.9,0.8,0.1,0.0287,6.2,6.2,1.3,2.65,23.3,9.15,0.082,42.1,0,89.8,,,assortiment fruits
+679,Fruits frais,"pomme, fraeche, pulpe et peau",53.2,0.31,0.162,0.0391,11.3,11.3,1.95,2.01,5.12,6.08,0.123,6.45,0,85.3,,,assortiment fruits
+680,Fruits frais,"prune reine0claude, fraeche",48.7,0.8,0.28,0.0435,9.6,9.6,2.3,0.75,5.3,7.33,0.305,5.4,0,81.9,,,raisin
+681,Fruits frais,"raisin blanc, frais",70,0.6,0.16,0.0512,16.1,16.1,0.9,1.07,10.1,10.3,0.35,4,0,82.2,,,assortiment fruits
+682,Fruits frais,"raisin noir, frais",62.1,0.5,0.25,0.08,12.1,12.2,1.2,"< 0,292",8.98,6.78,0.3,8.4,0,83.2,,,assortiment fruits
+683,Fruits frais,salade de fruits frais,83.5,0.73,0.33,0.0444,18.3,17.1,1.5,"< 1,47",14.5,16.4,0.29,23.5,0,78,,,assortiment fruits
+684,Fruits seches ou lyophilises,"abricot, seche, denoyaute",271,3.14,0.8,0.0785,53,40.5,5.7,39,61.2,36.5,4.33,1,0,29.4,,,assortiment fruits
+685,Fruits seches ou lyophilises,"banane, mi0sechee",274,3,1.81,0.49,57,0,8,0,0,0,0,0,0,28,,,assortiment fruits
+686,Fruits seches ou lyophilises,"datte, sechee, pulpe et peau",282,2.7,"< 0,4",0,62.5,58.1,8,18.2,44.9,47.2,2.7,1.5,0,23.5,,,assortiment fruits
+687,Fruits seches ou lyophilises,"figue, sechee",252,3.37,1.41,0.283,50.4,48.1,11.4,86.3,167,52.5,2.41,0.8,0,30.7,,,assortiment fruits
+688,Fruits seches ou lyophilises,melange aperitif de fruits exotiques seches,390,2.4,10.7,6.67,68.2,68.1,5.6,33.7,65,33.1,2.6,0,0,12.4,,,assortiment fruits
+689,Fruits seches ou lyophilises,pruneau,244,2.36,0.71,0.0725,52.3,37.9,5.83,4.33,47.9,33.7,1.98,2.53,0,32.7,,,assortiment fruits
+690,Fruits seches ou lyophilises,raisin sec,303,2.99,0.578,0.202,66.4,59.2,3.07,19.7,63.8,32.7,2.09,2.72,0,17.1,,,assortiment fruits
+691,Gâteaux et pâtisseries,baba au rhum,234,3.2,8.76,5.71,29.9,18.5,0.76,44.3,44.3,6.7,0.3,0,"< 0,2",53.9,,,gâteaux
+692,Gâteaux et pâtisseries,baklava ou baklawa (pâtisserie orientale aux amandes et sirop),461,10.4,24.5,4.61,49.5,39.6,< 1,29.8,98.3,95,1.5,0,0.18,13.5,,,gâteaux
+693,Gâteaux et pâtisseries,biscuit de savoie,311,5.9,0.8,0.121,68.3,0,3.45,749,0,12,0.52,0,0,19.2,,,gâteaux
+694,Gâteaux et pâtisseries,brownie au chocolat,471,4.69,25.5,10.3,54.4,35.7,2.6,156,51.4,41.3,2.2,2.65,0.2,11.5,,,gâteaux
+695,Gâteaux et pâtisseries,beche de noël pâtissiere,320,4.2,19.7,8.62,30.7,20,1.3,72.8,58.3,22.7,1.6,1.1,0,43.4,,,gâteaux
+696,Gâteaux et pâtisseries,cake aux fruits,392,5,15.3,5.4,55.7,40.1,2.58,244,38.6,16.3,0.956,0.155,0.45,19.5,,,gâteaux
+697,Gâteaux et pâtisseries,canele,302,4.4,3.24,2.16,62.7,42.5,2.6,74.4,0,0,0,0,0,26.3,,,gâteaux
+698,Gâteaux et pâtisseries,charlotte aux fruits,203,5.2,6.64,3.33,29.1,21.7,2.8,15.1,37.6,18.7,0.75,8.15,0.2,55.7,,,gâteaux
+699,Gâteaux et pâtisseries,chou e la creme (chantilly ou pâtissiere),301,4.45,16.8,8.31,32.2,24.8,1.43,124,71.6,9.6,< 1,0,0.25,44.3,,,gâteaux
+700,Gâteaux et pâtisseries,chou e la creme chantilly,350,4.6,26.4,13.6,22.9,16,1,149,71.6,9.2,< 1,0,"< 0,2",44.3,,,gâteaux
+701,Gâteaux et pâtisseries,chou e la creme pâtissiere,224,4.3,7.3,3.38,34.9,26.8,1,99.5,71.6,10,< 1,0,"< 0,2",51.7,,,gâteaux
+702,Gâteaux et pâtisseries,corne de gazelle (pâtisserie orientale aux amandes et sirop),471,8.55,22.1,7.64,59.3,32,< 1,59.2,68.2,44.9,1,0,0,8.22,,,gâteaux
+703,Gâteaux et pâtisseries,"crepe au froment pre0emballee, nature",321,6.45,7.02,3.11,57.2,6,1.7,289,69.2,21.4,0.9,0,0.16,25.5,,,gâteaux
+704,Gâteaux et pâtisseries,"crepe au froment, fourree e la confiture",297,6.52,5.74,2.87,54.3,19.4,1,356,49.8,12.2,0.771,4.62,0.112,30.6,,,gâteaux
+705,Gâteaux et pâtisseries,"crepe au froment, fourree au chocolat ou e la pâte e tartiner chocolat et noisettes",375,8.15,11.8,4.89,57.8,20.4,2.44,359,72.6,35.7,2.43,0.248,0.487,17.8,,,gâteaux
+706,Gâteaux et pâtisseries,"crepe au froment, sucree",351,6.33,5.85,3.9,67.7,28.4,1.3,569,82.5,17.5,0.8,< 1,"< 0,5",16.2,,,gâteaux
+707,Gâteaux et pâtisseries,crepe ou galette bretonne au sarrasin,161,5.83,1.74,0.48,30.2,7.2,< 1,544,21.6,86.9,1.8,0,"< 0,5",59,,,gâteaux
+708,Gâteaux et pâtisseries,crumble aux pommes,242,2.7,8.98,3.49,35.9,23.7,3.5,23.6,8.6,7.47,0.3,55.8,"< 0,5",48.7,,,gâteaux
+709,Gâteaux et pâtisseries,eclair,302,4.66,14,7.13,38.4,13.7,1.63,147,58.4,14.4,1.2,0,0.25,40.2,,,gâteaux
+710,Gâteaux et pâtisseries,far aux pruneaux,392,5.5,18.5,7.66,50.4,26,1,299,43.4,14.3,2,0,"< 0,2",23.3,,,gâteaux
+711,Gâteaux et pâtisseries,flan pâtissier aux oeufs ou e la parisienne,200,3.82,7,3.03,30.4,10.3,0,58.2,91.4,9.12,0.5,"< 0,5","< 0,5",58,,,gâteaux
+712,Gâteaux et pâtisseries,fraisier ou framboisier,262,3.3,15.5,8.3,26.7,23.4,1.3,61.7,57.1,16.9,< 1,4.3,"< 0,2",52.6,,,gâteaux
+713,Gâteaux et pâtisseries,"galette des rois feuilletee, fourree frangipane",456,8.8,30.4,15.8,35.7,26.4,2,280,63.3,45.1,1.1,1.3,0,21.9,,,gâteaux
+714,Gâteaux et pâtisseries,gâteau au chocolat,403,6.04,21.8,7.76,44.6,25.5,2.36,257,58.1,31.8,2.02,0.2,"< 0,5",24.3,,,gâteaux
+715,Gâteaux et pâtisseries,gâteau au fromage blanc,220,8.4,5.3,2.5,34.3,17.6,0.55,115,98,13.2,1.9,0.7,0.63,50.6,,,gâteaux
+716,Gâteaux et pâtisseries,gâteau au fromage frais ou cheese0cake,350,5.16,22.5,15.5,31.1,24.4,1.1,154,54.6,0,0,0,0,39.2,,,gâteaux
+717,Gâteaux et pâtisseries,gâteau mi0cuit au chocolat ou moelleux au chocolat,459,6.58,27.5,6.22,45.5,38.5,1.63,79.1,0,0,0,0,0,17.7,,,gâteaux
+718,Gâteaux et pâtisseries,gâteau moelleux fourre au chocolat multicouche,429,5.46,21.8,12.5,52.4,35,"< 1,6",119,73.1,38,3.1,"< 0,5",0.7,17.7,,,gâteaux
+719,Gâteaux et pâtisseries,gâteau moelleux fourre au chocolat ou aux pepites de chocolat ou au lait,425,5.3,20.4,7.76,54.7,37.2,"< 1,7",242,147,37.1,2.86,"< 1,9",0.7,17,,,gâteaux
+720,Gâteaux et pâtisseries,gâteau moelleux fourre aux fruits type mini0roule ou mini0cake fourre,391,4.79,11.5,2.97,65.5,25,3.15,259,32.7,12.3,0.7,"< 0,5",0.2,14.4,,,gâteaux
+721,Gâteaux et pâtisseries,"gâteau mousse de fruits sur genoise, type miroir",270,3.87,13,7.86,34.3,25.9,0,44.5,42.3,10.5,0.8,3.1,"< 0,5",48.4,,,gâteaux
+722,Gâteaux et pâtisseries,"gaufre bruxelloise ou liegeoise, avec ou sans chocolat, preemballee",445,7.19,20,9.41,58.1,38.7,1.8,335,34.7,18.7,1.45,0,"< 0,2",11.7,,,gâteaux
+723,Gâteaux et pâtisseries,macaron moelleux fourre e la confiture ou e la creme,436,8.55,17.9,7.09,58.7,44.5,2.9,63.9,70.2,73.8,1.5,2.1,0,10.9,,,gâteaux
+724,Gâteaux et pâtisseries,madeleine,447,6.7,22.2,6.32,54.2,19.2,1.8,321,24.9,9.86,1.63,0.02,0.8,14,,,gâteaux
+725,Gâteaux et pâtisseries,mille0feuille,293,4.2,13.1,5.27,39.4,26.4,0.24,227,68,12.4,< 1,0,"< 0,2",42.4,,,gâteaux
+726,Gâteaux et pâtisseries,pain d'epices,326,2.98,2.39,0.23,71.7,44.9,2.77,162,4,14.3,1.1,"< 0,5",0,19.4,,,gâteaux
+727,Gâteaux et pâtisseries,"quatre0quarts ou barre pâtissiere, preemballe",433,5.73,23.7,9.41,48,27.5,2.6,457,84.9,8.14,0.7,0,"< 0,5",18.4,,,gâteaux
+728,Gâteaux et pâtisseries,rocher coco ou congolais (petit gâteau e la noix de coco),486,5.45,29.6,18.6,45.6,38.2,7.7,247,20.8,47.5,< 1,0,"< 0,2",10.8,,,gâteaux
+729,Gâteaux et pâtisseries,tarte e la creme,291,5.9,16.8,7.88,29,5.7,0.24,0,0,0,0,0,0,48,,,gâteaux
+730,Gâteaux et pâtisseries,tarte au citron,382,5,20.9,8.03,42.7,40.9,1.8,51.6,25.2,9.7,1.2,13.4,"< 0,2",29.1,,,gâteaux
+731,Gâteaux et pâtisseries,tarte aux abricots,237,3.18,10.7,2.65,29,0,5.9,89.3,0,0,0,0,0,50.5,,,gâteaux
+732,Gâteaux et pâtisseries,tarte aux fraises,236,3.2,10.7,5.91,31.1,25.4,1.35,57.3,53.6,18,0.51,5.1,"< 0,2",53,,,gâteaux
+733,Gâteaux et pâtisseries,tarte aux fruits rouges,227,3.5,6.87,1.7,35.5,21.7,4.5,82.5,0,0,0,0,0,49.1,,,gâteaux
+734,Gâteaux et pâtisseries,tarte ou tartelette aux fruits,278,3.6,12.5,5.02,37,8.58,1.5,163,32.2,13.1,0.45,0.52,0.31,45,,,gâteaux
+735,Gâteaux et pâtisseries,tarte ou tartelette aux pommes,281,3.5,11.6,4.66,37.6,14.8,5.9,139,14.6,8.79,0.55,5,"< 0,5",40.2,,,gâteaux
+736,Graines oleagineuses et châtaignes,amande (avec peau),634,25.4,53.4,4.04,1.5,1.08,12.6,1.61,248,232,3,"< 0,5",0,4.19,,,graines
+737,Graines oleagineuses et châtaignes,beurre de cacahuete ou pâte d'arachide,586,25.1,40,7.72,24.7,0,6,472,47.7,169,1.99,0,0,1.5,,,graines
+738,Graines oleagineuses et châtaignes,cacahuete ou arachide,636,25.9,49.6,9.44,14.8,4.1,6.2,2.12,4.94,70.6,0.0172,0.667,0,1.01,,,graines
+739,Graines oleagineuses et châtaignes,"cacahuete, grillee, salee",613,27.3,47.4,7.82,9.73,3.6,11.4,374,47.4,168,1.2,"< 0,5",0,1.49,,,graines
+740,Graines oleagineuses et châtaignes,"châtaigne ou marron, appertise",133,2,1.25,0.254,26.1,3.9,4,52.1,21.1,24.1,< 1,0,0,65.8,,,graines
+741,Graines oleagineuses et châtaignes,"châtaigne, cuite e l'eau",124,2,1.38,0.28,23.3,0,4.5,27,46,54,1.73,26.7,0,68.2,,,graines
+742,Graines oleagineuses et châtaignes,"châtaigne, grillee",236,3.17,2.2,0.414,47.8,10.6,5.1,2,29,33,0.91,26,0,40.5,,,graines
+743,Graines oleagineuses et châtaignes,"creme de marrons vanillee, appertisee",276,1,0.56,0.104,65.5,48.7,2.1,3.3,11.3,12.2,1.7,27.9,0,30.4,,,graines
+744,Graines oleagineuses et châtaignes,farine de châtaigne,340,5.8,3.43,0.602,64.8,24.9,12.6,11,61.6,67.9,"< 0,1",16,0,11,,,graines
+745,Graines oleagineuses et châtaignes,melange aperitif de graines salees et raisins secs,492,17.3,29.3,4.29,33.5,28.7,6.2,204,95.8,143,2.9,0.4,0,11.2,,,graines
+746,Graines oleagineuses et châtaignes,noisette,683,16.4,63,5.22,5.62,3.31,8.2,9.97,135,88.4,3.47,"< 0,5",0,4.84,,,graines
+747,Graines oleagineuses et châtaignes,"noix de cajou, grillee, salee",631,19.8,49.1,9.5,21.8,5.3,4.4,272,41.8,247,5.03,"< 0,5",0,2.13,,,graines
+748,Graines oleagineuses et châtaignes,"noix de coco, amande mere, fraeche",374,3.64,35.3,30.9,3.81,3.81,11.7,19.3,12.6,37.5,2.11,2.77,0,44.4,,,graines
+749,Graines oleagineuses et châtaignes,"noix de coco, amande, seche",683,6.64,65.1,57.1,9.27,7.35,14.4,32.5,18.4,90,3.46,0.75,0,2.65,,,graines
+750,Graines oleagineuses et châtaignes,noix de macadamia,734,7.91,72.9,11.5,5.94,4.57,8.6,5,85,130,3.69,1.2,0,3.1,,,graines
+751,Graines oleagineuses et châtaignes,noix de pecan,739,9.3,73.8,6.77,2.94,2.64,9.52,0.667,69.7,125,2.6,0.9,0,2.9,,,graines
+752,Graines oleagineuses et châtaignes,noix du bresil,705,14.1,68.2,16.4,2.73,2.17,8.1,3,150,366,2.46,0.35,0,2.8,,,graines
+753,Graines oleagineuses et châtaignes,"noix, sechee, cerneaux",698,14.7,63.8,5.73,10.8,3,5.7,< 3,67.8,126,2.6,3,0,3.13,,,graines
+754,Graines oleagineuses et châtaignes,"pâte d'amande, pre0emballee",430,7.7,18,1.4,54.2,54.2,7.2,4,84,75,2.5,0,0,6.2,,,graines
+755,Graines oleagineuses et châtaignes,pignon de pin,695,13.7,65.4,4.63,5.58,3.59,10,9,6.2,227,4.6,"< 0,5",0,2.78,,,graines
+756,Graines oleagineuses et châtaignes,"pistache, grillee, salee",604,24.9,46.4,5.56,12,5.4,10.6,667,98.5,105,2.4,"< 0,5",0,1.97,,,graines
+757,Graines oleagineuses et châtaignes,"puree de marrons, appertisee",102,1.7,0.9,0.183,20.7,0,1.32,32.7,14.7,19.3,0,0,0,74.7,,,graines
+758,Graines oleagineuses et châtaignes,"sesame, graine",644,17.7,56.4,7.6,9.28,0.45,7.9,2.31,962,324,14.6,0,0,4.24,,,graines
+759,Graines oleagineuses et châtaignes,"tournesol, graine",642,20.2,52.7,5.91,15,1.97,6.4,4.67,94.3,364,4.9,0.467,0,1,,,graines
+760,"Herbes, epices et assaisonnements",ail frais,131,7.9,0.47,0.096,21.5,1.57,4.7,17.6,17.7,20.7,1.32,17,0,64,,,herbes - epices
+761,"Herbes, epices et assaisonnements","basilic, frais",30.7,3.12,0.72,0.0455,1.23,1.24,3.4,6.5,213,64,4.34,22,0,90,,,herbes - epices
+762,"Herbes, epices et assaisonnements",cannelle,266,3.96,1.88,0.507,36.6,28.8,43.5,15.3,1080,60,18.2,11.9,0,10.4,,,herbes - epices
+763,"Herbes, epices et assaisonnements","cerfeuil, frais",48.2,3.3,0.567,0.078,6.47,0,2,10,272,34,1.6,44.7,0,85.6,,,herbes - epices
+764,"Herbes, epices et assaisonnements","ciboule ou ciboulette, fraeche",34.4,2.3,0.433,0.064,4.42,3.95,1.83,12.3,69.5,21,1.23,34.2,0,90.2,,,herbes - epices
+765,"Herbes, epices et assaisonnements","coriandre, graine",346,12.4,17.8,0.966,13,13,41.9,35,709,330,16.3,21,0,8.88,,,herbes - epices
+766,"Herbes, epices et assaisonnements","cumin, graine",428,17.8,22.3,1.13,33.7,18,10.5,168,931,366,66.4,7.85,0,8.09,,,herbes - epices
+767,"Herbes, epices et assaisonnements","curry, en poudre",342,12.7,13.8,2.24,25.2,2.76,33.2,52,478,254,29.7,11.4,0,9.51,,,herbes - epices
+768,"Herbes, epices et assaisonnements","fleur de sel, non iodee, non fluoree",0,0,0,0,0,0,0,37700,171,424,0,0,0,3.74,,,herbes - epices
+769,"Herbes, epices et assaisonnements","gingembre, moulu",332,8.98,4.24,2.6,57.5,3.34,14.1,27,114,214,19.8,0.7,0,9.94,,,herbes - epices
+770,"Herbes, epices et assaisonnements","meloukhia, feuilles de corete sechees, en poudre",239,23,1.8,0,12.7,0,40,67.9,2000,609,87,0,0,8.4,,,herbes - epices
+771,"Herbes, epices et assaisonnements","menthe, fraeche",48.6,3.61,0.79,0.186,3.37,3.37,6.8,25.3,217,71.5,8.82,25.4,0,83.5,,,herbes - epices
+772,"Herbes, epices et assaisonnements",persil frais,46.5,3,0.843,0.132,4.57,2.3,4.3,90.7,190,32.1,4.32,190,0,84.9,,,herbes - epices
+773,"Herbes, epices et assaisonnements","poivre noir, moulu",304,10.9,3.3,0.99,44.5,38.3,26.5,44,430,190,11.2,0,0,10.5,,,herbes - epices
+774,"Herbes, epices et assaisonnements","raifort, cru",69.6,3.96,0.53,0.0905,9.54,7.99,5.4,113,86.6,29.7,1.24,97.3,0,78.8,,,herbes - epices
+775,"Herbes, epices et assaisonnements","sel blanc alimentaire, iode, non fluore (marin, ignigene ou gemme)",0,0,0,0,0,0,0,39000,13.3,3.15,0.21,0,0,0.027,,,herbes - epices
+776,"Herbes, epices et assaisonnements","sel blanc alimentaire, non iode, non fluore (marin, ignigene ou gemme)",0,0,0,0,0,0,0,39100,13.3,3.15,0.21,0,0,0.027,,,herbes - epices
+777,"Herbes, epices et assaisonnements","sel marin gris, non iode, non fluore",0,0,0,0,0,0,0,32200,181,503,0,0,0,5.09,,,herbes - epices
+778,"Herbes, epices et assaisonnements","thym, sec",291,6.07,4.94,2.73,41.7,1.71,27.8,36.7,1260,110,82.4,16.7,0,7.8,,,herbes - epices
+779,Huiles et graisses vegetales,"corps gras vegetal pour friture, en pain",900,0,100,92.6,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+780,Huiles et graisses vegetales,huile combinee (melange d'huiles),899,0,99.9,9.55,0,0,0,"< 4,29","< 4,99","< 0,583",0.0133,0,1.43,0,,,matiere grasse (huile beurre)
+781,Huiles et graisses vegetales,"huile combinee, melange d'huile d'olive et de graines",900,0,100,11.4,0,0,0,0,0,0,0,0,5,0,,,matiere grasse (huile beurre)
+782,Huiles et graisses vegetales,huile d'arachide,895,0,99.4,16,0,0,0,0,0,0,0.02,0,0,0,,,matiere grasse (huile beurre)
+783,Huiles et graisses vegetales,huile d'argan(e),899,0,99.9,17.6,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+784,Huiles et graisses vegetales,huile d'avocat,900,0,100,17.9,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+785,Huiles et graisses vegetales,huile de colza,900,0,100,6.98,0,0,0,"< 5,49","< 5,6","< 0,583",0.023,0,0,0,,,matiere grasse (huile beurre)
+786,Huiles et graisses vegetales,huile de maïs,897,0,99.7,12.4,0,0,0,0,0,0,0.0325,0,0,0.53,,,matiere grasse (huile beurre)
+787,Huiles et graisses vegetales,huile de noisette,900,0,100,8.22,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+788,Huiles et graisses vegetales,huile de noix,900,0,100,9.87,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+789,Huiles et graisses vegetales,huile de paraffine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+790,Huiles et graisses vegetales,huile de pepins de raisin,899,0,99.9,11.1,0,0,0,0,0,0,0,0,0,0,,,matiere grasse (huile beurre)
+791,Huiles et graisses vegetales,huile de sesame,899,0.0667,99.9,14.9,0,0,0,0.667,3.33,0,0.0333,0,0,0.0333,,,matiere grasse (huile beurre)
+792,Huiles et graisses vegetales,huile de soja,899,0,99.9,14.5,0,0,0,"< 1,11","< 3,84",1.52,0.0408,0,0,0,,,matiere grasse (huile beurre)
+793,Huiles et graisses vegetales,huile de tournesol,900,0,100,10.4,0,0,0,"< 1,11","< 2,57","< 0,583",0.0193,0,0,0,,,matiere grasse (huile beurre)
+794,Huiles et graisses vegetales,huile d'olive vierge,899,0,99.9,13.8,0,0,0,"< 1,11","< 2,57","< 0,583",0.0442,0,0,0,,,matiere grasse (huile beurre)
+795,Jus et nectars,"abricot, nectar",57.6,0.41,0.085,0.004,12.9,12.9,0.6,4.77,13.8,7.18,0.38,44.7,0,84.9,,,jus (verre)
+796,Jus et nectars,"ananas, jus e base de concentre",47.8,0.352,"< 0,1",0.004,10.6,10.6,"< 0,5",3.33,79.9,15.3,0.155,24.9,0,88.3,,,jus (verre)
+797,Jus et nectars,"ananas, pur jus",48.5,0.3,"< 0,1",0.004,11.6,11.6,0.2,1.1,8.2,13.8,0.225,9.5,0,86.3,,,jus (verre)
+798,Jus et nectars,"carotte, pur jus",26.6,0.817,0.1,0.0243,5.09,5.08,0.733,51,18.1,9.02,0.2,6,0,92.3,,,jus (verre)
+799,Jus et nectars,"citron vert, pur jus",24.2,0.25,0.23,0.026,1.49,1.37,0.4,16,12,7,0.23,6.4,0,92.5,,,jus (verre)
+800,Jus et nectars,"citron, jus presse maison",27.6,0.317,0.08,0.02,2.75,1.96,0.1,2.62,12.4,5.98,0.227,42.6,0,91.7,,,jus (verre)
+801,Jus et nectars,"clementine/mandarine, pur jus",51.4,0.61,0.125,0.0323,11.7,11.7,0.5,2.5,6,9,0.3,33.8,0,88,,,jus (verre)
+802,Jus et nectars,"fruit de la passion ou maracuja, nectar",48.8,0.2,0.1,0,10.2,0,0.6,3,1.7,3.8,0,17.4,0,87,,,jus (verre)
+803,Jus et nectars,"jus multifruit 0 base orange, multivitamine",46.9,0.49,"< 0,1",0.0209,10.2,10.2,0.65,0,0,10.1,0,31.4,0,87.4,,,jus (verre)
+804,Jus et nectars,"jus multifruit 0 base orange, standard",42.2,0.7,"< 0,1",0.0209,9,9.05,"< 0,5",0.25,0,11.8,0,36.2,0,88.6,,,jus (verre)
+805,Jus et nectars,"jus multifruit 0 base pomme, multivitamine",45.4,0.332,"< 0,4",0.0509,10.1,10.2,"< 0,5",0,0,5.9,0,16.2,0,88.2,,,jus (verre)
+806,Jus et nectars,"jus multifruit 0 base pomme, standard",47.4,0.332,"< 0,4",0.0509,10.6,10.1,"< 0,5",0,0,5.94,0,25.4,0,87.8,,,jus (verre)
+807,Jus et nectars,"jus multifruit, e base de concentre",47.9,0.44,0.1,0.0246,10.7,10.7,0,1.5,11.1,8.2,0.1,37,0,87.8,,,jus (verre)
+808,Jus et nectars,"jus multifruit, pur jus, multivitamine",46.5,0.4,"< 0,1",0.00954,10.6,10.4,0.467,4.49,7.27,9.18,0.115,32.7,"< 0,5",87.7,,,jus (verre)
+809,Jus et nectars,"jus multifruit, pur jus, standard",50.7,0.44,0.1,0.0111,11.6,11.6,0.25,1.7,8.8,7.8,0.1,23.5,0,87,,,jus (verre)
+810,Jus et nectars,"mangue, jus frais",40.6,0.2,0.2,0.0582,9.5,9.3,0,11,2,14.3,2.6,30,0,86,,,jus (verre)
+811,Jus et nectars,"mangue, nectar",61.7,0.2,0.2,0,14.4,0,0.6,2.7,5.22,4.97,0,0,0,84.3,,,jus (verre)
+812,Jus et nectars,"nectar multifruit 0 base orange, multivitamine",44.9,0.4,"< 0,1",0.0209,10.3,10.2,"< 0,5",0,0,6.3,0,36.2,0,88.1,,,jus (verre)
+813,Jus et nectars,"nectar multifruit 0 base orange, standard",48.1,0.4,0.1,0.0209,11,10.6,"< 0,5",0,0,6.7,0,13.2,0,87.4,,,jus (verre)
+814,Jus et nectars,"nectar multifruit 0 base pomme, multivitamine",44.6,0.1,"< 0,4",0.0509,9.95,9.1,0.6,0,0,4.4,0,15.1,0,88.7,,,jus (verre)
+815,Jus et nectars,"nectar multifruit 0 base pomme, standard",44,0.28,"< 0,4",0.0509,9.62,9.62,0.6,0,0,4.7,0,0,0,88.7,,,jus (verre)
+816,Jus et nectars,"nectar multifruit, multivitamine",46,0.29,"< 0,1",0.00776,10.5,10.4,0.6,7.2,3.1,5.4,0.2,33.1,"< 0,5",87.9,,,jus (verre)
+817,Jus et nectars,"nectar multifruit, standard",55.2,0.272,0.09,0.0074,12.9,9.45,0.3,1.8,7.8,4.93,0,11.8,0,85.9,,,jus (verre)
+818,Jus et nectars,"noix de coco, ""lait""",192,2.02,17.6,15.7,6.33,1.8,0.2,7.7,18,46,3.3,1,0,72.9,,,jus (verre)
+819,Jus et nectars,"noix de coco, eau",19.8,0.51,0.2,0.176,3.91,2.61,0,65,22,26.5,0.295,2.2,0,95,,,jus (verre)
+820,Jus et nectars,"orange, jus e base de concentre",42.4,0.71,"< 0,25",0.045,8.85,8.21,0.31,1.62,8.15,10.2,0.0736,36.3,0,88.7,,,jus (verre)
+821,Jus et nectars,"orange, jus presse maison",43.5,0.633,0.133,0.012,9.3,8.23,0.1,"< 1,11",10.5,13.2,0.0789,53.8,0,88.6,,,jus (verre)
+822,Jus et nectars,"orange, nectar",38.8,0.35,"< 0,1",0.0068,8.39,8.08,0.5,1.8,9.07,6.59,0,15.8,0,89.6,,,jus (verre)
+823,Jus et nectars,"orange, pur jus",43.7,0.708,"< 0,0954",0,9.39,8.69,"< 0,477",0.63,4.45,9.82,0.0583,38.3,0,88.2,,,jus (verre)
+824,Jus et nectars,"pamplemousse (pomelo), jus e base de concentre",36.7,0.507,"< 0,1",0,7.59,7.62,"< 0,5",4.67,10.4,8.14,0.22,32.4,0,89.9,,,jus (verre)
+825,Jus et nectars,"pamplemousse (pomelo), jus frais",38.4,0.4,0.05,0.007,8.04,8.04,0.05,5,11,12,0.3,33,0,89.9,,,jus (verre)
+826,Jus et nectars,"pamplemousse (pomelo), pur jus",37.5,0.62,"< 0,1",0,8.5,8.5,0.3,2.6,7,8.77,0.175,26,0,88.9,,,jus (verre)
+827,Jus et nectars,"poire, nectar",62.5,0.137,0.0367,0.0005,14.8,14.8,0.6,0.86,6.4,3.3,0.28,15.2,0,83.9,,,jus (verre)
+828,Jus et nectars,"pomme, jus e base de concentre",42.6,0.07,"< 0,23",0,9.96,9.65,0,3.2,8.33,4.76,0.0824,"< 15,1",0,89,,,jus (verre)
+829,Jus et nectars,"pomme, nectar",39,0.1,"< 0,4",0.0509,8.7,8.7,0.3,0,4.9,3.62,0,0,0,90.2,,,jus (verre)
+830,Jus et nectars,"pomme, pur jus",42.4,"< 0,1","< 0,1",0.00667,9.95,9.67,"< 0,5",1.55,2.42,3.95,0.35,21,0,88.4,,,jus (verre)
+831,Jus et nectars,"raisin, pur jus",68.1,0.18,"< 0,1",0.0267,16.1,15.5,0,1.86,10.8,7.21,0.448,0,0,82.6,,,jus (verre)
+832,Jus et nectars,"tomate, pur jus",20.8,0.73,0.0333,0,3.86,3.51,0.467,298,7,11.6,0.43,16.6,0,93.5,,,jus (verre)
+833,Laits,"boisson lactee aromatisee e la fraise, au lait partiellement ecreme",52.2,2.2,0.475,0.299,9.82,9.82,0,51,101,9.3,< 1,0.96,0.5,86.9,,,lait
+834,Laits,"boisson lactee aromatisee au chocolat, au lait partiellement ecreme, enrichie et/ou restauree en vitamines et/ou mineraux",68.1,3.6,1.07,0.7,10.8,9.55,0.567,42.8,106,18,0.243,0.24,0.455,83.3,,,lait
+835,Laits,"lait concentre non sucre, entier",199,7.35,7.53,4.59,25.6,10,0,109,286,25.2,0.103,1.9,1.05,58.1,,,lait
+836,Laits,"lait concentre sucre, entier",330,7.7,8.47,5.28,55.9,55.9,0,85.2,290,25.1,0.133,2.73,1.68,26.2,,,lait
+837,Laits,"lait de brebis, entier",97.6,5,6.33,3.91,5.27,5.2,0,45.3,187,18,0.0567,5,0.18,82.5,,,lait
+838,Laits,"lait de chevre, demi0ecreme, uht",55,3.27,2.8,1.72,4.25,0,0,0,0,0,0,0.198,"< 0,5",88.8,,,lait
+839,Laits,"lait de chevre, entier, cru",57.6,3.22,3.2,2.16,4.01,4.01,0,36.6,107,12.9,0.207,0,0,88.7,,,lait
+840,Laits,"lait de chevre, entier, uht",64.9,3.15,3.9,2.39,4.35,4.35,0,39.3,117,13,0.0767,1.15,0.085,87.8,,,lait
+841,Laits,"lait demi0ecreme, pasteurise",45,3.3,1.54,1,4.56,0,0,43.1,119,47.4,0.05,1,0.01,89.8,,,lait
+842,Laits,"lait demi0ecreme, uht",46,3.3,1.53,0.927,4.83,4.6,0,43.1,116.9,12.1,0.0466,1.36,0.01,89.6,,,lait
+843,Laits,"lait ecreme, pasteurise",33.4,3.4,0.15,0.0932,4.68,4.68,0,47.5,121,6.03,0.125,1,0,91,,,lait
+844,Laits,"lait ecreme, uht",31.5,3.28,0.15,0.11,4.32,4.3,0,41.8,113,10.6,0.05,1.3,0,91,,,lait
+845,Laits,"lait en poudre, demi0ecreme",421,29.1,14.6,9.7,43.9,43.9,0,347,1030,97,0.345,4,0.2,3.7,,,lait
+846,Laits,"lait en poudre, ecreme",354,35.8,0.749,0.493,51.8,51.8,0,422,1230,115,0.48,8.27,0.0143,3.74,,,lait
+847,Laits,"lait en poudre, entier",491,27.7,26.4,16.5,36.2,36.2,0,365,965,86.2,1.23,8.34,3.7,3.7,,,lait
+848,Laits,"lait entier, pasteurise",62.9,3.2,3.54,1.46,4.62,0,0,52.2,117,11,0.048,1,0.03,87.8,,,lait
+849,Laits,"lait entier, uht",64.6,3.2,3.71,2.3,4.67,0,0,42.2,112,11,0.05,0,0.03,87.7,,,lait
+850,Laits,"lait partiellement ecreme, aromatise, uht",68.4,2.9,0.6,0.372,12.9,0,0,41.3,87,16,0.03,0.96,0,83.3,,,lait
+851,Legumes,"artichaut, cru",44.4,2.8,0.2,0.043,4.92,1.44,5.43,56.6,39,29.5,0.72,10.3,0,85.2,,,assortiment de legumes
+852,Legumes,"artichaut, cuit",43.1,2.9,0.227,0.075,4.84,0.99,5.05,61.5,43.1,41.8,0.647,3.7,0,85.8,,,assortiment de legumes
+853,Legumes,"asperge, appertisee, egouttee",23,3.4,0.5,0.107,0.95,0.95,0.533,340,21,10,0.555,16,0,93.6,,,assortiment de legumes
+854,Legumes,"asperge, cuite",29.7,2.68,0.32,0.072,3.18,0.81,1.7,8.5,19.9,6.31,0.735,16,0,91.5,,,assortiment de legumes
+855,Legumes,"aubergine, cuite",35.2,0.83,0.2,0.0315,6.26,3.2,2.5,158,20.1,15,0.25,1.3,0,89.7,,,aubergine
+856,Legumes,"avocat, frais, pulpe",169,1.8,16,2.3,"< 3,13",1.03,5.18,"< 38,8",10.8,27.1,0.51,7.49,0,74,,,avocat
+857,Legumes,"bette, cuite",20.6,1.88,0.08,0.012,2.03,1.1,2.1,208,66.9,22.9,2.26,18,0,92.6,,,assortiment de legumes
+858,Legumes,"betterave rouge, cuite",43.4,2.3,0.1,0.0223,7.17,6.68,2.3,54.1,18.4,16.3,0.668,5,0,87.2,,,assortiment de legumes
+859,Legumes,"brocoli, cuit",28.7,2.1,0.51,0.124,2.82,1.39,2.23,53,55.8,11.5,< 1,37.3,0,91.9,,,assortiment de legumes
+860,Legumes,"cardon, cru",21.3,0.6,0.1,0.0105,3.69,1.5,1.6,17.4,58.5,21.3,0.2,4,0,92.9,,,assortiment de legumes
+861,Legumes,"carotte, appertisee, egouttee",26.1,0.58,0.33,0.0355,4.21,2.63,1.7,282,21.6,4.88,0.685,1.75,0,92.1,,,assortiment de legumes
+862,Legumes,"carotte, crue",36.3,0.803,0.26,0.0592,6.6,4.86,2.17,49,26.2,11.9,0.281,4,0,89.4,,,carotte
+863,Legumes,"carotte, cuite",27.7,0.76,0.1,0.023,4.94,3.78,2,93.8,46,10.7,"< 0,1",< 2,0,91.4,,,assortiment de legumes
+864,Legumes,"celeri branche, appertise",11.8,0.83,0.0867,0.0186,1.28,0,1.3,360,29.2,8,0,0,0,95,,,assortiment de legumes
+865,Legumes,"celeri branche, cru",15.8,1.2,0.2,0.043,1.16,1.11,2.28,109,53.3,9.23,0.29,8,0,94.2,,,assortiment de legumes
+866,Legumes,"celeri branche, cuit",13.2,0.83,0.0867,0.023,1.62,1.62,1.3,83.1,53.3,9,0.42,4,0,95.3,,,assortiment de legumes
+867,Legumes,"celeri0rave, cru",36.6,1.2,0.3,0.073,5.68,1.44,3.2,269,38.8,13.1,0.419,8,0,88.1,,,assortiment de legumes
+868,Legumes,"celeri0rave, cuit",35,0.96,0.86,0,4.56,0.73,2.6,58.2,52.4,15.1,0.32,4.35,0,90.2,,,champignons
+869,Legumes,"champignon de paris ou champignon de couche, cru",25,1.8,0.43,0.0675,2.73,0.2,1.33,16.9,28.5,8.61,1.66,1,0,92.9,,,champignons
+870,Legumes,"champignon de paris ou champignon de couche, saute",59,2.4,4.27,1.32,0.33,0,4.8,107,16.9,12.7,0.65,1.41,1.18,87,,,champignons
+871,Legumes,"champignon de paris, appertise",21.7,2.4,0.394,0.113,0.977,0.2,2.31,310,24.6,6.48,0.9,6.5,0,93.1,,,champignons
+872,Legumes,"champignon, tout type, appertise, egoutte",19.8,2.37,0.397,0.044,0.456,0.456,2.28,281,16.3,6.08,0.948,0,0.2,93,,,champignons
+873,Legumes,"champignon, tout type, cru",30.2,3.09,1.5,0,0.21,0.21,1.75,11.2,"< 22,8",10.9,0.5,1,0.2,92.6,,,champignons
+874,Legumes,"chicoree frisee, crue",12.9,1.2,0.233,0.056,0.95,0.95,1.1,12.5,64.3,19.3,1.05,12,0,95.2,,,assortiment de legumes
+875,Legumes,"chou blanc, cru",29.2,1.25,0.2,0.018,4.75,0,1.7,13,50,11.9,0.353,35.5,0,91.5,,,assortiment de legumes
+876,Legumes,"chou de bruxelles, appertise, egoutte",38.5,2.6,1,0.09,3.23,0,3.1,272,26.3,12.2,0.7,18,0,88.9,,,assortiment de legumes
+877,Legumes,"chou de bruxelles, cuit",41.2,2.55,0.11,0.0273,6.69,1.74,"< 3,2",9.7,36.2,16.9,"< 0,1",58.2,0,87.7,,,assortiment de legumes
+878,Legumes,"chou rouge, cru",32.8,1.61,0.2,0.0478,4.99,3.26,2.3,23,49.8,15,0.75,55,0,90.2,,,assortiment de legumes
+879,Legumes,"chou rouge, cuit e l'eau",22.5,0.8,0.3,0.0233,2.93,2.93,2.43,71.5,53.7,11.4,0.3,32,0,92.6,,,assortiment de legumes
+880,Legumes,"chou vert, cuit",20.3,1.36,0.45,0.006,< 3,2.5,2.4,114,58.5,12.5,0.14,20,0,94.7,,,assortiment de legumes
+881,Legumes,"chou0fleur, cru",28.2,2.46,0.31,0.07,2.34,2.21,2.77,8.92,23.8,12.3,0.548,57.9,0,91.1,,,assortiment de legumes
+882,Legumes,"chou0fleur, cuit",25.2,1.84,0.295,0.0621,2.79,2.08,2,< 59,19.6,12.5,"< 0,405",18.4,0,92.7,,,assortiment de legumes
+883,Legumes,"coeur de palmier, appertise, egoutte",33.1,2.73,0.61,0.13,3.4,0,1.55,740,46.1,12.3,0.36,7.9,0,89.7,,,assortiment de legumes
+884,Legumes,"concombre, cru, pulpe",12,0.59,0.19,0.013,1.63,1.38,0.7,4.25,14,12,0.17,3.73,0,97,,,assortiment de legumes
+885,Legumes,"courgette, pulpe et peau, crue",20,1.34,0.273,0.0473,2.49,1.9,1.13,2.84,18.4,26,0.77,21,0,94.1,,,assortiment de legumes
+886,Legumes,"courgette, pulpe et peau, cuite",19.2,1.14,0.29,0.072,2.34,1.71,1.35,< 185,20.3,21.8,"< 0,496",6.95,0,94.1,,,assortiment de legumes
+887,Legumes,"cresson de fontaine, cru",21.2,1.6,0.3,0.111,2.09,0.3,1.89,39.7,130,19.8,2.15,56.5,0,93.1,,,assortiment de legumes
+888,Legumes,"echalote, crue",76.1,1.9,0.15,0.017,15.9,3.2,1.8,11,31,16.5,0.95,9,0,79.4,,,assortiment de legumes
+889,Legumes,"endive, crue",17.4,1.03,0.2,0.0527,2.37,1.72,1,2.49,23.2,11.8,0.158,3.25,0,95,,,assortiment de legumes
+890,Legumes,"endive, cuite",17.9,0.6,0.3,0,2.7,0,1,120,42.2,12,0.4,1,0,94.8,,,assortiment de legumes
+891,Legumes,"epinard, cru",34.5,2.7,0.425,0.0656,3.2,0.53,3.55,70,98.2,69.2,3.42,39.3,0,91.5,,,assortiment de legumes
+892,Legumes,"epinard, cuit",26.8,2.97,0.14,0.0366,1.87,0.43,3.07,90.7,141,53,2.14,5.05,0,90.7,,,assortiment de legumes
+893,Legumes,"fenouil, cru",21.2,0.9,0.2,0,3.01,1.7,1.9,11,24,8,0.3,5,0,93,,,assortiment de legumes
+894,Legumes,"fenouil, cuit e l'eau",15.5,1.13,"< 0,1","< 0,028",1.63,0.5,2,125,43.7,10.8,0.2,1.6,0,94.4,,,assortiment de legumes
+895,Legumes,"haricot beurre, appertise, egoutte",23.6,1.48,0.127,0.0345,2.8,1.25,2.65,273,42.9,15.2,0.74,5.97,0,92.1,,,haricot
+896,Legumes,"haricot mungo germe ou pousse de ""soja"", appertise, egoutte",28.4,1.6,0.22,0.016,3.5,0.4,2.7,226,41.2,8.63,0.448,1,0,91.7,,,haricot
+897,Legumes,"haricot mungo germe ou pousse de ""soja"", frais",44.4,3.81,0.52,0.0793,5.16,3.38,1.2,24.7,44.2,38,1.34,14.2,0,88.9,,,haricot
+898,Legumes,"haricot vert, appertise, egoutte",23.9,1.35,0.1,0.0318,2.75,0.86,3.1,281,48.1,16.7,2.15,3.45,0,91.6,,,haricot
+899,Legumes,"haricot vert, cuit",33.3,1.35,0.155,0.0491,5.08,2.26,3.07,144,56.3,22.4,0.569,8,0,89.7,,,haricot
+900,Legumes,"haricot vert, surgele, cuit",32,1.7,0.1,0.0303,4.43,1.14,3.3,8,56,17,0.6,7,0,90,,,laitue
+901,Legumes,"laitue romaine, crue",18.2,1,0.6,0.0395,1.28,1.19,1.83,1,21,6,0.6,5,0,94.7,,,laitue
+902,Legumes,"laitue, crue",13.6,1.34,0.2,0.0363,1.39,0.63,"< 0,5",13.2,44.7,12.5,0.357,3.67,0,95.8,,,laitue
+903,Legumes,"laitue, cuite",12.2,1.2,0.14,0,0,0,3.07,0,0,0,0,0,0,95,,,laitue
+904,Legumes,"legumes, melange surgele",127,3.33,5.55,1.66,13.5,4,4.7,53,25.5,24,0.95,10.4,0,71.3,,,assortiment de legumes
+905,Legumes,"macedoine de legumes, appertisee, egouttee",47.6,1.9,0.8,0.051,6.71,2.41,3,358,35.5,11.1,1,1,0,86.7,,,assortiment de legumes
+906,Legumes,"mâche, crue",20.9,2.02,0.395,0.0725,1.25,0,2.12,7.12,90.7,29.1,1.9,8.85,0,93.2,,,laitue
+907,Legumes,"maïs doux, appertise, egoutte",103,2.95,1.39,0.164,17.8,3.54,3.92,235,"< 5,47",24.8,0.385,3.1,0,72.9,,,mais
+908,Legumes,"maïs doux, en epis, cuit",99.9,3.41,1.5,0.197,16.4,4.77,3.56,1,3,26,0.45,7,0,74.5,,,assortiment de legumes
+909,Legumes,"navet, cuit",21.4,0.71,0.2,0.008,3.1,2.99,2.2,11.3,37.7,8.68,0.123,7.8,0,93.2,,,assortiment de legumes
+910,Legumes,"navet, pele, cru",21.1,0.945,0.26,0.0055,2.39,2.19,2.7,33.8,38.7,9.72,0.258,18.5,0,93,,,assortiment de legumes
+911,Legumes,"oignon, cru",43.2,1.25,0.585,0.0443,7.37,5.35,1.42,< 39,31,9.16,0.143,6,0,88.7,,,assortiment de legumes
+912,Legumes,"oignon, cuit",30.2,1.04,0.2,0.0235,5.36,3.82,1.4,6.4,28.9,12.8,0.21,2.55,0,91.5,,,assortiment de legumes
+913,Legumes,"oseille, crue",21.3,2,0.7,0,0.3,0,2.9,4,44,103,2.4,48,0,93,,,assortiment de legumes
+914,Legumes,"oseille, cuite e l'eau",21.7,1.83,0.14,0.0254,2.93,2.8,0.7,3,38,89,2.08,26.3,0,93.6,,,assortiment de legumes
+915,Legumes,"petit pois, appertise, egoutte",87.3,5.36,0.4,0.149,12.7,1.77,5.75,259,23.9,20.2,1.48,12,0,74.7,,,assortiment de legumes
+916,Legumes,"petit pois, cuit",70.8,5.18,0.555,0.039,8.27,3.86,6,167,33.5,31.6,1.19,8.9,0,79.2,,,assortiment de legumes
+917,Legumes,"petits pois et carottes, appertises, egouttes",53.4,2.78,0.285,0.049,8.92,4.49,2,244,29,18,1.18,3.75,0,85.1,,,assortiment de legumes
+918,Legumes,"pissenlit, cru",52,2.85,0.85,0.085,6.9,0.71,2.7,44.3,62.2,13.2,3.1,37.5,0,85.3,,,assortiment de legumes
+919,Legumes,"poireau, cru",29.2,2.08,0.28,0.0463,3.35,3.35,2.46,11.2,27.4,8.02,0.752,17,0,90.9,,,poireau
+920,Legumes,"poireau, cuit",24.6,0.81,0.2,0.027,3.28,2.11,3.2,3,25.3,8.44,"< 0,759",4.15,0,92.1,,,assortiment de legumes
+921,Legumes,"poivron rouge, cru",34.3,1,0.4,0.055,5.73,4.2,1.9,6.76,8.72,10.9,0.395,162,0,90.4,,,assortiment de legumes
+922,Legumes,"poivron rouge, cuit",33.4,1.1,0.4,0.0455,5.74,4.39,1.2,686,9,14,0.63,81,0,89.5,,,assortiment de legumes
+923,Legumes,"poivron vert, cru",21.3,0.8,0.3,0.0565,3.08,1.93,1.52,"< 10,7",11,9.59,0.315,120,0,93.9,,,assortiment de legumes
+924,Legumes,"poivron vert, cuit",28.5,1,0.5,0.029,4.39,3.19,1.2,70,9,10,0.4,69,0,92.6,,,assortiment de legumes
+925,Legumes,"poivron, vert, jaune ou rouge, cru",26.7,0.9,0.3,0.0341,4.2,4.2,1.8,2,13,10,0.58,120,0,92,,,assortiment de legumes
+926,Legumes,"poivron, vert, jaune ou rouge, cuit",28.9,0.92,0.4,0.0455,4.8,4.7,1.2,2,9,10,0.46,74.4,0,91.9,,,assortiment de legumes
+927,Legumes,"potiron, appertise, egoutte",68.1,0.75,0.19,0.0865,14.9,3.3,1.9,123,23,15,0.87,4.2,0,81.8,,,assortiment de legumes
+928,Legumes,"potiron, cuit",13.6,0.6,"< 0,1",0.0585,1.9,0.6,1.6,9.3,25.9,5.9,< 1,0.7,0,95.3,,,assortiment de legumes
+929,Legumes,"pourpier, cru, feuilles",16.1,1.75,0.2,0.0384,0.755,0,2.12,45,90,77.5,1.7,21,0,93.9,,,assortiment de legumes
+930,Legumes,"radis noir, cru",17.8,2.8,"< 0,1",0,0.6,0,1.9,8.6,53.8,11,0.15,6.4,0,93.6,,,assortiment de legumes
+931,Legumes,"radis rouge, cru",13.1,0.76,"< 0,1",0.0292,1.77,1.77,1.1,22.1,30.6,11.2,0.603,17,0,95.4,,,assortiment de legumes
+932,Legumes,"salade verte, sans assaisonnement",15.5,0.7,0.1,0.0182,2.31,1.7,1.3,13.6,48.7,20,0.852,1.95,"< 0,5",95.1,,,assortiment de legumes
+933,Legumes,"salsifis, appertise, egoutte",28.3,1.5,0.3,0.0911,3.66,1.31,2.5,385,21,8.9,0,0,0,91.4,,,assortiment de legumes
+934,Legumes,"salsifis, cuit",46.3,2.73,0.135,0.041,7.5,2.9,2.1,16,47,18,0.55,1,0,86.8,,,assortiment de legumes
+935,Legumes,"scarole, crue",17.8,1.4,0.25,0.048,0.95,0.7,3.1,16,65.5,14,0.83,9.75,0,92.9,,,assortiment de legumes
+936,Legumes,tomate cerise crue,29.4,0.8,"< 0,8",0.0178,5,3,1.3,13,11,11,0.4,28,0,92,,,tomate
+937,Legumes,"tomate entiere, pelee, appertisee, egouttee",16.2,0.92,"< 0,2",0.0403,1.93,1.93,1.27,203,14.8,9.66,0.97,12,0,94.6,,,tomate
+938,Legumes,"tomate, concentre",91.5,3.27,0.53,0.08,16.3,14.7,4.25,108,45.6,63.3,1.2,2.6,0,72,,,tomate
+939,Legumes,"tomate, crue",16.4,0.8,0.26,0.048,1.72,1.68,1.41,3.29,8.24,10.1,0.151,14.3,0,94.5,,,tomate
+940,Legumes,"tomate, pulpe, appertisee",33.2,1.64,0.28,0.04,4.74,3.5,1.9,88.1,34,20,1.3,9.2,0,89.4,,,tomate
+941,Legumes,"tomate, puree",31.7,1.65,"< 1,3",0.029,3.12,3.12,1.9,350,32.6,24.3,1.13,9.53,0,89.5,,,tomate
+942,Legumes,"topinambour, cuit",71.2,2,0.7,0,12.8,9.6,2.85,35.9,32.9,14.1,0.2,2.6,0,80.2,,,assortiment de legumes
+943,Legumes secs,"feve, cuite",60.6,5.1,0.8,0.104,6.05,1.82,4.4,20,18,19,0.8,20,0,82.8,,,assortiment de legumes
+944,Legumes secs,"haricot blanc, appertise, egoutte",94.3,7.26,0.495,0.076,11.8,0.29,6.82,405,68.3,25.7,2.99,0,0,72.4,,,assortiment de legumes
+945,Legumes secs,"haricot blanc, cuit",104,8.42,0.325,0.091,13.6,0.758,6.3,77.5,55.2,60.6,1.7,0,0,69.6,,,assortiment de legumes
+946,Legumes secs,"haricot flageolet, appertise, egouttes",84.4,4.07,0.79,0.066,11.7,0.728,7.12,347,45.4,30,1.56,< 1,0,74.9,,,assortiment de legumes
+947,Legumes secs,"haricot rouge, cuit",111,8.58,0.525,0.0817,14.4,3.8,7.34,161,46.3,29.6,2.32,1,0,68,,,assortiment de legumes
+948,Legumes secs,"lentille, cuisinee, appertisee, egouttee",88.2,6.4,1.09,0.158,11,0.899,4.37,397,29,14.6,1.67,0,0.015,75.9,,,assortiment de legumes
+949,Legumes secs,"lentille, cuite",112,8.1,0.55,0.053,16.6,1.23,4.2,123,25.8,35.5,1.59,0,0,69.6,,,assortiment de legumes
+950,Legumes secs,"pois casse, cuit",121,8.5,1.09,0.147,14,0.65,10.6,135,24.7,20.9,1.96,0,0,65,,,assortiment de legumes
+951,Legumes secs,"pois chiche, cuit",139,8.86,1.09,0,21.1,0,4.8,154,41.2,27.5,0,0,0,63.9,,,assortiment de legumes
+952,Legumes secs,tofu,125,11.5,7.43,0.696,1.64,0.8,0.5,139,80.2,134,2.9,0.0333,0,77.7,,,assortiment de legumes
+953,Liqueurs et alcools,aperitif e la gentiane,150,0,0,0,16.5,0,0,0,0,0,0,0,0,71.3,,,vin
+954,Liqueurs et alcools,eau de vie,237,0,0,0,0.789,0.129,0,1.75,0,0,0,0,0,65.9,,,vin
+955,Liqueurs et alcools,gin,265,0,0,0,0,0,0,2,0,0,0.07,0,0,62.1,,,vin
+956,Liqueurs et alcools,liqueur,196,0,0,0,24.8,23.8,0,3.25,7.67,6.4,0.413,0,0,61.2,,,vin
+957,Liqueurs et alcools,pastis,274,0,0,0,2.81,2.33,0,2,0,0,0,0,0,59.7,,,vin
+958,Liqueurs et alcools,rhum,242,0,0,0,0,0,0,1,0,0,0.0867,0,0,63.4,,,vin
+959,Liqueurs et alcools,vodka,239,0,0.92,0,0,0,0,458,0.1,48.3,2.6,0,"< 0,5",66.7,,,vin
+960,Liqueurs et alcools,whisky,238,0,0,0,0,0,0,0.544,0.68,0.099,0.0446,0,0,63.4,,,vin
+961,Margarines et matieres grasses composees,"margarine e 80% mg, au tournesol, en barquette",735,0.05,81.6,16.1,0.2,0.2,0,170,3.05,"< 0,583",0.157,0.14,0,17.5,,,matiere grasse (huile beurre)
+962,Margarines et matieres grasses composees,"margarine e 80% mg, en pain",761,0.0667,84.4,38.3,0.167,0,0,174,11.1,4.19,0.03,0.1,0,16.3,,,matiere grasse (huile beurre)
+963,Margarines et matieres grasses composees,"matiere grasse e 35% mg, legere, enrichie en sterols/stanols",363,0.1,38.5,8.15,4,0,0,147,3.8,< 2,< 1,< 1,0,52.3,,,matiere grasse (huile beurre)
+964,Margarines et matieres grasses composees,"matiere grasse e 38-41% mg, legere, e tartiner",361,1.9,39,14.2,0.6,0,0,79.6,20.8,2.5,< 1,< 1,0,56.9,,,matiere grasse (huile beurre)
+965,Margarines et matieres grasses composees,"matiere grasse e 38-41% mg, legere, e tartiner, demi0sel",367,1.5,38.3,14.6,4.1,0,0,752,54.3,6.1,< 1,2.2,0,55.3,,,matiere grasse (huile beurre)
+966,Margarines et matieres grasses composees,"matiere grasse e 38-41% mg, legere, avec ala et dha",359,0.1,38.8,8.32,2.4,0,0,89.5,7.9,< 2,< 1,< 1,0,58.2,,,matiere grasse (huile beurre)
+967,Margarines et matieres grasses composees,"matiere grasse e 55-60% mg, allegee, enrichie en sterols/stanols",558,0,62,13.7,0,0,0,195,2.3,< 2,< 1,2.5,0,31.3,,,matiere grasse (huile beurre)
+968,Margarines et matieres grasses composees,"matiere grasse e 55-60% mg, allegee, riche en omega 3 et 6",516,"< 0,1",57.2,12.8,"< 0,3",0,0,114,4.3,< 2,< 1,< 1,0,41.7,,,matiere grasse (huile beurre)
+969,Margarines et matieres grasses composees,"matiere grasse e 60%mg, allegee",540,"< 0,1",59.9,17.2,0.3,0,0,159,5.1,< 2,< 1,< 1,0,40.9,,,matiere grasse (huile beurre)
+970,Margarines et matieres grasses composees,"matiere grasse e 70% mg, en pain",634,0.1,70.4,33.4,0,0,0,276,6.9,< 2,< 1,2.4,0,27.8,,,matiere grasse (huile beurre)
+971,Margarines et matieres grasses composees,"matiere grasse composee e 60% mg, allegee",536,0.4,59.3,20.2,0.25,0,0,203,13.4,< 2,< 1,1,1,36.1,,,matiere grasse (huile beurre)
+972,Margarines et matieres grasses composees,"matiere grasse composee e 60% mg, allegee, demi0sel",542,0.4,59.9,22.2,0.35,0,0,651,13.9,< 2,< 1,< 1,0,36.9,,,matiere grasse (huile beurre)
+973,Oeufs et derives,"blanc d'oeuf, cuit",45.7,10.3,0.18,0,0.71,0.71,0,155,6.67,9.67,0.067,0,0,87.8,,,œufs
+974,Oeufs et derives,"jaune d'oeuf, cru",345,16,31,8.48,0.5,0.5,0,34.5,91.6,8.25,2.75,0,3.25,50.9,,,œufs
+975,Oeufs et derives,"jaune d'oeuf, cuit",339,16.5,30.1,8.49,0.6,0.56,0,14,76.4,4.5,0.95,0,2.11,50.3,,,œufs
+976,Oeufs et derives,oeuf e la coque,141,12.3,9.82,2.89,0.8,0.77,0,150,69.9,11.7,1.9,"< 0,5",1.28,74.6,,,œufs
+977,Oeufs et derives,"oeuf au plat, frit, sale",205,12.7,16,3.85,2.43,0.4,0,144,57,10.4,2.2,0,0.55,67.9,,,œufs
+978,Oeufs et derives,"oeuf au plat, sans matiere grasse",147,13.8,9.72,3.21,1.01,0,0,159,0,0,2.6,0,0.74,74.6,,,œufs
+979,Oeufs et derives,oeuf brouille,204,13.8,16.2,6.59,0.87,0.87,0,224,57,14,2.59,1.65,1.72,66.7,,,œufs
+980,Oeufs et derives,oeuf dur,134,13.5,8.62,2.85,0.52,0.52,0,124,41,14,1.75,0,1.12,76.5,,,œufs
+981,Oeufs et derives,oeuf poche,138,12.5,9.47,2.99,0.71,0.37,0,79.3,68.2,10.8,1.75,0,2,75.9,,,œufs
+982,Oeufs et derives,"oeuf, cru",145,12.3,10.3,2.74,0.7,0.685,0,128,68.6,11.2,1.75,0,1.5,75.9,,,œufs
+983,Oeufs et derives,omelette au fromage,247,17.9,19.3,10.4,0.4,0.4,0,231,164,23.6,1.16,0,1.39,58.5,,,œufs
+984,Oeufs et derives,omelette aux champignons,119,8.18,9.2,3.45,0.7,0.653,0.45,141,48,11.4,1.4,0.7,1.11,79,,,œufs
+985,Oeufs et derives,omelette aux fines herbes,143,9.46,11.2,4.19,0.8,0.8,0.55,172,86,14.5,1.83,14.4,1.38,75.7,,,œufs
+986,Oeufs et derives,omelette aux lardons,264,12.5,23.5,6.78,0.678,0.678,0,392,48.2,12,1.39,0,1.11,61,,,œufs
+987,Oeufs et derives,"omelette nature, avec matiere grasse et sel",196,13.8,15.3,4.93,0.895,0.31,0,166,80.2,10.7,1.8,0,0.53,69,,,œufs
+988,Pains,"pain au lait, preemballe",358,8.7,10.9,7.17,55.8,0,0.81,467,41.6,19.2,< 1,0,"< 0,2",22.3,,,pains
+989,Pains,pain complet ou integral (e la farine t150),269,9.04,1.75,0.386,50.6,1.72,5.6,603,33,108,6.83,0,0,30.9,,,pains
+990,Pains,"pain courant français, 400g ou boule",258,7.54,0.95,0.277,52.3,1.8,3.43,525,39.2,27.9,1.6,0,0,34,,,pains
+991,Pains,"pain de mie, complet",258,8.35,4.32,0.865,42.1,5.47,7.23,516,87,167,8.8,0,0,35.7,,,pains
+992,Pains,"pain de mie, courant",281,8.2,4.7,1.14,49.2,5.39,2.96,498,231,49.3,< 10,0,0,32.9,,,pains
+993,Pains,"pain de mie, multicereale",286,8.8,7.19,1.04,43.3,< 6,4.96,446,66.7,156,9.95,< 1,"< 0,5",33.5,,,pains
+994,Pains,"pain de seigle, aux raisins",260,7.8,4.85,0.193,43.5,0,3.9,335,31,30.9,2.23,0,0,38,,,pains
+995,Pains,"pain de seigle, et froment",266,8.15,2.16,0.311,49.8,1.8,5.93,393,92.5,110,5.08,0.133,0,31.8,,,pains
+996,Pains,"pain grille, domestique",340,9.56,1.16,0.129,69.8,4,4.2,848,78.2,29,1.18,"< 0,5","< 0,5",13.2,,,pains
+997,Pains,"pain, baguette ou boule, aux cereales et graines, artisanal",301,9.34,5.03,0.749,50.9,1,5.57,610,37.2,181,6.68,"< 0,5","< 0,5",27,,,pains
+998,Pains,"pain, baguette ou boule, de campagne",273,8.89,1.35,0.138,53.8,1.85,3.36,669,61.9,45.5,3.62,0,0,30.7,,,pains
+999,Pains,"pain, baguette, courante",286,9.33,1.47,0.164,56.6,2.12,3.02,681,52.4,19.7,1.5,0,0,27.4,,,pains
+1000,Pains,"pain, baguette, sans sel",290,8.39,1.31,0.188,58.9,1.9,2.84,0,35.8,19.5,0,0,0,26.9,,,pains
+1001,Pâtes et semoules,"couscous, graine cuite",169,3.79,0.77,0.029,35.7,0.1,1.4,123,14.6,31.5,0.776,0,0,57.9,,,pâtes
+1002,Pâtes et semoules,gnocchi aux pommes de terre,179,5.01,2.05,0.26,34.3,1.1,1.5,402,5.1,18.8,0.7,5,"< 0,5",55.5,,,pâtes
+1003,Pâtes et semoules,"pâtes alimentaires au ble complet, crues",353,11.8,2.2,0.307,67.6,1.8,6.1,4.21,26.1,76.7,3.2,0,0,11,,,pâtes
+1004,Pâtes et semoules,"pâtes alimentaires au ble complet, cuites",144,5,0.94,0.099,26.8,0.933,3.6,3.5,22.8,36.7,1.3,0,0,63.2,,,pâtes
+1005,Pâtes et semoules,"pâtes alimentaires aux oeufs, cuites",168,5.8,1.46,0.411,31.8,0,1.5,40.6,19.4,25.2,0.946,0,"< 0,2",59.1,,,pâtes
+1006,Pâtes et semoules,"pâtes alimentaires aux oeufs, fraeches, cuites",168,5.8,1.3,0.429,32,0,1.5,16.8,24.1,20.9,1.1,0,"< 0,2",59.1,,,pâtes
+1007,Pâtes et semoules,pâtes alimentaires cuites,151,4.85,0.753,0.103,29.7,0.47,2.28,115,16.5,24.5,"< 0,65",0,0,62.1,,,pâtes
+1008,Pâtes et semoules,"polenta ou semoule de maïs, cuite",61.8,1.4,0.31,0.0386,13.2,0,0.29,3,8.9,8.3,< 1,0,0,84.7,,,0
+1009,Pâtes et semoules,"vermicelle de riz, cuite",238,4.8,0.73,0.13,52.2,0,1.2,6,14,7.8,< 1,0,0,40.9,,,0
+1010,Pâtes et semoules,"vermicelle de riz, seche",363,7.4,1,0.3,79.9,0,1.85,18,14.2,13,< 1,0,0,9.5,,,0
+1011,Pâtes et semoules,"vermicelle de soja, cuite",60.7,"< 0,09",0.1,0.0145,14.5,0,0.8,2.5,14.2,2.9,< 1,0,0,84.4,,,0
+1012,Pâtes et semoules,"vermicelle de soja, seche",340,"< 0,09",0.07,0,83.2,2,3.3,10.3,25.2,9.6,< 1,0,0,13.1,,,0
+1013,"Pizzas, crepes et tartes salees",crepe fourree bechamel fromage,182,7.31,8.3,5.27,19.1,3.3,0.87,346,178,18.6,0.54,0.37,0.47,63.5,,,
+1014,"Pizzas, crepes et tartes salees",crepe fourree bechamel jambon,211,7.5,8,3.04,26.9,2.5,0.81,494,0,16.9,0.575,0,0,54.3,,,
+1015,"Pizzas, crepes et tartes salees",crepe fourree bechamel jambon fromage,164,7.4,6.85,2.55,17.7,2.74,0.81,438,97.1,14.9,0.56,1.59,0.73,65.3,,,
+1016,"Pizzas, crepes et tartes salees",crepe fourree bechamel jambon fromage champignon,145,5.97,6.72,4.02,14.6,1.99,1.07,260,35.3,12.3,0.6,1.23,0.48,71.4,,,
+1017,"Pizzas, crepes et tartes salees",flammenkueche ou tarte flambee aux lardons,263,8.93,13.1,4.88,26.9,2.89,2.14,554,61.7,18.3,0.733,0.8,0.4,48.1,,,
+1018,"Pizzas, crepes et tartes salees","pizza ""speciale""",240,7.88,10.1,0,28.4,3.91,2.1,506,101,23.4,0.25,2.5,"< 0,5",49.1,,,
+1019,"Pizzas, crepes et tartes salees",pizza 4 fromages,244,11.3,10.4,4.04,25.3,1.45,1.88,426,232,22,0.81,3.64,0.05,48.4,,,
+1020,"Pizzas, crepes et tartes salees",pizza 4 saisons,188,7.08,6.62,1.63,23.8,2.08,2.46,361,127,20.8,0.82,5.19,0.03,58.6,,,
+1021,"Pizzas, crepes et tartes salees",pizza fromage,236,9,9.97,4.04,26.2,7.34,2.3,565,179,21.3,1.34,3,0.1,50.3,,,
+1022,"Pizzas, crepes et tartes salees",pizza jambon fromage,216,8.9,6.96,2.62,27.8,0,3.5,665,189,24.4,0.7,1.45,"< 0,5",50.3,,,
+1023,"Pizzas, crepes et tartes salees",pizza jambon fromage champignons ou pizza royale,200,10.4,6.89,2.82,22.5,0,3.4,488,155,20.1,0.7,0,"< 0,5",54.8,,,
+1024,"Pizzas, crepes et tartes salees",quiche lorraine,292,10.5,18.7,8.23,22.2,1.7,0.867,495,106,15,0.83,0.483,1,52.1,,,
+1025,"Pizzas, crepes et tartes salees",tarte au fromage,263,10.4,15.6,7.89,19.8,2.19,0.7,360,160,16,0.54,0.21,1.06,51.5,,,
+1026,"Pizzas, crepes et tartes salees",tarte aux legumes,237,8.7,14.8,6.26,16.4,2.18,1.7,380,116,15.5,0.34,4,1,56.4,,,
+1027,"Pizzas, crepes et tartes salees",tarte aux poireaux,257,5.44,16.2,6.85,21.3,0,2,384,0,0,0,0,0,53.4,,,
+1028,"Pizzas, crepes et tartes salees",tarte provençale e la tomate,218,5.4,12.7,5.23,18.9,2.89,3.24,320,62.5,14.5,0.63,4.25,0.95,57.9,,,
+1029,"Pizzas, crepes et tartes salees",tarte saumon et oseille,230,7.08,13.5,5.96,19.5,1.95,0.95,300,59.2,17.7,0.63,1.83,2.59,57.4,,,
+1030,"Pizzas, crepes et tartes salees",tourte aux poireaux,258,5.38,16.1,7.66,22,2.02,1.85,330,49.2,14.2,0.64,2.58,1.26,53,,,
+1031,Plats e base de cereales ou pâtes,cannelloni e la viande,154,9.55,5.73,1.28,15.5,1.15,1.15,398,82.5,19.3,1.8,2.7,0.2,67.2,,,
+1032,Plats e base de cereales ou pâtes,couscous e la viande,152,6.7,5.78,1.15,17.2,0,2.13,333,25.2,18.8,0,0,0,66.9,,,
+1033,Plats e base de cereales ou pâtes,couscous au poulet,158,7.4,6.21,1.02,17.4,0.94,1.52,337,24.2,18.7,0.86,4.05,0.01,66.9,,,
+1034,Plats e base de cereales ou pâtes,couscous mouton,148,8.3,5.4,1.99,15.9,1.4,1.3,310,26.6,30.2,1.09,5,0.135,67.7,,,
+1035,Plats e base de cereales ou pâtes,couscous royal e la viande,149,8.3,5.67,1.85,15.1,0.956,2.13,327,23.5,18.4,0.93,1.69,0,67.5,,,
+1036,Plats e base de cereales ou pâtes,gratin de pâtes,150,7.9,7.34,3.27,12.6,1.88,1.2,353,116,20,0.4,1.1,0.3,69.5,,,
+1037,Plats e base de cereales ou pâtes,lasagnes e la bolognaise,140,6.85,6.65,1.57,12.9,3.03,0.63,333,47.5,20.8,0.754,3.52,0.02,71.5,,,
+1038,Plats e base de cereales ou pâtes,paella,169,8.85,4.64,0.902,22.4,0.725,1.02,313,24.2,21.5,0.59,4.68,0,61.6,,,
+1039,Plats e base de cereales ou pâtes,"pâtes e la bolognaise (spaghetti, tagliatelles…)",137,5.91,4.83,0.555,16.9,2.62,1.29,397,14,19.6,0.79,4.22,0,69.9,,,
+1040,Plats e base de cereales ou pâtes,"pâtes e la carbonara (spaghetti, tagliatelles…)bi",166,6.33,7.72,2.92,17.7,0.74,0.44,377,36.1,14.6,0.45,0.82,0.1,67,,,
+1041,Plats e base de cereales ou pâtes,"ravioli e la viande, sauce tomate",97.4,3,3.17,0.931,13.5,2.57,1.45,454,21.3,14.9,1.1,0,0,77.4,,,
+1042,Plats e base de cereales ou pâtes,"ravioli frais au fromage, cuit",209,8.6,6.5,3.84,27.7,0.8,2.7,383,141,21.7,1,0.2,0.05,53.1,,,
+1043,Plats e base de cereales ou pâtes,riz cantonnais,141,5.2,3.69,0.511,21.1,1.24,1.16,362,16.7,8.47,0.4,0.97,"< 0,5",67.7,,,
+1044,Plats e base de cereales ou pâtes,"spaghetti, sauce tomate",67.4,1.9,0.4,0.0521,12.6,5.04,2.9,118,17.8,12.9,0.3,0,0,81.9,,,
+1045,Plats e base de fromage,feuillete ou friand au fromage,332,7.22,20.6,10.6,27.5,5.88,3.8,574,119,15.6,1.4,0,1.1,39.3,,,
+1046,Plats e base de fromage,feuillete ou friand bechamel jambon fromage,347,9.4,20.5,12.7,30.7,2.37,1.24,434,201,17.8,0.66,0.627,0.793,36.4,,,
+1047,Plats e base de fromage,fondue savoyarde,234,16.2,16.6,11.4,2.31,0.233,0.35,511,517,21.7,0.3,0,"< 0,5",59.9,,,
+1048,Plats e base de fromage,fromage pane,293,13.5,18.4,11.6,18,0.6,< 1,720,334,18.6,0.5,1.7,"< 0,5",46.1,,,
+1049,Plats e base de fromage,fromage pane au jambon,227,17.4,10.8,2.86,14.9,1.5,< 1,928,84.9,25.8,0.8,< 1,"< 0,5",52.8,,,
+1050,Plats e base de fromage,"gougere, faite maison",424,14.2,31.1,13.8,21.4,0.7,0.8,534,204,21,1.5,0,0.89,30,,,
+1051,Plats e base de fromage,souffle au fromage,198,9.9,14.2,7.29,7.43,2.5,0.2,391,226,19.7,0.6,1,0.5,67.3,,,
+1052,Plats e base de fromage,tartiflette,144,4.67,8.2,4.84,12.5,0.968,0.82,255,63.7,11.5,0.38,2.2,0.505,72.1,,,
+1053,Plats e base de legumes ou legumineuses,"beignet de legumes, fait maison",161,4.18,9.89,0.156,12.9,2.18,1.93,224,52.4,17.7,0.719,13.2,0.158,69.9,,,
+1054,Plats e base de legumes ou legumineuses,choucroute garnie,110,4.6,9.22,2.97,1.6,0,1.1,673,36.6,15.9,0.837,9.09,0,82,,,
+1055,Plats e base de legumes ou legumineuses,"choucroute, sans jus",31.4,1.5,0.25,0.0225,5.25,4,1.1,528,36.9,4.91,0.6,20,0,91,,,
+1056,Plats e base de legumes ou legumineuses,escalope vegetale ou steak e base de soja,177,16.5,8,0.633,5.49,0,5.5,301,68,55.6,1.7,0,0,61.2,,,
+1057,Plats e base de legumes ou legumineuses,gratin dauphinois,110,3.07,4.95,2.59,12.3,1.63,1.78,244,45.3,14,0.29,5.01,0.09,76.2,,,
+1058,Plats e base de legumes ou legumineuses,gratin de chou0fleur,89.9,4.01,5.8,3.03,3.92,0,3,221,96.6,10.7,0.27,0,0,82.1,,,
+1059,Plats e base de legumes ou legumineuses,gratin de legumes,107,3.2,8.51,1.71,3.44,1.87,1.7,199,83.1,16.6,0.514,12.6,0.0838,82,,,
+1060,Plats e base de legumes ou legumineuses,ratatouille niçoise,72.1,1.2,4.98,0.693,4.77,0,1.7,418,16.8,17.9,0.378,25.2,0,86.3,,,
+1061,Plats e base de legumes ou legumineuses,terrine ou mousse de legumes,134,6.8,9,2.86,5.55,0.2,1.7,621,43,14.6,2.5,4.32,0.4,75.9,,,
+1062,Plats e base de legumes ou legumineuses,tomate e la provençale,77.6,1.75,4.32,0.505,6.92,3.8,2,188,23,13.1,0.665,21.5,0.005,83.6,,,
+1063,Plats e base de poisson ou produits aquatiques,accra de morue,259,10,16.1,1.28,17.7,1.57,1.5,826,52,17.8,1.1,4.75,0.27,52.4,,,
+1064,Plats e base de poisson ou produits aquatiques,beignet de crevette,342,8.6,19.1,0.0745,33.1,0,1.5,650,77,18.1,1,0,0,35.1,,,
+1065,Plats e base de poisson ou produits aquatiques,"bouchee e la reine, au poisson et fruits de mer",208,6.76,13.8,3.37,13.7,2.44,1.05,451,70.1,18.8,1.2,0.903,0.771,63.1,,,
+1066,Plats e base de poisson ou produits aquatiques,brochette de crevettes,110,16.2,4.37,0.472,1.42,1.19,0.322,897,71.8,36.8,1.93,8.33,0.21,75,,,
+1067,Plats e base de poisson ou produits aquatiques,brochette de poisson,128,18,5.71,0.944,0.941,0.863,0.295,223,26.5,28.4,0.725,6.33,1.41,73.8,,,
+1068,Plats e base de poisson ou produits aquatiques,"calmar ou calamar ou encornet, e la romaine (beignet)",220,10.6,11.5,1.95,17.8,0,1.5,343,64.7,22.1,0.7,0,0.1,56.1,,,
+1069,Plats e base de poisson ou produits aquatiques,calmars ou calamars au riz,101,6.1,3.3,1.1,11.3,0,0.9,474,56.6,14.4,< 1,< 1,0.4,76.7,,,
+1070,Plats e base de poisson ou produits aquatiques,carpaccio de saumon,237,16.9,18.8,2.16,0,0,0.26,231,14.9,24.7,0.64,4.21,4.23,64.3,,,
+1071,Plats e base de poisson ou produits aquatiques,feuillete au saumon,283,9.6,17.1,10.1,20.5,1.4,4.5,331,39.4,20.4,0.4,0,2.5,46.9,,,
+1072,Plats e base de poisson ou produits aquatiques,gratin de poisson et puree ou brandade,115,3.8,4.55,1.52,14.1,0,1.1,365,46.8,17.1,< 1,< 1,1.1,74.9,,,
+1073,Plats e base de poisson ou produits aquatiques,poisson (colin d'alaska) sauce oseille,95,8.9,5.22,0.917,2.9,0.78,0.4,243,18.1,20.9,0.37,1.59,0.05,82,,,
+1074,Plats e base de poisson ou produits aquatiques,poisson e la bordelaise,172,14.8,10.4,2.3,4.3,0,1,513,21.1,17.5,1.2,9.7,0.9,67.5,,,
+1075,Plats e base de poisson ou produits aquatiques,poisson e la provençale,70.3,9.3,2.3,0,2.9,0,0.4,280,16.1,24.2,< 1,0,"< 0,2",83.6,,,
+1076,Plats e base de poisson ou produits aquatiques,"quenelle de poisson, cuite",241,9.16,13.1,6.08,21.3,0,0.6,734,27.7,11.8,0.71,0,0.685,54.6,,,
+1077,Plats e base de viande ou volaille,blanquette de veau,115,13.9,5.1,2.99,3.06,1,0.5,221,26,14.4,0.82,1,0.7,76.4,,,
+1078,Plats e base de viande ou volaille,blanquette de veau et riz,137,7.76,5.71,2.67,12.7,0,1.7,262,15.4,6.8,0.9,0,0,71,,,
+1079,Plats e base de viande ou volaille,boeuf aux carottes,84.9,10.2,4.18,1.21,1.08,0.196,1.1,398,19,11.1,0.9,2,0,79.9,,,
+1080,Plats e base de viande ou volaille,boeuf bourguignon,101,6.7,3.33,0.882,11.1,0.3,0,309,15.6,13.1,1.69,0.8,0.5,77.5,,,
+1081,Plats e base de viande ou volaille,"boeuf, boulettes cuites",202,15.2,13.3,4.88,5.08,0.944,0.63,452,29,26.9,2.2,6.94,0.196,63.8,,,
+1082,Plats e base de viande ou volaille,"bouchee e la reine, au poulet",258,7.1,16.8,3.57,19,2,0.95,571,41.3,13.3,1.1,9,0.2,55.4,,,
+1083,Plats e base de viande ou volaille,brochette d'agneau,150,13.5,9.34,3.12,2.7,1.57,0.632,147,15.8,19.5,1.34,11.7,0,72.8,,,
+1084,Plats e base de viande ou volaille,brochette de boeuf,217,18.9,14.6,3,2.24,1.01,0.33,237,7.8,21,1.8,9.46,0,62.6,,,
+1085,Plats e base de viande ou volaille,brochette de volaille,201,19.7,13,2.28,1.13,1.01,0.337,257,14,22.2,0.999,9.46,0.06,64.2,,,
+1086,Plats e base de viande ou volaille,brochette mixte de viande,209,19.3,13.8,4.97,1.72,1.01,0.333,247,10.9,21.4,1.4,9.46,0.03,63.4,,,
+1087,Plats e base de viande ou volaille,burritos ou fajitas,172,8.22,6.53,2.82,18.5,0,3.1,473,21.9,17.3,0.9,0,0,61.8,,,
+1088,Plats e base de viande ou volaille,carpaccio de boeuf,278,15.2,23,2.88,2.38,0.498,0.364,437,112,22.6,1.84,5.87,0.383,57,,,
+1089,Plats e base de viande ou volaille,"cassoulet, appertise",136,8.58,6.76,2.27,8.39,1.18,3.6,387,48.1,34.5,1.35,2.94,"< 0,5",71,,,
+1090,Plats e base de viande ou volaille,chili con carne,111,11,2.93,0.493,8.72,5.16,2.8,366,30.9,30.1,1.9,5.62,"< 0,5",72.5,,,
+1091,Plats e base de viande ou volaille,coq au vin,91.3,8.8,4.65,1.8,3.57,1,0,101,14,16,1.3,1.5,0.04,81.7,,,
+1092,Plats e base de viande ou volaille,cordon bleu de volaille,230,14.7,14,3.88,10.9,1.15,0.6,794,68.5,32.1,0.656,0,"< 0,5",57.4,,,
+1093,Plats e base de viande ou volaille,feuillete ou friand e la viande,331,12.7,24.2,11.5,17,1.43,1.37,727,16.2,16.9,1.73,0,0,40.4,,,
+1094,Plats e base de viande ou volaille,gratin d'endives et jambon,90.9,5.84,5.56,3.01,3.32,1.23,2.1,276,77.2,18.2,0.38,3.72,0.279,81.8,,,
+1095,Plats e base de viande ou volaille,hachis parmentier,145,5.44,9.59,3.75,9.07,5.11,0.13,348,64.8,16.1,0.718,0.65,0.1,74.5,,,
+1096,Plats e base de viande ou volaille,legumes farcis (sauf tomate),107,4.32,7.83,1.71,4.28,2.49,1.31,319,27.1,14.1,0.56,4.86,0.0876,81,,,
+1097,Plats e base de viande ou volaille,moussaka,138,7.6,9.75,2.87,4.39,2.5,1,138,137,22,0.6,3.1,0.2,76,,,
+1098,Plats e base de viande ou volaille,navarin d'agneau,139,11.4,8.61,3.33,3.39,1.67,1.4,85,22.1,17.9,1.31,4.76,0.0387,73.7,,,
+1099,Plats e base de viande ou volaille,nuggets de volaille,188,13.1,11.5,2,7.2,0.0947,1.7,676,16.4,24,0.6,0,"< 0,5",56.5,,,
+1100,Plats e base de viande ou volaille,osso buco e la milanaise,102,11,4.08,0.765,4.97,1.1,0.6,586,13.7,18.4,0.6,2.4,0,77.4,,,
+1101,Plats e base de viande ou volaille,paupiette de veau,182,14.9,8.94,3.64,9.79,5.71,1.17,1860,27.6,37.2,0.999,1.34,0.101,64.1,,,
+1102,Plats e base de viande ou volaille,paupiette de volaille,166,14.4,7.58,0.796,9.47,5.72,1.17,1880,27.6,38.6,1.03,1.33,0.144,65.8,,,
+1103,Plats e base de viande ou volaille,petit sale ou saucisse aux lentilles,131,10.8,6.14,1.56,6.53,0.02,3,392,20,19.4,1.8,"< 0,5","< 0,5",72.1,,,
+1104,Plats e base de viande ou volaille,pot-au-feu,72.3,10.9,2.02,0.6,1.88,0,1.5,137,22.1,15,1.57,0,0,82.9,,,
+1105,Plats e base de viande ou volaille,potee auvergnate,88.4,5.8,5.35,2.08,3.31,0.875,1.9,261,30.5,14.3,1.04,10.5,0,82.8,,,
+1106,Plats e base de viande ou volaille,poulet au curry,116,17.9,4.49,0.793,0.358,0.285,1.4,243,15.5,24,0.691,13.7,0.67,72.8,,,
+1107,Plats e base de viande ou volaille,"poulet au curry, avec riz ou semoule, preemballe",123,7.91,1.91,0.352,17.4,2.18,2.5,199,14.7,11,0.33,0.711,0.765,69.4,,,
+1108,Plats e base de viande ou volaille,poulet basquaise au riz,101,5.7,2.6,0.599,13.3,0.5,0.6,0,0,0,0,0,0,77.8,,,
+1109,Plats e base de viande ou volaille,poulet basquaise aux pâtes,96.6,5.7,2.6,0.632,12.3,0.8,0.6,247,10,12,0.5,16,0,77.8,,,
+1110,Plats e base de viande ou volaille,tajine de mouton,133,12.8,6.83,3.68,4.88,2.4,< 1,394,5.1,14.7,1.6,"< 0,5","< 0,5",73,,,
+1111,Plats e base de viande ou volaille,tajine poulet et semoule,130,8.02,2.02,0.531,19,1.6,1.7,343,22.5,22.2,0.9,0,0,68.1,,,
+1112,Plats e base de viande ou volaille,tomate farcie,122,6.9,9.38,3.24,1.68,0.895,1.5,283,18.5,12.8,0.7,7,0.1,79.9,,,
+1113,Plats e base de viande ou volaille,tripes e la mode de caen,104,16.4,3.24,1.29,2.39,0,0,423,23,6.4,0.95,0,0,76.5,,,
+1114,Plats e base de viande ou volaille,"veau, escalope panee, cuite",271,22.7,14.1,0.635,12.9,0.487,0.936,394,28.7,24.3,1.11,0.0063,0.13,47.8,,,
+1115,Plats composes,"beignet de viande, volaille ou poisson, fait maison",236,18.5,13.5,0.202,9.95,0.921,0.415,285,36.6,25.4,1.23,0.269,0.293,55.9,,,
+1116,Plats composes,"brick garni (garniture : crevettes, legumes, volaille, viande, poisson, etc.)",186,12.2,11.5,1.07,8.24,0.704,0.586,565,32.8,21.5,1.03,2.93,0.514,65.1,,,
+1117,Plats composes,nem ou pâte imperial,234,8.42,13,2.58,19.1,0,3.3,531,28.6,15.7,1.5,"< 0,5","< 0,5",54.6,,,
+1118,Plats composes,rouleau de printemps,116,5.18,1.96,0.643,18.7,3.6,1.2,225,24.6,14.4,0.9,1.5,0,72.5,,,
+1119,Plats composes,samossas ou samoussas,217,6.4,11.9,1.63,19.9,1.9,2.5,173,< 31,19.4,1.3,0.7,"< 0,5",57.8,,,
+1120,Plats composes,"toasts ou canapes sales, garnitures diverses",233,9.09,13.3,6.88,17.8,2.3,2.8,445,153,23.4,1.79,1.57,0.322,55.1,,,
+1121,Poissons et batraciens non transformes,"anchois commun, cru",109,19.4,3.48,0.935,0,0,0,73,66.3,22.3,5.1,0,11,73.1,,,
+1122,Poissons et batraciens non transformes,"anguille, cuite au four",230,23.7,15,3.02,0,0,0,65,26,26,0.64,1.8,0,59.3,,,
+1123,Poissons et batraciens non transformes,"anguille, pochee",217,20.5,15,0.542,0,0,0,0,0,0,0,0,0,62,,,
+1124,Poissons et batraciens non transformes,"bar commun ou loup, cru",96.4,19.3,2.13,0.491,0,0,0,88.6,130,0,2.2,0,0,78.6,,,
+1125,Poissons et batraciens non transformes,"bar commun ou loup, cuit au four",154,23.6,6.61,1.52,0,0,0,56.8,0,30.6,0,0,0,68.4,,,
+1126,Poissons et batraciens non transformes,"brochet, cuit au four",96.6,21.5,1.18,0.429,0,0,0,0,0,0,0,0,2.7,76.5,,,
+1127,Poissons et batraciens non transformes,"cabillaud, cuit e la vapeur",82.7,18.6,0.925,0.169,0,0,0,65,10,21,0.1,0,0,76.3,,,
+1128,Poissons et batraciens non transformes,"cabillaud, cuit au four",93.7,21.4,0.898,0.26,0,0,0,126,17.3,28.9,0.1,0,0,76.3,,,
+1129,Poissons et batraciens non transformes,"carpe, cuite au four",127,20.4,5,1.22,0,0,0,0,0,0,0,0,3.25,73.3,,,
+1130,Poissons et batraciens non transformes,"carrelet ou plie, cuit e la vapeur",84.3,19,0.925,0.241,0,0,0,0,0,0,0,0,0,78,,,
+1131,Poissons et batraciens non transformes,"daurade grise, dorade grise ou griset, crue",124,20.1,4.81,1.41,0,0,0,60.6,100,31.2,0.39,0,"< 0,86",74,,,
+1132,Poissons et batraciens non transformes,"eglefin, e la vapeur",89,20.9,0.6,0.156,0,0,0,73,26,24,0.1,0,0,78.3,,,
+1133,Poissons et batraciens non transformes,"eperlan, cru",84.9,17.4,1.7,0,0,0,0,156,0,24,0,0,0,80.2,,,
+1134,Poissons et batraciens non transformes,"espadon, cuit au four",191,22.9,11,0.4,0,0,0,122,5,34,0.6,0,0,64.2,,,
+1135,Poissons et batraciens non transformes,"fletan (de l'atlantique), cru",93.1,21.1,0.965,0.214,0,0,0,60,29,25,0.5,0,0,77.7,,,
+1136,Poissons et batraciens non transformes,"grenouille, cuisse, crue",66.8,16.1,0.267,0.073,0,0,0,56,18.7,21.5,3,2.5,0.35,81.9,,,
+1137,Poissons et batraciens non transformes,"hareng, frit",184,23,10.2,2.29,0,0,0,0,0,0,0,0,0,64,,,
+1138,Poissons et batraciens non transformes,"hareng, grille",181,20.1,11.2,2.8,0,0,0,160,79,42,1.6,0,16.1,63.9,,,
+1139,Poissons et batraciens non transformes,"julienne ou lingue, crue",81.5,18.8,0.7,0.013,0,0,0,120,25,62,0.7,0,0,79.3,,,
+1140,Poissons et batraciens non transformes,"lieu noir, congele",79.2,18.8,0.44,0.0676,0,0,0,155,14.3,28.8,0.24,0,0.89,77,,,
+1141,Poissons et batraciens non transformes,"lieu noir, cru",81.8,18.2,0.997,0.146,0,0,0,81.8,14.7,30.7,1.3,0,1.77,79.3,,,
+1142,Poissons et batraciens non transformes,"lieu noir, cuit",102,23.1,1.1,0.247,0,0,0,136,23.9,33.8,0.4,< 1,"< 1,48",77.1,,,
+1143,Poissons et batraciens non transformes,"lieu ou colin d'alaska, cru",63.9,15.3,"< 0,6",0.0645,0,0,0,158,13.1,34.6,0.22,0,1.1,82.5,,,
+1144,Poissons et batraciens non transformes,"limande, crue",78.5,16.6,1.34,0.334,0,0,0,116,54.3,25,0.28,0,0,80.8,,,
+1145,Poissons et batraciens non transformes,"limande0sole, e la vapeur",96.6,20.6,1.58,0.129,0,0,0,120,21,20,0.6,0,0,77.1,,,
+1146,Poissons et batraciens non transformes,"lotte ou baudroie, grillee",96.6,22.7,0.64,0.186,0,0,0,26,12,30,0.5,0,0,75.4,,,
+1147,Poissons et batraciens non transformes,"maquereau, cuit au four",238,23.9,15.8,4.64,0,0,0,83,12.8,28.5,1.57,0.4,7.72,61.5,,,
+1148,Poissons et batraciens non transformes,"maquereau, frit",186,23.6,10.2,2.96,0,0,0,83.3,0,0,0,0,12.3,64.6,,,
+1149,Poissons et batraciens non transformes,"merlan, e la vapeur",90.8,20.9,0.8,0.134,0,0,0,110,21,28,0.1,0,0,76,,,
+1150,Poissons et batraciens non transformes,"merlan, cru",79.9,19.1,"< 0,78",0.105,0,0,0,68,18,30,0.278,0,3.42,79.6,,,
+1151,Poissons et batraciens non transformes,"merlan, frit",125,23.1,3.6,1.63,0,0,0,171,26.5,34.1,0.5,0,0,71.4,,,
+1152,Poissons et batraciens non transformes,"merlu blanc du cap, surgele",91.5,17.6,2.34,0.696,0,0,0,80,9.2,34.1,0.2,0,1.1,77.1,,,
+1153,Poissons et batraciens non transformes,"merlu, cuit e l'etouffee",112,21.2,3,0.14,0,0,0,99.2,41.8,29.2,0.3,0,3.2,74.4,,,
+1154,Poissons et batraciens non transformes,"mulet, cuit au four",143,24.8,4.86,1.43,0,0,0,71,31,33,1.41,1.2,0,70.5,,,
+1155,Poissons et batraciens non transformes,"perche, cuite au four",130,24.7,3.42,0.151,0,0,0,38.3,73,26,0.71,3.8,9,73.7,,,
+1156,Poissons et batraciens non transformes,"poisson pane, frit",199,8.6,11.3,1.89,15.3,0,0.7,354,24.9,30.6,0.489,0,1.52,62.2,,,
+1157,Poissons et batraciens non transformes,"raie, cuite au court0bouillon",98.5,23.2,0.63,0.148,0,0,0,161,0,24.3,0,0,0,73.7,,,
+1158,Poissons et batraciens non transformes,"raie, cuite au four",80.1,18.9,0.5,0.13,0,0,0,150,50,37,0.6,0,0,75.9,,,
+1159,Poissons et batraciens non transformes,"rascasse, crue",90.8,19,1.64,0.405,0,0,0,0,61,21,5.5,0,4.3,79,,,
+1160,Poissons et batraciens non transformes,"rouget0barbet de roche, cuit e l'etouffee",116,23.2,2.6,0.903,0,0,0,97.3,49.6,28.9,1.1,0,2.67,74.2,,,
+1161,Poissons et batraciens non transformes,"roussette, cuite",105,25.4,0.35,0.0785,0,0,0,0,0,0,0,0,"< 0,5",73.2,,,
+1162,Poissons et batraciens non transformes,"sardine, grillee",214,30,10.4,3.12,0,0,0,140,130,34,1.7,0,12.3,55.7,,,
+1163,Poissons et batraciens non transformes,"saumon, cru, elevage",181,19.9,11.3,2.32,0,0,0,47,7.13,26.9,0.385,0,4.69,65.9,,,
+1164,Poissons et batraciens non transformes,"saumon, cuit e la vapeur",217,22.7,14,2.67,0,0,0,51.2,11.2,22.5,0.4,0,8.7,64.5,,,
+1165,Poissons et batraciens non transformes,"sole, cuite e la vapeur",94.5,20.3,1.48,0,0,0,0,166,96,23.1,0.72,0,0,77,,,
+1166,Poissons et batraciens non transformes,"sole, cuite au four",73,16,1,0.188,0,0,0,117,< 155,31.3,0.9,0,0,83,,,
+1167,Poissons et batraciens non transformes,"thon, cru",136,23.7,4.6,1.2,0,0,0,45.7,24,33,1.54,0,7.2,70.4,,,
+1168,Poissons et batraciens non transformes,"thon, cuit au four",136,29.9,1.83,0.787,0,0,0,56,22.2,49.7,1.63,0,1.83,66.8,,,
+1169,Poissons et batraciens non transformes,"tilapia du nil, cru, elevage",86,17,2,0,0,0,0,42.6,0,0,1.1,0,12.2,78.4,,,
+1170,Poissons et batraciens non transformes,"truite arc en ciel, elevage, cuite e la vapeur",125,20,4.99,1.03,0,0,0,0,0,0,0,0,0,75,,,
+1171,Poissons et batraciens non transformes,"truite arc en ciel, elevage, cuite au four",135,22.4,4.99,1.22,0,0,0,52.6,52.9,28.1,0.346,0,11,69.3,,,
+1172,Poissons et batraciens non transformes,"truite, cuite e la vapeur",121,19,4.99,1.03,0,0,0,0,0,0,0,0,0,75,,,
+1173,Poissons et batraciens non transformes,"truite, cuite au four",136,22.8,4.99,1.03,0,0,0,0,0,0,0,0,0,71,,,
+1174,Poissons et batraciens non transformes,"turbot, cuit au four",122,22.7,3.5,0.857,0,0,0,9,62,62,0.6,0,0,72.7,,,
+1175,Pommes de terre et apparentes,"patate douce, cuite",79.1,1.69,0.145,0.0325,16.3,6.11,2.9,31.5,32.5,22.5,0.705,16.2,0,78,,,
+1176,Pommes de terre et apparentes,"pomme de terre avec peau, cuite e la vapeur",89.5,1.87,0.22,0.026,19.1,0.7,1.8,0,0,0,0,0,0,77,,,
+1177,Pommes de terre et apparentes,"pomme de terre dauphine, cuite",328,3.35,19.4,3.39,34.8,0,0.5,749,27.8,23.6,1.45,0,0,41,,,
+1178,Pommes de terre et apparentes,"pomme de terre de conservation, cuite e l'eau, sans peau",73.2,1.97,0.1,0,15,0,2.21,0,0,20,0.471,10.2,0,79.6,,,
+1179,Pommes de terre et apparentes,"pomme de terre frite ou frite, cuite, non salee",254,4.6,12,4.11,30,0,3.9,29,23.8,27.7,0.9,19,"< 0,5",47.4,,,
+1180,Pommes de terre et apparentes,"pomme de terre frite ou frite, surgelee, cuite, non salee",232,3.49,11.7,4.09,26.6,0.637,3.05,62.6,12.4,26.3,0.963,9.8,0,53.9,,,
+1181,Pommes de terre et apparentes,"pomme de terre noisette, precuite, surgelee",172,3.6,7.44,2.49,20.7,0,3.9,243,25.2,27.9,1,13,0,62.7,,,
+1182,Pommes de terre et apparentes,"pomme de terre primeur, cuite e l'eau, sans peau",87.7,1.84,0.1,0,18.8,0,2.13,0,0,19.7,0.696,18.9,0,79.8,,,
+1183,Pommes de terre et apparentes,"pomme de terre, chips salees",487,6.5,27,4,52.9,1.09,5,622,27.1,73.3,1.06,31.8,0,2.29,,,
+1184,Pommes de terre et apparentes,"pomme de terre, cuite e l'eau",75.2,2,0.22,0.026,15.8,0.51,"< 2,05",< 39,"< 10,5",17.3,0.253,7.96,0,78.9,,,
+1185,Pommes de terre et apparentes,"pomme de terre, flocons deshydrates au lait",350,10.9,3.02,1.84,65.8,3.24,8,155,73,79.4,2.03,22.3,0,8.07,,,
+1186,Pommes de terre et apparentes,"pomme de terre, puree e base de flocons, reconstituee avec lait demi0ecreme et eau, non salee",77.1,2.4,0.515,0.319,14.6,1.3,2.25,120,29.4,14.5,0.41,13.1,0,79.5,,,
+1187,Pommes de terre et apparentes,"pomme de terre, puree, avec lait et beurre, non salee",91.3,2,3.35,2.37,12.6,0.885,1.4,44.9,30.3,14.9,0.22,5,0.39,79.2,,,
+1188,Pommes de terre et apparentes,"pomme de terre, rissolee, surgelee",164,2.7,4.25,1.96,27.4,0.49,2.8,40.6,12.3,28.1,0.908,13.3,0,61,,,
+1189,Pommes de terre et apparentes,"pomme de terre, sans peau, cuite au four",91.7,1.96,0.1,0.026,20,1.7,1.5,1.43,9.48,21.6,0.35,12.8,0,75.4,,,
+1190,Preparations pour boissons sans alcool,"citron ou lime, preparation e diluer, sans sucre",26,0.175,0,0,1.55,0,2.8,2.23,12.5,1.58,0,12,0,90.9,,,
+1191,Preparations pour boissons sans alcool,sirop type menthe ou fraise,251,0.12,0.05,0.00098,61.9,58.9,0,2.39,3.82,2.24,0.0956,11.8,0,37.2,,,
+1192,Preparations pour pâtisseries,"feuille de brick, cuite",380,8.25,2.25,0.215,79.4,0,3.1,1670,110,23.7,1.1,0,0,2.3,,,
+1193,Preparations pour pâtisseries,gelatine,351,87.6,0.1,0.038,0,0,0,199,265,22,1.65,0,0,10.9,,,
+1194,Preparations pour pâtisseries,"pâte brisee, cuite",505,7.5,26.4,6.54,58.3,0,0.9,690,16.5,12.8,< 1,0,"< 0,2",4.9,,,
+1195,Preparations pour pâtisseries,"pâte feuilletee pur beurre, cuite",564,5.8,40.5,27.2,43.1,1.05,2,627,90,15,1.5,0,0.62,7.3,,,
+1196,Preparations pour pâtisseries,"pâte feuilletee, cuite",505,5.85,31,13.9,49,0,2,627,18.6,11.9,0.6,"< 0,5",0,7,,,
+1197,Produits e base de crustaces et mollusques,"crabe, appertise",78.1,18.1,0.5,0.1,0.3,0,0,550,120,32,2.8,0,0,79.2,,,
+1198,Produits e base de crustaces et mollusques,"langoustine, panee, frite",262,9.4,13.6,2.27,25.2,0,0.7,660,210,24,1.7,0,0,49.8,,,
+1199,Produits e base de poissons,"anchois commun, marine",136,23.9,3.26,1.04,2.7,2.7,0,2230,120,101,2.8,0,2.4,60.2,,,
+1200,Produits e base de poissons,"anchois, filets e l'huile, semi0conserve, egoutte",182,26.4,8.45,3.08,0,0.2,0,4450,296,144,3.4,0,0.85,55.1,,,
+1201,Produits e base de poissons,"caviar, semi0conserve",178,25,7.52,2.23,2.5,0,0,0,0,0,0,0,0,61,,,
+1202,Produits e base de poissons,"eglefin, pane, frit",198,14.7,10,1.67,12,0,0.7,290,120,21,0.8,0,0,59.9,,,
+1203,Produits e base de poissons,"foie de morue, appertise, egoutte",419,4.85,44.4,9.63,0,0,0,446,10,10.2,3.05,4,54.3,45.7,,,
+1204,Produits e base de poissons,haddock (fume) ou eglefin fume,81.4,19,0.6,0.1,0,0,0,760,22,23,0.1,0,0,78.3,,,
+1205,Produits e base de poissons,hareng fume,142,16.5,8.49,2.37,0,0,0,1590,62.4,34.8,1,0,22,68.3,,,
+1206,Produits e base de poissons,"hareng fume, e l'huile",194,15.1,14.8,3.12,0,0,0,1630,59.2,27.4,0.9,0,14.5,62.6,,,
+1207,Produits e base de poissons,hareng marine ou rollmops,199,16.5,13.6,2.37,2.7,2.01,0,1090,38,12,3.56,0,13.1,61.2,,,
+1208,Produits e base de poissons,"limande0sole, panee, frite",230,16,14,1.55,9.6,0,0.7,0,0,0,0,0,0,60.5,,,
+1209,Produits e base de poissons,maquereau fume,250,20.5,18.7,4.09,0,0,0,898,28.1,41.4,0.88,0,8,59,,,
+1210,Produits e base de poissons,"maquereau, filet au vin blanc, appertise, egoutte",206,18.9,14.5,3.15,0,0,0,415,123,20.1,1.24,0,5.52,64.5,,,
+1211,Produits e base de poissons,"maquereau, filet sauce moutarde, appertise, egoutte",210,16.9,15.2,3.92,1.5,1.5,0,405,22.9,26.7,1.26,0,7.3,64.3,,,
+1212,Produits e base de poissons,"maquereau, filet sauce tomate, appertise, egoutte",207,16.4,15.7,3.37,0,0,0.2,250,82,24,1,0,4.7,67.9,,,
+1213,Produits e base de poissons,"morue, salee, pochee",113,26,1.01,0.132,0,0,0,2320,64.9,13.7,0.35,0,1.25,67.4,,,
+1214,Produits e base de poissons,mousse de poisson,185,13,13.5,4.32,2.79,0,0.2,537,40.1,21,9,0,3,65.9,,,
+1215,Produits e base de poissons,"oeufs de lompe, semi0conserve",144,19.2,7.52,2.23,0,0,0,973,37.9,12.5,0.9,"< 0,5",2.33,68.4,,,
+1216,Produits e base de poissons,pâte e base de poisson ou de crustaces,248,10.8,21.2,0.348,3.5,0,0,738,183,22.7,2.3,0,1.2,60.8,,,
+1217,Produits e base de poissons,"pilchard, sauce tomate, appertise, egoutte",140,16.7,8.1,1.7,0,0,0,290,250,29,2.5,0,14,70.2,,,
+1218,Produits e base de poissons,"poisson en sauce, surgele",110,10.6,5.82,2.15,3.61,0,0.4,386,28.1,21.2,0.4,0,1.13,76.4,,,
+1219,Produits e base de poissons,"poisson, croquette, frit",254,13.2,14,3.04,18,0,1.55,428,49.1,22.2,0.767,0,0,52.1,,,
+1220,Produits e base de poissons,rillettes de saumon,231,13.6,18.1,2.87,3.4,3.4,0,443,14,21,0.4,0,2.5,62.8,,,
+1221,Produits e base de poissons,rillettes de thon,223,15.6,17.1,2.2,1.7,1.7,0,409,18.4,25.5,0.7,0,1.2,63.5,,,
+1222,Produits e base de poissons,"sardine, e l'huile d'olive, conserve, egouttee",198,24.3,11.2,3.13,0,0,0,291,798,467,3.3,0,10.8,60.1,,,
+1223,Produits e base de poissons,"sardine, e l'huile, appertisee, egouttee",222,26.4,12.9,3.33,0,0,0,341,< 613,38.1,2.45,0,7.13,55.8,,,
+1224,Produits e base de poissons,"sardine, filets sans aretes e l'huile d'olive, appertises, egouttes",246,24.9,16.3,4.55,0,0,0,282,108,37,2.3,0,7.4,60.5,,,
+1225,Produits e base de poissons,"sardine, sauce tomate, appertisee, egouttee",156,15.8,10.3,2.8,0,0,0,315,404,35.8,2.75,0,10.2,68.2,,,
+1226,Produits e base de poissons,saumon fume,169,21.8,9.11,2.45,0,0,0,1440,8.34,34.4,0.304,0,2.97,64.8,,,
+1227,Produits e base de poissons,"surimi, bâtonnets",101,8.65,2.15,0.29,11.8,0,0,670,17.1,12.3,0.483,0,"< 0,5",73.8,,,
+1228,Produits e base de poissons,tarama preemballe,544,6.92,52.9,3.6,10,0,0,582,18.6,7.4,1,"< 0,5",0.96,29.3,,,
+1229,Produits e base de poissons,terrine de poisson,252,10,21.1,2.15,5.5,1.5,0,405,30.5,19,0.4,"< 0,5",1.2,66.3,,,
+1230,Produits e base de poissons,"thon e l'huile, appertise, egoutte",231,25.8,14.2,1.57,0,0,0,130,6.5,29.8,1.12,0,3.56,57.9,,,
+1231,Produits e base de poissons,"thon albacore, au naturel, appertise, egoutte",115,26.4,1.04,0.374,0,0,0,283,1.5,26.1,1.3,0,6.1,70.4,,,
+1232,Produits e base de poissons,"thon germon ou thon blanc e l'huile de soja, appertise, egoutte",186,30.4,7.1,1.7,0,0,0,0,0,0,0,0,0,61.3,,,
+1233,Produits e base de poissons,"thon germon ou thon blanc, e l'huile d'olive, appertise, egoutte",199,31.3,8.18,1.41,0,0,0,270,1,35.9,0.5,0,0.86,60.8,,,
+1234,Produits e base de poissons,"thon germon ou thon blanc, cuit vapeur sous pression",167,30,5.24,1.89,0,0,0,41.1,1.33,34.3,1.01,0,0,64,,,
+1235,Produits e base de poissons,"thon, au naturel, appertise, egoutte",106,24.5,0.858,0.417,0,0,0,285,7.82,26.9,0.925,0,4.86,72.2,,,
+1236,Produits e base de poissons,"truite d'elevage, fumee",171,23.4,8.65,2.62,0,0.9,0,1270,2.7,31.4,0.4,0,5.2,61.7,,,
+1237,Riz et autres graines,"ble dur precuit, grains entiers, cuit",155,5.1,0.66,0.134,30.4,0.6,2.58,17,18.9,28.2,0.72,0,0,60.7,,,
+1238,Riz et autres graines,"frik (ble dur immature concasse), cuit",75.9,2.1,0.48,0.0882,13.9,0,3.5,2,19.6,30.4,1,0,0,79.6,,,
+1239,Riz et autres graines,"frik (ble dur immature concasse), sec",324,9.11,2.17,0.399,56.7,0,19.3,4.2,50.3,114,5.2,0,0,11,,,
+1240,Riz et autres graines,"riz blanc etuve, cuit",151,2.91,1.44,0.56,31.1,0.055,0.82,38.6,11.1,10,"< 0,1",0,0,63.5,,,
+1241,Riz et autres graines,"riz blanc, cuit",135,2.49,0.927,0.255,28.7,0.09,"< 1,1",117,8.17,11.4,"< 0,381",0,0,66.5,,,
+1242,Riz et autres graines,"riz complet, cuit",156,3.5,1.1,0.172,31.7,0.45,2.16,205,19.8,49.6,< 1,0,0,61,,,
+1243,Riz et autres graines,"riz complet, sec",354,6.85,2.8,0.574,73.3,0.657,3.6,2.88,11.9,104,"< 1,4",0,0,12.3,,,
+1244,Riz et autres graines,"riz rouge, cuit",141,3.4,0.69,0.123,28.2,0,4,3.5,19.8,54.5,< 1,0,0,63.1,,,
+1245,Riz et autres graines,"riz rouge, sec",352,8,3,0.535,70.6,0,4.5,11,13.4,130,< 1,0,0,12.4,,,
+1246,Riz et autres graines,"riz sauvage, cuit",200,6.5,0.58,0.049,40.3,0.73,3.1,4.9,16.4,53.2,< 1,0,0,48.8,,,
+1247,Riz et autres graines,"riz sauvage, sec",344,11.1,0.94,0.142,69.3,2.5,5.9,2.7,6.95,90.1,< 1,0,0,11.5,,,
+1248,Salades composees et crudites,celeri remoulade,142,0.98,13.6,1.02,2.28,1.74,3.2,437,28.7,11.8,0.374,25.2,"< 0,5",78.3,,,
+1249,Salades composees et crudites,champignon e la grecque,72.8,2.1,4.1,0.54,5.95,2.11,1.84,785,19.9,9.8,1.6,6.67,0,84.4,,,
+1250,Salades composees et crudites,"salade composee avec viande ou poisson, appertisee, egouttee",136,8.1,7.1,0.491,8.7,0,2.7,500,28.1,18.9,1.9,0,0,72.6,,,
+1251,Salades composees et crudites,"salade de pâtes aux legumes, avec thon ou viande",131,5.81,6.54,0.176,11.2,2.38,1.83,408,26.5,23.3,0.953,12.3,0.122,73,,,
+1252,Salades composees et crudites,"salade de pâtes, vegetarienne",130,2.6,7.4,0.948,12.3,2,2.1,51,14,11,0.6,21,0,75.4,,,
+1253,Salades composees et crudites,salade de pommes de terre maison,127,2.68,8.2,1.43,9.87,0,1.3,529,19,15,0.65,10,0,76,,,
+1254,Salades composees et crudites,salade de riz,151,4.5,4.35,0.456,22.5,1,1.7,431,23.3,13.1,0.43,4.48,"< 0,5",65.5,,,
+1255,Salades composees et crudites,"salade de thon et legumes, appertisee, egouttee",123,8.48,6.84,0.558,5.55,0,2.7,500,20,25.8,1.1,2.75,"< 0,5",74.8,,,
+1256,Salades composees et crudites,taboule oriental ou salade de couscous,149,4.3,5.83,0.538,19.2,0.6,1.4,414,21.2,26.2,0.904,14.5,0,67.7,,,
+1257,Sandwichs,cheeseburger,262,13.7,11.5,4.63,25.4,5.24,< 1,537,91.3,21.3,1.2,0.4,0.1,46.3,,,
+1258,Sandwichs,croissant au jambon,293,10.5,16.6,8.54,24.9,0,1.24,754,219,18.9,0,0,0,45.6,,,
+1259,Sandwichs,croque0madame,264,13.6,15.5,5.31,17,1.37,1.12,515,200,19.5,1.27,0.014,0.598,50.7,,,
+1260,Sandwichs,croque0monsieur,290,14.5,14.8,5.94,25.5,2.58,1.71,625,252,22.3,1.33,0.02,0.15,44.1,,,
+1261,Sandwichs,double cheeseburger,297,14.9,16.7,6.74,21.6,0,< 1,461,104,20.2,1.4,0.9,"< 0,5",43.8,,,
+1262,Sandwichs,hamburger,216,13.2,8.46,2.82,20.8,2.54,1.85,485,64.2,29.1,1.31,0.3,0.1,53.7,,,
+1263,Sandwichs,hot0dog,318,11.3,18.4,5.21,26,0,1.81,961,33.6,20.5,2.36,0.1,0,40.4,,,
+1264,Sandwichs,pan bagna,245,7.03,12.6,1.85,24.8,2.06,2.27,841,37.9,26.1,0.691,12.2,0.588,51,,,
+1265,Sandwichs,"sandwich baguette, camembert, beurre",339,11.9,16.7,10.7,34.3,2.18,1.92,670,137,20.6,0.702,0,0.208,32.8,,,
+1266,Sandwichs,"sandwich baguette, crudites diverses, mayonnaise",221,6.26,7.9,1.58,30.2,2.69,2.18,426,26.6,16.6,0.871,7.02,0.168,52,,,
+1267,Sandwichs,"sandwich baguette, dinde, crudites (tomate, salade), mayonnaise",255,12,8.82,1.72,30.9,2.26,1.86,446,23.3,19.8,0.994,3.11,0.05,44.9,,,
+1268,Sandwichs,"sandwich baguette, jambon, beurre",283,11.5,10.5,5.71,34.7,2.36,1.92,674,54.6,34.7,0.952,3.09,0.21,39.2,,,
+1269,Sandwichs,"sandwich baguette, jambon, emmental, beurre",309,14,14.3,7.69,30.2,2.06,1.67,635,188,23.2,0.83,2.33,0.363,37.5,,,
+1270,Sandwichs,"sandwich baguette, jambon, oeuf dur, crudites (tomate, salade), beurre",222,9.81,5.98,2.73,31.2,2.58,1.88,569,24.6,19.2,0.969,5.77,0.2,49,,,
+1271,Sandwichs,"sandwich baguette, merguez frites",331,10.5,17.8,7.98,31.3,0,1.81,602,24.1,24.4,2.8,0,0,37.5,,,
+1272,Sandwichs,"sandwich baguette, merguez, ketchup moutarde",282,12.7,11.4,4.83,31.3,2.95,1.81,851,26.6,20.9,1.25,0.64,0.042,40.1,,,
+1273,Sandwichs,"sandwich baguette, oeuf, crudites (tomate, salade), mayonnaise",247,8.22,9.47,2.04,31.2,2.4,1.89,457,33.6,16.4,1.08,3.31,0.432,47.7,,,
+1274,Sandwichs,"sandwich baguette, pâte, cornichons",299,10.1,13.9,3.42,32.3,2.46,1.99,712,26.2,18.1,2.49,1.67,0.246,39.8,,,
+1275,Sandwichs,"sandwich baguette, porc, crudites (tomate, salade), mayonnaise",267,10.9,10.6,2.25,31.1,2.38,1.86,449,21.6,19.2,0.979,3.11,0.05,44,,,
+1276,Sandwichs,"sandwich baguette, poulet, crudites (tomate, salade), mayonnaise",258,10.1,8.54,1.68,34.1,2.62,2.21,513,27.4,20.2,1.04,3.61,0.069,43.2,,,
+1277,Sandwichs,"sandwich baguette, salami, beurre",379,11.8,21.4,10.7,33.9,2.04,1.82,1070,25.3,17.5,1.41,0,0.335,28,,,
+1278,Sandwichs,"sandwich baguette, saucisson sec, beurre",375,13.7,19.4,9.36,35.4,2.21,1.92,1060,29.1,22.2,1.09,1,0.115,26.6,,,
+1279,Sandwichs,"sandwich baguette, saumon fume, beurre",265,11,5.6,2.39,41.4,2.69,2.4,742,26.5,21.8,0.909,2.84,2.28,37.4,,,
+1280,Sandwichs,"sandwich baguette, thon, crudites (tomate, salade), mayonnaise",274,10.2,11.3,2.37,32.1,1.4,1.78,514,26.8,19.5,0.835,2.63,0.733,43,,,
+1281,Sandwichs,"sandwich grec ou kebab, baguette, avec crudites",261,12.5,10.6,4.26,27.8,3.07,2,456,23.2,23.6,2.7,2,0,45.6,,,
+1282,Sandwichs,"sandwich grec ou kebab, pita, avec crudites",233,17.2,10.8,3.57,15.5,1.34,2.3,365,28.4,24,1,0,0,51.8,,,
+1283,Sandwichs,"sandwich pain de mie, garnitures diverses",260,9.81,5.98,2.56,40.9,0,1.88,0,0,0,0,0,0,39.2,,,
+1284,Sandwichs,"sandwich panini, jambon cru, mozzarella, tomates",243,11.3,8.35,3.79,30,0,1.4,493,97,16.9,1.1,0,0,46.6,,,
+1285,Sauces salees et condiments,câpres,29.2,2.48,0.48,0.122,2.1,1.26,2.35,2240,29.5,33,1.28,10.6,0,88.8,,,
+1286,Sauces salees et condiments,"cornichon, au vinaigre",27.5,1.2,0.345,0,3,2.4,1.9,551,32.3,9.78,0.657,0.222,0,94.9,,,
+1287,Sauces salees et condiments,guacamole,182,2,16.6,2.96,4.6,1.2,3.2,423,18,26.7,0.6,14,"< 0,5",71.5,,,
+1288,Sauces salees et condiments,harissa (sauce condimentaire),75.5,2.7,2.9,0,7.1,0,5.1,1120,78.1,47.2,3.1,31.9,0,77.9,,,
+1289,Sauces salees et condiments,houmous,285,6.79,23.4,1.29,9.29,0.27,5,429,42.7,54,1.97,4.45,0,53.2,,,
+1290,Sauces salees et condiments,ketchup,119,2.25,0.1,0,26.6,18.3,1.37,1400,21.4,20.3,0.779,15,0,66.3,,,
+1291,Sauces salees et condiments,mayonnaise (70% mg min.),712,1.48,77.1,16.8,2.92,1.6,0.052,458,10.3,3.08,0.6,"< 0,5","< 0,5",17,,,
+1292,Sauces salees et condiments,mayonnaise e l'huile de tournesol,727,1.51,79.3,16.1,1.92,1.5,0,368,10.3,3.08,0.6,"< 0,5","< 0,5",15.9,,,
+1293,Sauces salees et condiments,mayonnaise allegee en matiere grasse,344,1.28,35.2,3.4,5.62,0,0,782,47.4,17.7,0.4,0,"< 0,5",55.3,,,
+1294,Sauces salees et condiments,"meloukhia, sauce, artisanale",211,1.1,21,0,0.25,0,8.4,378,81.8,37.3,1.9,0,0,67.7,,,
+1295,Sauces salees et condiments,moutarde,165,7.08,14,0.739,2.38,0.86,< 1,2360,91.2,77.9,3.83,38.2,0,68.1,,,
+1296,Sauces salees et condiments,"olive noire, entiere ou denoyautee, en saumure",162,0.92,14,1.42,1.71,0,12.5,< 886,58.4,70.4,3.3,0.9,0,68.5,,,
+1297,Sauces salees et condiments,"olive verte, entiere ou denoyautee, en saumure",145,1.02,13.9,1.99,1.32,0,5.1,1680,36,24.5,0.665,0,0,75.2,,,
+1298,Sauces salees et condiments,"olives vertes, denoyautees, fourrees (anchois, poivrons, etc.)",146,2.09,14.4,1.46,0,0,4,1110,66.8,11.2,0.3,38.6,"< 0,5",76.2,,,
+1299,Sauces salees et condiments,sauce e la creme,77.7,1.09,5.55,2.05,5.75,0.726,0.171,551,20.5,5.2,0.286,0.021,0.0117,86.2,,,
+1300,Sauces salees et condiments,sauce e la creme aux epices,83.5,1.25,5.75,1.86,6.37,0.95,0.65,517,26.6,8.1,0.71,0.5,0.015,84.7,,,
+1301,Sauces salees et condiments,sauce e la creme aux herbes,77.4,1.15,5.49,1.89,5.66,0.75,0.4,555,27,6,0.59,2.2,0.01,86,,,
+1302,Sauces salees et condiments,sauce aigre douce,106,0.6,1,0.0274,23.4,16.1,"< 1,23",289,13,12,0.6,6,0,73.2,,,
+1303,Sauces salees et condiments,sauce au beurre,184,0.81,18.2,11.9,4.15,2.2,0.1,543,26.3,4.3,0.25,"< 0,5",3.2,75.3,,,
+1304,Sauces salees et condiments,sauce au curry,98.7,1.02,"< 9,73",1.22,12,5.9,1.44,401,22.4,11.9,0.5,1.05,3.35,77.2,,,
+1305,Sauces salees et condiments,sauce au fromage,111,4.46,8.1,4.2,4.86,0.517,0.5,637,122,7.5,0.155,0.2,0.03,80.2,,,
+1306,Sauces salees et condiments,sauce au poivre,355,1.04,35.2,3.65,7.68,0,1.9,673,18.7,4.1,0.4,"< 0,5","< 0,5",51.9,,,
+1307,Sauces salees et condiments,sauce au vin rouge,55.8,0.811,2.22,1.21,6.37,2.47,0.46,678,13.1,9.99,0.561,2.5,0.028,87.6,,,
+1308,Sauces salees et condiments,sauce au yaourt,104,3.7,6.91,1.34,6.3,4.37,0.804,510,141,21.3,0.777,8.02,0.0374,80.1,,,
+1309,Sauces salees et condiments,sauce aux champignons,54.5,0.9,"< 6,26",0.517,5.54,0.7,0.3,360,17.3,6.8,0.7,"< 0,5",0.94,85.5,,,
+1310,Sauces salees et condiments,sauce barbecue,145,0,0.21,0.0124,35.2,29.1,1.16,325,12,12,0.21,0.7,0,60.3,,,
+1311,Sauces salees et condiments,sauce bearnaise,496,1.25,50.6,4.04,8.54,2,0.7,508,25.4,4,0.4,"< 0,5","< 0,5",36.6,,,
+1312,Sauces salees et condiments,sauce bechamel,144,3.08,11.3,6.57,7.4,3.2,0.2,327,92.2,8.77,0.1,"< 0,5","< 0,5",80.4,,,
+1313,Sauces salees et condiments,"sauce bechamel, en brique",98.7,2.52,6.32,4.12,7.44,3.2,1,321,83.3,9.2,0.1,"< 0,5","< 0,5",81.3,,,
+1314,Sauces salees et condiments,sauce de soja,44,4.75,0,0,6.3,5.96,0,6260,27.3,83.7,1.72,0,0,71.1,,,
+1315,Sauces salees et condiments,sauce hollandaise,212,1.84,20.7,5.93,4.65,0,0.1,413,35.8,4.6,0.5,9.1,"< 0,5",71.2,,,
+1316,Sauces salees et condiments,sauce mornay,141,5.5,10.6,3.81,5.8,0,0.2,0,0,0,0,0,0,77.9,,,
+1317,Sauces salees et condiments,sauce moutarde,241,1.4,22.8,14.3,7.45,1.4,0.4,940,34.3,12.5,0.5,"< 0,5","< 0,5",65.4,,,
+1318,Sauces salees et condiments,sauce pesto,517,6.3,51.4,6.17,6.4,6.4,2,1020,128,47.8,1.5,"< 0,5","< 0,5",31,,,
+1319,Sauces salees et condiments,"sauce tomate, e la viande",98.3,4.49,5.5,1.89,6.81,3.8,1.8,594,22.9,26.3,0.934,7.55,"< 0,5",79.7,,,
+1320,Sauces salees et condiments,"sauce tomate, sans viande",73.7,1.8,"< 3,8",0.224,11.6,2.46,1.5,668,22.8,19.2,0.817,5.45,0,79.8,,,
+1321,Sauces salees et condiments,sauce vinaigrette (50 e 75% d'huile),473,0,52.5,5.86,0.1,0,0,382,14.2,4.6,0,0,0,47.4,,,
+1322,Sauces salees et condiments,sauce vinaigrette e l'huile d'olive (50 e 75% d'huile),650,0.3,72.1,7.57,0.1,0.1,0,924,9.09,< 14,0.3,0,0,22.8,,,
+1323,Sauces salees et condiments,sauce vinaigrette allegee en mg (25 e 50% d'huile),250,0.4,25.9,2.89,3.77,0,0,828,50.4,4.45,0.25,"< 0,5",1.8,69.1,,,
+1324,Sauces salees et condiments,tapenade,252,1.4,25.1,3.66,3.57,3.56,3,1020,63,20,4.3,1.05,0,62.3,,,
+1325,Sauces salees et condiments,vinaigre,22.8,0.133,0.15,0,0.68,0.32,0,7.67,7,7.67,0.177,0,0,92.9,,,
+1326,Soupes et bouillons non reconstitues,"bouillon de boeuf, deshydrate",243,10.2,13.3,3.5,20.6,0,0,13200,32.7,21.9,0.35,0,0,3.29,,,
+1327,Soupes et bouillons non reconstitues,"bouillon de legumes, deshydrate",264,9.66,16,0,20.3,0,"< 0,5",19100,51.1,27,1,"< 0,5",13.8,4.4,,,
+1328,Soupes pretes e consommer,"soupe e la tomate, preemballee e rechauffer ou deshydratee reconstituee",46,1.69,0.917,0.203,7.5,3,< 1,296,18.3,10.5,0.214,10.4,0.6,90.1,,,
+1329,Soupes pretes e consommer,"soupe e la volaille et aux vermicelles, preemballee e rechauffer ou deshydratee reconstituee",16.7,1.27,0.215,0.0876,2.28,0.2,0.3,355,7.96,7.92,0.142,0,0,95,,,
+1330,Soupes pretes e consommer,"soupe e l'oignon, tout type",22,0.603,0.648,0.079,3.28,1.33,0.3,153,20,5.26,0.27,0.5,0,94.1,,,
+1331,Soupes pretes e consommer,"soupe au pistou, preemballee e rechauffer ou deshydratee reconstituee",47.2,1.7,1.17,0.148,7.08,0.7,0.8,310,19,14,0.4,7,0,88.2,,,
+1332,Soupes pretes e consommer,"soupe au potiron, tout type",35.7,0.68,1.58,0.921,4.23,2.4,0.9,282,22,11,0.4,5,0,91.8,,,
+1333,Soupes pretes e consommer,"soupe aux lentilles, tout type",49.4,1.8,0.2,0,9.21,0.7,1.8,170,25,19,1.07,1.7,0,85.7,,,
+1334,Soupes pretes e consommer,soupe aux poireaux et pommes de terre,27.9,0.98,0.13,0.0642,5.24,0.6,0.9,188,18.6,7,0,0,0,91.9,,,
+1335,Soupes pretes e consommer,"soupe aux poireaux et pommes de terre, preemballee e rechauffer",34.1,0.98,1.11,0.547,4.59,0,0.9,167,25.5,7.51,0.34,9.8,0,91.6,,,
+1336,Soupes pretes e consommer,"soupe cuisinee aux champignons, tout type",35.1,0.79,2.28,0.918,2.15,0.72,1.4,360,7,2,0.54,0,0,92.3,,,
+1337,Soupes pretes e consommer,"soupe de legumes, deshydratee reconstituee",32.4,0.8,1.99,1.15,2.49,0.485,0.688,324,7.42,3.62,0.16,22.8,0,93,,,
+1338,Soupes pretes e consommer,"soupe de legumes, preemballee e rechauffer",34.5,1.79,1.37,0.678,3.03,0.899,1.43,312,17,6.63,0.333,38.4,0,91.4,,,
+1339,Soupes pretes e consommer,"soupe de legumes, tout type",24.5,0.86,0.305,0.0188,3.87,2.7,1.43,188,16.9,9.2,0.186,21,0,92.6,,,
+1340,Soupes pretes e consommer,"soupe de poissons et/ou crustaces, preemballee e rechauffer",55.5,3.6,1.89,0.454,5.69,1.15,0.667,424,89,11.7,1.35,2,"< 0,2",85.8,,,
+1341,Soupes pretes e consommer,soupe exotique chinoise,39.8,6.15,1.04,0.253,1.38,0.704,0.176,821,16.9,11.5,0.398,2.14,0.0659,88.9,,,
+1342,Soupes pretes e consommer,"soupe minestrone, preemballee e rechauffer ou deshydratee reconstituee",32.6,1.95,0.4,0.0287,4.8,0.7,1,297,33.2,12.5,0.56,5,0,90.9,,,
+1343,"Sucres, miels, sirops",edulcorant e l'aspartame,52,13,0,0,0,0,0,0,0,0,0,0,0,2,,,
+1344,"Sucres, miels, sirops",fructose,399,0,0,0,99.8,99.8,0,0.1,0.1,0,0.07,0,0,0.2,,,
+1345,"Sucres, miels, sirops",miel,327,0.395,0.0667,0,81.1,79.1,0.0667,4.11,7.93,4.26,0.175,1.7,0,18.2,,,
+1346,"Sucres, miels, sirops",sucre allege e l'aspartame,398,0.8,0,0,98.7,98.7,0,1.8,0,0,0,0,0,0.5,,,
+1347,"Sucres, miels, sirops",sucre blanc,398,0,0,0,99.6,99,0,2.17,3.68,< 3,0.0767,0,0,0.365,,,
+1348,"Sucres, miels, sirops",sucre roux,387,0.12,0,0,96.7,96.7,0,41.5,83,18.5,1.9,0,0,1.92,,,
+1349,Viandes,"agneau, collier, cru",184,16.4,13.2,5.8,0,0,0,0,0,0,1.27,0,0,68,,,
+1350,Viandes,"agneau, cete filet, crue",232,16.3,18.5,8.33,0,0,0,0,0,0,1.26,0,0,62.5,,,
+1351,Viandes,"agneau, cete premiere, crue",271,15.5,23.2,10.5,0,0,0,0,0,0,1.21,0,0,58.9,,,
+1352,Viandes,"agneau, cetelette, grillee",234,25.7,14.6,6.6,0,0,0,120,19.7,20.1,0,0,0,60.6,,,
+1353,Viandes,"agneau, epaule, maigre, retie",187,22.3,10.9,6.39,0,0,0,70,11,22,1.87,0,0,65,,,
+1354,Viandes,"agneau, epaule, retie",287,30.5,18.3,9.43,0,0,0,95.5,8.8,25.4,2.2,6.9,"< 0,5",53.7,,,
+1355,Viandes,"agneau, gigot, cru",128,17.8,6.29,2.58,0,0,0,71.3,10,21.9,1.45,0.25,0.4,73.5,,,
+1356,Viandes,"agneau, gigot, reti",193,23.8,10.9,5.54,0,0,0,159,21.8,30.7,2.1,0,0,67.1,,,
+1357,Viandes,"agneau, selle, crue",215,16.2,16.7,7.44,0,0,0,0,0,0,1.23,0,0,64.7,,,
+1358,Viandes,"boeuf, e bourguignon, cuit",156,30,4.05,1.69,0,0,0,0,0,0,2.4,0,0,61.1,,,
+1359,Viandes,"boeuf, e pot0au0feu, cuit",240,28.5,14,6.05,0,0,0,52,17,10,4.3,0,0,56.5,,,
+1360,Viandes,"boeuf, bavette, crue",103,18.3,3.27,1.45,0,0,0,0,0,0,3.31,0,0,73.7,,,
+1361,Viandes,"boeuf, bifteck, grille",149,27.6,4.28,1.66,0,0,0,65.2,7.07,28.9,2.27,0,0,69.1,,,
+1362,Viandes,"boeuf, braise",240,32.1,12.4,5.34,0,0,0,0,0,24.3,5.9,0,0,55.7,,,
+1363,Viandes,"boeuf, entrecete, crue",227,18.4,17,8.06,0,0,0,59.5,7,68.5,2.21,0,0.8,62.5,,,
+1364,Viandes,"boeuf, entrecete, grillee",192,22,11.5,5.3,0,0,0,0,0,0,2.6,0,0,62,,,
+1365,Viandes,"boeuf, faux0filet, cru",117,21.6,3.37,1.55,0,0,0,62.5,7.26,22,2.26,0,0.4,71.5,,,
+1366,Viandes,"boeuf, faux0filet, grille",170,23,8.7,2.53,0,0,0,0,0,0,1.9,0,0,64,,,
+1367,Viandes,"boeuf, flanchet, cuit",194,27.6,9.31,4.51,0,0,0,53,18,22,1.8,0,0,63.3,,,
+1368,Viandes,"boeuf, hampe, crue",150,18,8.62,3.91,0,0,0,0,0,0,3.68,0,0,71.5,,,
+1369,Viandes,"boeuf, joue, crue",112,20,3.56,1.52,0,0,0,0,0,0,3.18,0,0,73.2,,,
+1370,Viandes,"boeuf, macreuse, crue",109,19.5,3.49,1.23,0,0,0,0,0,0,2.86,0,0,74.5,,,
+1371,Viandes,"boeuf, paleron, cru",139,20.1,6.53,2.59,0,0,0,0,0,0,2.5,0,0,72.3,,,
+1372,Viandes,"boeuf, plat de cetes, cru",283,17.4,23.7,10.6,0,0,0,0,0,0,1.9,0,0,58.1,,,
+1373,Viandes,"boeuf, rosbif, reti",140,26.4,3.78,0.945,0,0,0,153,10.1,31.2,3.1,0,0,66.5,,,
+1374,Viandes,"boeuf, tende de tranche, crue",116,20.6,3.69,0.799,0,0,0,0,0,0,2.75,0,0,74.7,,,
+1375,Viandes,"cheval, entrecete muscle, cru",118,22.1,3.34,1.08,0,0,0,0,0,0,2.84,0,0,71.5,,,
+1376,Viandes,"cheval, faux0filet, cru",121,22.2,3.58,1.17,0,0,0,0,0,0,2.55,0,0,71.5,,,
+1377,Viandes,"cheval, tende de tranche, crue",106,22.7,1.68,0.482,0,0,0,0,0,0,3.06,0,0,71.5,,,
+1378,Viandes,"cheval, viande, retie",160,28.1,5.29,2.187,0,"< 0,2",0,39.8,4.8,28.1,3.4,< 2,"< 0,5",64.4,,,
+1379,Viandes,"chevreuil, reti",174,32.6,4.8,1.25,0,0,0,70,18,28.5,6.14,0,0,65,,,
+1380,Viandes,lapin braise,197,30.4,8.41,2.73,0,0,0,37,20,20,2.37,0,0,58.8,,,
+1381,Viandes,"lapin, viande cuite",165,20.5,9.2,4.02,0,0,0,120,13,31.5,2.27,0,0,68.2,,,
+1382,Viandes,"lievre, en ragoet",203,30,9.2,4.03,0,0,0,0,0,0,0,0,0,60.9,,,
+1383,Viandes,"porc, cete, crue",174,18.6,10.6,3.81,0,0,0,63.6,7.6,21,1.06,0.65,0.498,69,,,
+1384,Viandes,"porc, cete, grillee",276,25.8,19.1,9.01,0,0,0,83.6,19.3,31.4,0.843,0.58,0.81,55.7,,,
+1385,Viandes,"porc, echine, retie",302,27.9,21.2,5.85,0,0,0,58.5,18.5,27,1.77,0.6,0.85,48.5,,,
+1386,Viandes,"porc, epaule, crue",224,17.3,16.5,5.88,0,0,0,67,10,18.3,1.77,0.7,0.964,63,,,
+1387,Viandes,"porc, epaule, cuite",253,30,14.8,5.56,0,0,0,0,0,0,1.58,0,0,55.7,,,
+1388,Viandes,"porc, escalope de jambon, crue",129,21.5,4.76,1.75,0,0,0,49.2,6.39,27,0.6,0,0,74.4,,,
+1389,Viandes,"porc, escalope de jambon, cuite",200,36,6.22,1.85,0,0,0,76.5,6.77,35.4,0.867,0,0,56,,,
+1390,Viandes,"porc, filet mignon, cru",122,21.2,4.09,0,0,0,0,43.8,8.99,27.6,0.82,0,0,74.9,,,
+1391,Viandes,"porc, filet mignon, cuit",168,26.1,7.08,2.58,0,0,0,50.4,7.27,24.6,1.1,0,0,65.4,,,
+1392,Viandes,"porc, filet, maigre, cru",123,21.1,4.22,1.37,0,0,0,65.5,8.21,27.4,0.911,0,0.6,74.6,,,
+1393,Viandes,"porc, filet, maigre, en reti, cuit",195,27.5,9.39,1.92,0,0,0,59.7,5.67,31.3,0.8,0.5,"< 0,5",64.3,,,
+1394,Viandes,"porc, poitrine, crue",259,16.9,21.4,8.67,0,0,0,57.1,6.17,16.2,0.546,0,0.662,59.4,,,
+1395,Viandes,"porc, reti carre, cru",203,34.1,7.45,3.03,0,0,0,0,0,0,0.891,0,0,58,,,
+1396,Viandes,"porc, reti, cru",144,20.8,6.92,2.76,0,0,0,48.3,7.24,23.9,1.62,0,0.733,71.4,,,
+1397,Viandes,"porc, reti, cuit",159,23.8,6,2.47,1.1,1.1,0,75.5,8.99,27.6,1.23,0.133,0.25,71.3,,,
+1398,Viandes,"porc, rouelle de jambon, crue",149,20.2,7.56,0,0,0,0,0,0,0,1.13,0,0,68,,,
+1399,Viandes,"porc, rouelle de jambon, cuite",205,29.8,9.54,2.4,0,0,0,0,0,0,1.13,0,0,54.7,,,
+1400,Viandes,"porc, travers, braise",332,23.1,26.6,10.9,0,0,0,48.8,30.4,18,1.2,0.56,"< 0,5",49.4,,,
+1401,Viandes,"porc, travers, cru",235,17.8,18.3,6.39,0,0,0,55.1,8.28,19.9,0.699,0,2.3,61.6,,,
+1402,Viandes,"sanglier, reti",153,28.3,4.38,1.3,0,0,0,60,16,27,1.12,0,0,63.9,,,
+1403,Viandes,"steak hache  5% mg, cru",121,19.6,4.69,1.64,0,0,0,58,7,22,2.65,0,0.25,73.8,,,
+1404,Viandes,"steak hache  5% mg, cuit",158,26.3,5.85,2.61,0,0,0,65,7,22,2.83,0,0.2,66,,,
+1405,Viandes,"steak hache 10% mg, cru",169,20.6,9.6,3.67,0,0,0,65.5,8.5,21,2.17,0,0.3,70.2,,,
+1406,Viandes,"steak hache 10% mg, cuit",210,26.1,11.7,4.63,0,0,0,68,13,22,2.71,0,0.188,61.4,,,
+1407,Viandes,"steak hache 15% mg, cru",199,18.7,13.6,5.88,0,0,0,110,10.2,15.3,2.58,1,0.35,65.9,,,
+1408,Viandes,"steak hache 15% mg, cuit",239,23.6,16.1,7.15,0,0,0,185,15,29.4,2.6,0,0.188,59,,,
+1409,Viandes,"steak hache 20% mg, cru",285,16.8,24.2,9.79,0,0,0,64.5,11,17,1.77,0,0.5,58.1,,,
+1410,Viandes,"steak hache 20% mg, cuit",276,25.8,19.2,6.76,0,0,0,75,24,20,2.48,0,0.2,56.7,,,
+1411,Viandes,"veau, collier, cru",124,17.8,5.92,1.99,0,0,0,0,0,0,1.01,0,0,73.8,,,
+1412,Viandes,"veau, cete, crue",181,16.4,12.8,6,0,0,0,60,11,15,1.26,0,0,68.9,,,
+1413,Viandes,"veau, cete, cuite",237,25.2,15.1,7.06,0,"< 0,2",0,100,29,22.5,0.9,< 1,"< 0,5",58.4,,,
+1414,Viandes,"veau, epaule, crue",116,18.5,4.63,2.16,0,0,0,51,10,0,1.16,0,0.5,74.9,,,
+1415,Viandes,"veau, escalope, cuite",149,31,2.75,0.931,0,0,0,128,10.8,29.5,1,0,0,65,,,
+1416,Viandes,"veau, filet, reti",138,28.4,2.75,1.28,0,0,0,0,0,0,0,0,0,65.1,,,
+1417,Viandes,"veau, jarret, cru",109,19,3.65,1.11,0,0,0,0,0,0,1.2,0,0,75.4,,,
+1418,Viandes,"veau, mijote",198,30.8,8.35,3.03,0,0,0,85.7,22.8,25.8,1.21,0,0.3,60.1,,,
+1419,Viandes,"veau, noix, crue",102,19.6,2.57,0.795,0,0,0,0,0,0,0.918,0,0,75.4,,,
+1420,Viandes,"veau, poitrine, crue",120,19.5,4.63,2.16,0,0,0,0,0,0,0,0,0,73,,,
+1421,Viandes,"veau, reti",120,21,3.96,3.24,0,0.1,0,76.5,9.5,27,1.55,0,1.3,76.4,,,
+1422,Viennoiseries et brioches,beignet e la confiture,361,6.1,16.6,4.57,46.1,19.2,1.2,329,29.7,12.9,2.1,0,0,28.9,,,
+1423,Viennoiseries et brioches,beignet aux fruits,297,5.3,16.1,0.248,31.5,8.34,2.5,326,25.7,12,2.3,0.04,0.8,43.5,,,
+1424,Viennoiseries et brioches,beignet nature,400,6.35,22.1,7.2,42.8,13.7,2.17,386,49.2,17.6,2.2,0,0.83,25.4,,,
+1425,Viennoiseries et brioches,"brioche, de boulangerie traditionnelle",375,9.6,15.8,8.51,47.4,0,2.55,528,164,22.2,"< 1,17",0,"< 0,2",23,,,
+1426,Viennoiseries et brioches,"brioche, preemballee",365,7.8,14.8,7.41,49.6,8.6,0.99,454,32.8,18.9,1.33,0.05,"< 0,2",25.8,,,
+1427,Viennoiseries et brioches,"brioche, sans precision",411,9.9,21.2,7.21,44.9,5,"< 0,5",466,41.9,18.8,1.65,"< 0,5","< 0,5",21.7,,,
+1428,Viennoiseries et brioches,"cake sale (garniture : fromage, legumes, viande, poisson, volaille, etc.)",290,11.9,20,4.01,14.8,0.962,1.8,572,170,16.1,1.3,1.85,0.652,49.1,,,
+1429,Viennoiseries et brioches,chausson aux pommes,345,3.35,20.4,12.9,36.6,10.4,1,270,51,10,0.98,5.36,0.32,37.6,,,
+1430,Viennoiseries et brioches,chouquette,395,9.34,21.8,11.7,38.7,0.43,3.45,382,36.4,14,1.6,0,"< 0,2",22.9,,,
+1431,Viennoiseries et brioches,"croissant au beurre, artisanal",437,7.8,25.1,16.8,42.7,5.22,2.92,471,49,18.8,0.8,0.2,0.73,19.9,,,
+1432,Viennoiseries et brioches,"croissant aux amandes, artisanal",400,7.1,22.2,11.7,39.8,14.4,4.9,223,44.7,29.7,0.7,"< 0,5","< 0,5",23.9,,,
+1433,Viennoiseries et brioches,croissant ordinaire ou au beurre,413,6.92,20.8,10.7,47.7,3.69,2.5,544,50.1,20,0.98,0,1.5,20.3,,,
+1434,Viennoiseries et brioches,"croissant ordinaire, artisanal",418,8.8,22.8,11.1,40.9,4.07,5.1,582,39,18.5,0.92,0.04,"< 0,5",20.7,,,
+1435,Viennoiseries et brioches,"fougasse, garnie",317,9.68,11.6,2.45,41.8,1.59,3.2,639,118,23.7,1.56,0.1,0,31.3,,,
+1436,Viennoiseries et brioches,"muffin, aux myrtilles ou au chocolat",392,7.55,18.2,6.01,48.7,2.6,1.71,293,71.4,30.4,1.9,0,"< 0,42",22.2,,,
+1437,Viennoiseries et brioches,"pain au chocolat feuillete, artisanal",414,6.9,21.1,8.05,47.4,15.3,2.1,504,38,30.4,3.14,0,0.1,20.8,,,
+1438,Viennoiseries et brioches,"pain au lait, artisanal",390,9.3,18.6,11,42.9,2.76,5.3,488,52.6,19,1.1,0,"< 0,2",22.1,,,
+1439,Viennoiseries et brioches,pain aux raisins (viennoiserie),342,6.4,11.8,6.77,50.9,33.2,2.05,350,56.5,18.6,0.77,0,"< 0,2",27.4,,,
+1440,Viennoiseries et brioches,pain brioche ou viennois,357,8.2,13,8.49,49.5,1.9,3.1,525,42.5,21.5,1.1,0,"< 0,2",24.5,,,
+1441,Vins,champagne,81.7,0.3,0,0,2.81,1.4,0,1.93,7.14,7.96,0.107,0,0,86.8,,,
+1442,Vins,petillant de fruits,66.9,0.07,0,0,6.17,6.17,0,5,6,7,0.4,0,0,87.6,,,
+1443,Vins,vin blanc 11°,77.3,0.076,0,0,3.86,0.53,0,1.7,5.64,5.72,0.59,0,0,87.1,,,
+1444,Vins,vin blanc mousseux,72.1,0.167,0,0,1.98,1.98,0,1.4,9.16,5.28,0.8,0,0,88.6,,,
+1445,Vins,vin doux,136,0.137,0,0,9.81,9.81,0,6.7,7.65,10.7,0.52,0,0,76,,,
+1446,Vins,vin rose 11°,70.6,0.15,0,0,1.75,0,0,4,12,7,0.95,0,0,88.9,,,
+1447,Vins,vin rouge 10°,80.1,0.2,0,0,3.2,0,0,3.56,7.52,8.03,0.757,0,0,87,,,
+1448,Vins,vin rouge 11°,78.2,0.066,0,0,4.08,0.48,0,1.01,5.42,6.93,0.58,0,0,86.8,,,
+1449,Vins,vin rouge 12°,79,0.142,0,0,2.8,0.41,0,1.2,6.04,6.93,0.715,0,0,87.2,,,
+1450,Vins,vin rouge 13°,73.3,0.1,0,0,0.2,0.2,0,3.1,6.36,8.95,0.9,0,0,89.1,,,
+1451,Vins,vin rouge 9°,52.8,0.2,0,0,0.4,0,0,0,0,0,0,0,0,92,,,
+1452,Volailles,"caille, viande et peau, cuite",198,25.1,10.9,2.83,0,0,0,52,15,22,4.43,2.3,0.2,60,,,
+1453,Volailles,"canard, magret, cuit e la poele",205,26.7,10.9,2.85,0,0.6,0,435,5,31.2,4.8,3.5,0.93,62.9,,,
+1454,Volailles,"canard, viande retie",194,23.3,11.2,3.36,0,0,0,155,6.78,35.8,3.36,0,0.1,63.1,,,
+1455,Volailles,"dinde, escalope, crue",106,23.8,1.11,0.4,0,0,0,73.7,9.36,29.4,0.969,0,0.3,74.2,,,
+1456,Volailles,"dinde, escalope, sautee",127,28.5,1.44,0.505,0,0,0,87.5,10.5,44.4,0.511,0.75,"< 0,5",66.3,,,
+1457,Volailles,"dinde, viande, retie",161,26.4,1.74,0.509,0,0,0,544,21.6,44.3,1.8,0,0.2,59,,,
+1458,Volailles,"faisan, viande, retie",238,32.4,12.1,3.91,0,0,0,43,16,22,1.43,2.3,0.15,54.2,,,
+1459,Volailles,"oie, viande, retie",274,29.1,17.5,4.56,0,0,0,113,12,28,3.74,0,0.1,52,,,
+1460,Volailles,"pigeon, viande, retie",213,23.9,13,3.74,0,0,0,57,17,26,5.91,2.9,0.15,62,,,
+1461,Volailles,"poule, viande et peau, bouillie",319,25.4,24.2,5.59,0,0,0,75.5,11.5,19.5,1.37,0,0.2,49.5,,,
+1462,Volailles,"poule, viande, bouillie",229,30.4,11.9,2.92,0,0,0,78,13,22,1.43,0,0.1,56.4,,,
+1463,Volailles,"poulet, blanc, sans peau, cuit",121,26.2,1.76,0.593,0,0.35,0,415,13.6,26.5,0.4,2.6,0.0667,72.5,,,
+1464,Volailles,"poulet, cuisse, viande et peau, reti",190,26,9.57,2.97,0,0,0,103,14.5,25.1,1.2,3,"< 0,5",65.7,,,
+1465,Volailles,"poulet, cuisse, viande, bouilli",191,26.2,9.6,2.26,0,0,0,90,5.8,26.2,1.2,2.2,"< 0,5",64.1,,,
+1466,Volailles,"poulet, manchons marines et retis",213,22.4,12.6,3.16,2.1,0,0.9,674,34.1,18.4,1.1,1.4,0.4,60.2,,,
+1467,Volailles,"poulet, viande et peau, reti",205,28.8,9.88,2.71,0,0,0,121,19.4,39.6,0.694,1.3,0.517,59.7,,,
+1468,Yaourts et specialites laitieres type yaourts,"lait fermente e boire au lait demi0ecreme et au l. casei et/ou au l. acidophilus, nature",74.7,2.7,1.41,0.948,12.1,12.1,0,26.3,96.7,7.8,"< 0,1","< 0,5","< 0,5",82.2,,,
+1469,Yaourts et specialites laitieres type yaourts,"lait fermente e boire, au bifidus, areme fruits",71.3,3.1,0.9,0.181,12,0,0,27,113,6.33,0.03,0,0,82.2,,,
+1470,Yaourts et specialites laitieres type yaourts,"lait fermente e boire, maigre, nature",54.7,8.6,0.767,0.484,2.78,2.78,0,51.6,118,10.2,< 1,1.25,0,86.1,,,
+1471,Yaourts et specialites laitieres type yaourts,"lait fermente au lait entier au bifidus, aromatise, sucre",93.6,3.4,2.99,1.9,12.6,11.4,0,47.7,122,5.37,< 1,1,0.3,79.2,,,
+1472,Yaourts et specialites laitieres type yaourts,"lait fermente au lait entier au bifidus, aux fruits, sucre",107,3.65,3.1,1.83,15.3,12.7,0.229,64,121,1.24,0,0,0,75.2,,,
+1473,Yaourts et specialites laitieres type yaourts,"lait fermente au lait entier au bifidus, nature",66.2,3.59,3.37,2.27,4.72,4.63,0,47.1,138,8.61,0.07,"< 0,5","< 0,5",86.5,,,
+1474,Yaourts et specialites laitieres type yaourts,"specialite laitiere au lait entier, au bifidus, aux fruits, sucree, source de fibres",98.9,3.31,3.19,2.22,13.4,12.4,0.3,48.4,120,0.598,0,0,0,78,,,
+1475,Yaourts et specialites laitieres type yaourts,"specialite laitiere ou yaourt 0%, aromatisee, sucree",55,4.3,0.163,0.0838,8.41,6.51,0,53,152,0,0,0,0,85.2,,,
+1476,Yaourts et specialites laitieres type yaourts,"specialite laitiere ou yaourt 0%, aux cereales ou muesli",58.8,4.6,1.08,0.186,6.87,5.65,0.3,67,130,13.9,0.42,3,0,85.7,,,
+1477,Yaourts et specialites laitieres type yaourts,"specialite laitiere ou yaourt 0%, aux fruits, edulcore",42.1,4.3,0.32,0.0442,4.43,4.26,0.816,71.6,135,5.35,0.0184,"< 0,5",0.368,88.3,,,
+1478,Yaourts et specialites laitieres type yaourts,"specialite laitiere ou yaourt 0%, aux fruits, sucree",86.1,3.6,"< 0,37","< 0,13",16.5,8.83,0.65,74.5,144,11.5,0.15,< 1,0.01,77,,,
+1479,Yaourts et specialites laitieres type yaourts,"specialite laitiere ou yaourt 0%, nature",42.4,4.33,"< 0,309",0.159,5.13,4.8,0,53.7,149,12.8,0.0586,< 1,0.005,88.1,,,
+1480,Yaourts et specialites laitieres type yaourts,"specialite laitiere ou yaourt au lait entier, avec creme, aromatisee, sucree",130,3.82,6.04,3.74,14.3,12.8,0,48,112,10.2,< 1,0,0.7,74.2,,,
+1481,Yaourts et specialites laitieres type yaourts,"specialite laitiere ou yaourt au lait entier, avec creme, nature",97,3.8,6.9,4.28,4.26,4.26,0,59.4,133,11.8,< 1,0,0.6,83.3,,,
+1482,Yaourts et specialites laitieres type yaourts,"yaourt e boire, au lait demi0ecreme ou partiellement ecreme, aromatise, sucre",84.2,2.68,1.28,0.832,14.8,12.7,0,38.4,111,6.34,0,0,0,79.8,,,
+1483,Yaourts et specialites laitieres type yaourts,"yaourt e boire, au lait demi0ecreme ou partiellement ecreme, aux fruits, sucre",85.3,2.76,1.77,0.872,13.9,11.1,0,41,111,5.3,0.065,0,0,79.8,,,
+1484,Yaourts et specialites laitieres type yaourts,"yaourt e boire, au lait demi0ecreme, aux edulcorants",46.5,3.1,1.7,0.624,4,0,0,47.5,112,11,0.1,0,0,84.4,,,
+1485,Yaourts et specialites laitieres type yaourts,"yaourt au lait de chevre partiellement ecreme, nature",59.7,3.5,3.8,2.33,2.2,0,0,39,120,14,0.2,1,0,88.7,,,
+1486,Yaourts et specialites laitieres type yaourts,"yaourt au lait entier, aromatise, sucre",97.2,3.18,3.04,0,13.6,11.5,0,45,119,10.9,0,0,0,78.4,,,
+1487,Yaourts et specialites laitieres type yaourts,"yaourt au lait entier, aux fruits, sucre",103,3.51,2.81,1.86,15.2,12.7,0.0971,44.9,115,9.03,0.125,< 1,0.04,76.7,,,
+1488,Yaourts et specialites laitieres type yaourts,"yaourt au lait entier, avec creme, aux pepites ou copeaux de chocolat, sucre",130,3.6,5.43,3.12,15.9,15.7,0.2,43,120,14,0.3,0.2,0.1,73.1,,,
+1489,Yaourts et specialites laitieres type yaourts,"yaourt au lait entier, nature",65,4.04,3.94,2,2.63,2.63,0,51.6,138,12,0.1,< 1,0.04,87.6,,,
+1490,Yaourts et specialites laitieres type yaourts,"yaourt au lait entier, nature, brasse",68,4.44,3.23,2.25,4.63,4.63,0,67.3,167,15.5,0.25,"< 0,5",0,85.9,,,
+1491,Yaourts et specialites laitieres type yaourts,"yaourt au lait entier, nature, sucre",93.4,3.31,3.01,2.07,12.6,12.6,0,48,116,12,0.23,"< 0,5","< 0,5",79.3,,,
+1492,Yaourts et specialites laitieres type yaourts,"yaourt au lait partiellement ecreme, aromatise, sucre",92.2,3.55,1.12,0.663,16.3,13.5,0,50.4,125,7.2,0.0589,< 1,0.779,77.4,,,
+1493,Yaourts et specialites laitieres type yaourts,"yaourt au lait partiellement ecreme, aux fruits, sucre",94.4,4.3,1.71,0.86,14.6,14.6,0.4,58.3,114,11.9,0.085,0.05,0.0734,80.7,,,
+1494,Yaourts et specialites laitieres type yaourts,"yaourt au lait partiellement ecreme, nature",47.4,4.01,0.994,0.659,4.93,4.82,0,53.5,141,10.2,0.13,"< 0,5",0,88.6,,,
+1495,Yaourts et specialites laitieres type yaourts,"yaourt au lait partiellement ou demi0ecreme, nature, sucre",74.2,3.51,0.743,0.44,12.7,10.5,0,50.1,136,7.6,0,0,0,81.2,,,
+1496,Yaourts et specialites laitieres type yaourts,"yaourt ou lait fermente au bifidus, au lait entier, aux cereales et/ou muesli",92.3,3.9,3.78,2.5,9.09,8.28,1.84,51.2,126,3.25,0.192,0.55,0.0665,79.7,,,

@@ -1,0 +1,8 @@
+nutriment,energie,proteines,lipides,dontAGS,glucides,sucre,eau,fibres,sodium,calcium,magnesium,fer,vitamineC,vitamineD
+unite,kcal,g,g,g,g,g,g,g,g,mg,mg,mg,ug,ug
+min_h,2700,74,90,,338,,2500,30,2.358,900,420,9,110,5
+max_h,,101,105,24,371,68,,,3.144,,,,,
+target_h,2700,74,105,24,338,68,2500,30,2.358,900,420,9,110,5
+min_f,2200,60,73,19.5,275,55,2000,30,2.358,900,360,16,110,5
+max_f,,82,85,19.5,302,55,,,,,,,,
+target_f,2200,60,85,19.5,275,55,2000,30,3.144,900,360,16,110,5
