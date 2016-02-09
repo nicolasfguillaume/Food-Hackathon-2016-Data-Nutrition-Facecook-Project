@@ -6,6 +6,6 @@
 
 • Final presentation to the jury: http://prezi.com/vx4iebrgi1_l/?utm_campaign=share&utm_medium=copy
 
-
+![capture app](https://github.com/nicolasfguillaume/wifi-web-radio-iot-raspberrypi/blob/master/wifi-radio.jpg)
 
 http://www.foodhackathon.fr
