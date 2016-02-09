@@ -4,6 +4,8 @@
 
 • Worked specifically on identifying the nutrients deficiency or excess, based on a list of foods, for a given day. Then next step is to implement a recommender system to propose the most suitable recipe.
 
+• Final presentation to the jury: http://prezi.com/vx4iebrgi1_l/?utm_campaign=share&utm_medium=copy
+
 
 
 http://www.foodhackathon.fr
