@@ -1,4 +1,4 @@
-# food-hackathon-2016 #data #nutrition #health
+# Food Hackathon 2016 #data #nutrition - FACECOOK project
 
 • Within a team of 5, created from scratch a social network ("Facecook") for cooking recipes where users can record their meals and then recipes are recommended to the users, based on their own food preferences, in order to help them to keep their nutrients (proteins, fats, vitamins...) on track.
 
